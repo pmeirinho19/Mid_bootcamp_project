@@ -1,0 +1,4845 @@
+popular_ranking,artist_name,decade,genre
+1,radiohead,90's,rock
+2,radiohead,00's,rock
+3,pink floyd,70's,rock
+4,my bloody valentine,90's,rock
+5,kanye west,10's,pop
+6,radiohead,00's,rock
+7,pink floyd,70's,rock
+8,neutral milk hotel,90's,rock
+9,radiohead,90's,rock
+10,kendrick lamar,10's,jazz
+11,the velvet underground & nico,60's,rock
+12,king crimson,60's,rock
+13,the beatles,60's,rock
+14,the beatles,60's,rock
+15,nirvana,90's,rock
+16,the beatles,60's,rock
+17,kendrick lamar,10's,hip-hop
+18,david bowie,70's,rock
+19,joy division,70's,rock
+20,kanye west,10's,hip-hop
+21,radiohead,00's,rock
+22,death grips,10's,hip-hop
+23,madvillain,00's,hip-hop
+24,arcade fire,00's,rock
+25,pink floyd,70's,rock
+26,talking heads,80's,rock
+27,pink floyd,70's,rock
+28,kanye west,00's,pop
+29,the beach boys,60's,pop
+30,black sabbath,70's,rock
+31,the beatles,60's,rock
+32,the smiths,80's,pop
+33,godspeed you black emperor!,00's,rock
+34,led zeppelin,70's,rock
+35,"tyler, the creator",10's,soul_funk
+36,pixies,80's,rock
+37,radiohead,00's,rock
+38,kanye west,10's,pop
+39,the beatles,60's,rock
+40,slint,90's,rock
+41,nirvana,90's,rock
+42,kanye west,00's,pop
+43,the strokes,00's,rock
+44,kanye west,00's,pop
+45,nas,90's,hip-hop
+46,frank ocean,10's,pop
+47,kendrick lamar,10's,hip-hop
+48,"tyler, the creator",10's,hip-hop
+49,the doors,60's,rock
+50,metallica,80's,metal
+51,kids see ghosts,10's,rock
+53,miles davis,50's,jazz
+54,nick drake,70's,folk
+55,radiohead,10's,rock
+56,the cure,80's,rock
+57,kanye west,00's,electronic
+58,weezer,90's,rock
+59,slowdive,90's,rock
+60,david bowie,70's,rock
+61,kanye west,10's,pop
+62,joy division,80's,rock
+63,aphex twin,90's,electronic
+64,the clash,70's,rock
+65,pink floyd,60's,rock
+66,björk,90's,pop
+67,led zeppelin,60's,rock
+68,sonic youth,80's,rock
+69,wu-tang clan,90's,hip-hop
+70,pink floyd,70's,rock
+71,david bowie,70's,rock
+72,metallica,80's,metal
+73,animal collective,00's,rock
+74,the beatles,60's,rock
+75,radiohead,90's,rock
+76,sufjan stevens,00's,pop
+77,dj shadow,90's,hip-hop
+78,godspeed you black emperor!,90's,rock
+79,daft punk,00's,electronic
+80,interpol,00's,rock
+81,sigur rós,90's,rock
+82,gorillaz,00's,pop
+83,danny brown,10's,hip-hop
+84,bob dylan,60's,rock
+85,led zeppelin,60's,rock
+86,david bowie,10's,rock
+87,television,70's,rock
+88,john coltrane,60's,jazz
+89,frank ocean,10's,soul_funk
+90,black sabbath,70's,rock
+91,the microphones,00's,rock
+92,a tribe called quest,90's,jazz
+93,black sabbath,70's,metal
+94,the velvet underground,60's,rock
+95,radiohead,10's,rock
+97,weezer,90's,rock
+98,pixies,80's,rock
+99,björk,90's,pop
+100,björk,00's,pop
+101,king crimson,70's,rock
+102,have a nice life,00's,rock
+103,kate bush,80's,pop
+104,cocteau twins,90's,pop
+105,the jimi hendrix experience,60's,rock
+106,nine inch nails,90's,rock
+107,led zeppelin,70's,rock
+108,elliott smith,90's,folk
+109,queens of the stone age,00's,rock
+110,kanye west,10's,hip-hop
+111,smashing pumpkins,90's,rock
+112,boards of canada,90's,electronic
+113,david bowie,70's,rock
+114,björk,90's,pop
+115,sufjan stevens,10's,folk
+116,rage against the machine,90's,metal
+117,fishmans,90's,rock
+118,the velvet underground,60's,rock
+119,metallica,80's,metal
+120,bob dylan,60's,rock
+121,metallica,90's,metal
+122,can,70's,rock
+123,yes,70's,rock
+124,the beatles,70's,rock
+125,metallica,80's,metal
+126,tool,00's,metal
+127,death grips,10's,hip-hop
+129,earl sweatshirt,10's,hip-hop
+130,jeff buckley,90's,rock
+131,burial,00's,electronic
+132,wilco,00's,rock
+133,david bowie,70's,rock
+134,death grips,10's,hip-hop
+135,the beatles,60's,rock
+136,mf doom,00's,hip-hop
+137,fleetwood mac,70's,rock
+138,american football,90's,rock
+139,gorillaz,10's,pop
+140,the cure,80's,rock
+141,swans,10's,rock
+142,arctic monkeys,00's,rock
+143,mingus,60's,jazz
+144,system of a down,00's,metal
+145,daft punk,10's,electronic
+146,the beatles,60's,rock
+147,tame impala,10's,rock
+148,kanye west,10's,hip-hop
+149,nirvana,80's,rock
+150,daughters,10's,rock
+152,arcade fire,00's,rock
+153,the smiths,80's,pop
+154,tame impala,10's,rock
+155,pearl jam,90's,rock
+156,the jimi hendrix experience,60's,rock
+157,the flaming lips,00's,rock
+158,kendrick lamar,10's,jazz
+159,jpegmafia,10's,hip-hop
+160,arcade fire,10's,rock
+161,"tyler, the creator",10's,hip-hop
+162,j dilla,00's,hip-hop
+163,animal collective,00's,rock
+164,tool,90's,metal
+165,led zeppelin,70's,rock
+166,the smashing pumpkins,90's,rock
+167,pusha t,10's,hip-hop
+168,depeche mode,90's,electronic
+169,bob dylan,70's,rock
+170,frank zappa,60's,rock
+171,weyes blood,10's,pop
+172,miles davis,70's,jazz
+173,tom waits,80's,rock
+174,marvin gaye,70's,soul_funk
+175,pink floyd,70's,rock
+176,slayer,80's,metal
+177,kendrick lamar,10's,hip-hop
+178,the beatles,60's,rock
+179,talking heads,70's,rock
+180,car seat headrest,10's,rock
+181,michael jackson,80's,pop
+182,the flaming lips,90's,rock
+183,"black country, new road",10's,rock
+184,talk talk,90's,rock
+185,lcd soundsystem,00's,rock
+186,beach house,10's,pop
+187,aphex twin,90's,electronic
+188,led zeppelin,70's,rock
+189,the who,70's,rock
+190,beach house,10's,pop
+191,brockhampton,10's,pop
+192,denzel curry,10's,hip-hop
+193,eno,70's,rock
+194,my bloody valentine,80's,rock
+195,neil young,70's,rock
+196,the smiths,80's,pop
+197,alice in chains,90's,rock
+198,playboi carti,10's,hip-hop
+199,death grips,10's,hip-hop
+200,megadeth,90's,metal
+201,fiona apple,10's,pop
+202,mgmt,10's,rock
+203,love,60's,rock
+204,jay-z & kanye west,10's,pop
+205,belle and sebastian,90's,pop
+206,flying lotus,10's,electronic
+207,oasis,90's,rock
+208,freddie gibbs & madlib,10's,hip-hop
+209,jpegmafia,10's,hip-hop
+210,swans,90's,rock
+211,brockhampton,10's,pop
+212,pavement,90's,rock
+214,the stooges,70's,rock
+215,talk talk,80's,rock
+216,charli xcx,10's,electronic
+217,david bowie,70's,rock
+218,lou reed,70's,rock
+219,genius/gza,90's,hip-hop
+220,sweet trip,00's,rock
+221,modest mouse,90's,rock
+222,iron maiden,80's,metal
+223,miles davis,60's,jazz
+224,talking heads,70's,rock
+225,the stone roses,80's,rock
+226,bon iver,00's,folk
+227,brockhampton,10's,pop
+228,deafheaven,10's,metal
+229,fleet foxes,00's,folk
+230,leonard cohen,60's,folk
+231,pink floyd,60's,rock
+232,prince and the revolution,80's,rock
+233,eminem,00's,hip-hop
+234,the white stripes,00's,rock
+235,boards of canada,00's,electronic
+236,can,70's,rock
+237,new order,80's,rock
+238,travis scott,10's,hip-hop
+239,modest mouse,00's,rock
+240,yes,70's,rock
+241,nick drake,60's,folk
+242,pavement,90's,rock
+243,death grips,10's,hip-hop
+244,sonic youth,90's,rock
+245,swans,10's,rock
+246,bob dylan,60's,rock
+247,run the jewels,10's,hip-hop
+248,black midi,10's,rock
+249,burzum,90's,metal
+250,portishead,00's,rock
+251,sophie,10's,electronic
+252,bob dylan,60's,folk
+253,outkast,90's,hip-hop
+254,joanna newsom,00's,folk
+255,the rolling stones,70's,rock
+256,can,70's,rock
+257,neil young,70's,rock
+258,guns n' roses,80's,rock
+259,deftones,00's,metal
+260,the strokes,00's,rock
+261,wire,70's,rock
+262,a tribe called quest,90's,jazz
+263,the beatles,60's,rock
+265,the doors,60's,rock
+266,spiritualized®,90's,rock
+267,cocteau twins,80's,pop
+268,mgmt,00's,rock
+269,the velvet underground,70's,rock
+270,the mars volta,00's,rock
+271,green day,00's,rock
+272,coldplay,00's,rock
+273,captain beefheart & his magic band,60's,rock
+274,at the drive-in,00's,rock
+275,sex pistols,70's,rock
+276,sigur rós,00's,rock
+277,king crimson,70's,rock
+278,r.e.m.,90's,rock
+279,my bloody valentine,10's,rock
+280,kraftwerk,70's,electronic
+281,queen,70's,rock
+282,animal collective,00's,rock
+283,red hot chili peppers,90's,rock
+284,the rolling stones,60's,rock
+285,"tyler, the creator",10's,hip-hop
+286,the weeknd,10's,soul_funk
+287,ac/dc,80's,rock
+288,iron maiden,80's,metal
+289,the zombies,60's,pop
+290,black sabbath,70's,rock
+291,lana del rey,10's,pop
+292,black sabbath,70's,rock
+293,green day,90's,rock
+294,lcd soundsystem,10's,rock
+295,lorde,10's,pop
+296,coldplay,00's,rock
+297,joni mitchell,70's,folk
+298,dinosaur,80's,rock
+299,danny brown,10's,hip-hop
+300,the jimi hendrix experience,60's,rock
+301,the jesus and mary chain,80's,rock
+302,daft punk,90's,electronic
+303,iggy and the stooges,70's,rock
+304,earl sweatshirt,10's,hip-hop
+305,the notorious b.i.g.,90's,hip-hop
+306,billie eilish,10's,pop
+307,nick drake,70's,folk
+308,air,90's,pop
+309,red hot chili peppers,90's,rock
+310,dead kennedys,80's,rock
+311,the smiths,80's,pop
+312,genesis,70's,rock
+313,arctic monkeys,00's,rock
+314,opeth,00's,metal
+315,arctic monkeys,10's,rock
+316,brian eno,70's,electronic
+317,rush,80's,rock
+318,animal collective,00's,rock
+319,tool,00's,rock
+320,the strokes,10's,rock
+321,grimes,10's,electronic
+322,muse,00's,rock
+323,car seat headrest,10's,rock
+324,sonic youth,80's,rock
+325,travis scott,10's,pop
+326,gang of four,70's,rock
+327,beck,90's,rock
+328,grimes,10's,electronic
+329,the rolling stones,70's,rock
+330,aphex twin,90's,electronic
+331,king crimson,80's,rock
+332,brand new,00's,rock
+333,beastie boys,80's,hip-hop
+334,the doors,70's,rock
+335,swans,80's,rock
+336,"black country, new road",10's,rock
+337,the beatles,60's,rock
+338,freddie gibbs & madlib,10's,hip-hop
+339,r.e.m.,80's,rock
+340,u2,80's,rock
+341,talking heads,70's,rock
+342,fka twigs,10's,pop
+343,phoebe bridgers,10's,folk
+344,the smiths,80's,pop
+345,death,90's,metal
+346,linkin park,00's,rock
+347,talking heads,80's,soul_funk
+348,godspeed you! black emperor,00's,rock
+349,carly rae jepsen,10's,pop
+350,outkast,00's,hip-hop
+351,beach house,10's,pop
+352,van morrison,60's,folk
+353,mount eerie,10's,folk
+354,mf doom,90's,hip-hop
+355,john coltrane,60's,jazz
+356,electric wizard,00's,metal
+357,converge,00's,metal
+358,fleet foxes,10's,folk
+359,nine inch nails,80's,rock
+360,soundgarden,90's,rock
+361,run the jewels,10's,hip-hop
+362,playboi carti,10's,hip-hop
+363,little simz,10's,hip-hop
+364,sufjan stevens,10's,pop
+365,funkadelic,70's,rock
+366,kero kero bonito,10's,pop
+367,panda bear,00's,rock
+368,patti smith,70's,rock
+369,"tyler, the creator",10's,hip-hop
+370,my chemical romance,00's,rock
+371,muse,00's,rock
+372,ramones,70's,rock
+373,david bowie,80's,rock
+374,a tribe called quest,10's,jazz
+375,outkast,90's,hip-hop
+376,vampire weekend,00's,rock
+377,fugazi,90's,rock
+378,pink floyd,90's,rock
+379,the national,00's,rock
+380,duster,90's,rock
+381,tame impala,10's,rock
+382,charli xcx,10's,electronic
+384,yo la tengo,90's,rock
+385,death grips,10's,hip-hop
+386,the clash,70's,rock
+387,aphex twin,00's,electronic
+388,mac demarco,10's,pop
+389,"tyler, the creator",10's,hip-hop
+390,the stooges,60's,rock
+391,metallica,00's,metal
+392,earl sweatshirt,10's,hip-hop
+393,violent femmes,80's,rock
+394,kyuss,90's,rock
+395,kraftwerk,70's,electronic
+396,oasis,90's,rock
+397,bruce springsteen,70's,rock
+398,deerhunter,10's,rock
+399,queens of the stone age,10's,rock
+400,blur,90's,rock
+401,suicide,70's,rock
+402,built to spill,90's,rock
+403,vince staples,10's,hip-hop
+405,kate bush,80's,pop
+406,injury reserve,10's,hip-hop
+407,modest mouse,00's,rock
+408,sigur rós,00's,rock
+409,the cure,80's,rock
+410,muse,00's,rock
+411,neil young,70's,rock
+412,avey tare and panda bearavey tarepanda bear,00's,rock
+413,against all logic,10's,electronic
+414,run the jewels,10's,hip-hop
+415,queens of the stone age,00's,rock
+416,pink floyd,60's,rock
+417,franz ferdinand,00's,rock
+418,king gizzard and the lizard wizard,10's,rock
+419,iron maiden,80's,metal
+420,childish gambino,10's,soul_funk
+421,brockhampton,10's,hip-hop
+422,the rolling stones,60's,rock
+423,the white stripes,00's,rock
+424,eminem,90's,hip-hop
+425,stevie wonder,70's,soul_funk
+426,oneohtrix point never,10's,electronic
+427,neutral milk hotel,90's,rock
+428,ride,90's,rock
+429,neil young with crazy horseneil youngcrazy horse,60's,rock
+430,ween,90's,rock
+431,beach house,10's,rock
+432,kero kero bonito,10's,electronic
+433,tool,90's,metal
+434,sonic youth,80's,rock
+435,jethro tull,70's,rock
+436,godspeed you! black emperor,10's,rock
+437,eno,70's,rock
+438,the antlers,00's,rock
+439,david bowie,70's,rock
+440,elliott smith,90's,pop
+441,bon iver,10's,pop
+442,herbie hancock,70's,jazz
+443,public enemy,80's,hip-hop
+444,stevie wonder,70's,soul_funk
+445,idles,10's,rock
+446,the kinks,60's,rock
+447,the dismemberment plan,90's,rock
+448,danny brown,10's,hip-hop
+449,slowdive,10's,rock
+450,swans,90's,rock
+451,denzel curry x kenny beatsdenzel currykenny beats,10's,hip-hop
+452,nick cave and the bad seeds,90's,rock
+453,bowie,70's,rock
+454,the mars volta,00's,rock
+455,george harrison,70's,rock
+456,deep purple,70's,rock
+457,pixies,90's,rock
+458,tom waits,80's,rock
+459,boris,00's,rock
+460,charles mingus,50's,jazz
+461,eminem,00's,hip-hop
+462,john coltrane,50's,jazz
+463,yves tumor,10's,rock
+464,the killers,00's,rock
+465,system of a down,90's,metal
+466,dua lipa,10's,pop
+467,captain beefheart and his magic band,60's,rock
+468,the cure,80's,rock
+469,dr. dre,90's,hip-hop
+470,mac miller,10's,soul_funk
+471,iron maiden,80's,metal
+472,king crimson,70's,rock
+473,system of a down,00's,metal
+474,lil ugly mane,10's,hip-hop
+475,this heat,80's,rock
+476,lana del rey,10's,pop
+477,vampire weekend,10's,pop
+478,leonard cohen,70's,folk
+479,big black,80's,rock
+480,megadeth,80's,metal
+481,unwound,00's,rock
+482,boris,00's,rock
+483,john coltrane,60's,jazz
+484,nine inch nails,90's,rock
+485,mastodon,00's,metal
+486,neu!,70's,rock
+487,the mothers of invention,60's,rock
+488,파란노을 [parannoul],10's,rock
+489,the xx,00's,pop
+490,arcade fire,10's,rock
+491,iron maiden,80's,metal
+493,jethro tull,70's,rock
+494,squid,10's,rock
+495,pink floyd,80's,rock
+496,jpegmafia,10's,hip-hop
+497,rush,70's,rock
+498,elliott smith,90's,folk
+499,black flag,80's,rock
+500,simon and garfunkel,70's,pop
+501,john lennon / plastic ono band,70's,rock
+502,run the jewels,10's,hip-hop
+503,slowdive,90's,rock
+504,jessie ware,10's,pop
+505,little simz,10's,hip-hop
+506,agalloch,00's,metal
+507,sun kil moon,10's,folk
+509,faith no more,90's,rock
+510,the national,10's,rock
+511,denzel curry,10's,hip-hop
+512,sonic youth,90's,rock
+513,hüsker dü,80's,rock
+514,freddie gibbs & the alchemist,10's,hip-hop
+515,interpol,00's,rock
+516,death grips,10's,rock
+517,lorde,10's,pop
+518,the cure,70's,rock
+519,silk sonic,10's,soul_funk
+520,mobb deep,90's,hip-hop
+521,aphex twin,90's,electronic
+522,deftones,90's,metal
+523,broken social scene,00's,rock
+524,denzel curry,10's,hip-hop
+525,coldplay,00's,rock
+526,cream,60's,rock
+527,explosions in the sky,00's,rock
+528,the cure,80's,rock
+529,mgmt,10's,rock
+530,metallica,90's,rock
+531,flying lotus,10's,jazz
+532,pulp,90's,rock
+533,weezer,00's,rock
+534,the who,60's,rock
+535,james blake,10's,pop
+536,mac demarco,10's,pop
+537,minutemen,80's,rock
+538,sufjan stevens,00's,folk
+539,metallica,00's,metal
+540,swans,90's,rock
+541,gorillaz,10's,pop
+542,brockhampton,10's,pop
+543,sweet trip,00's,pop
+544,the microphones,00's,folk
+545,kid cudi,00's,pop
+546,devo,70's,rock
+547,crystal castles,00's,electronic
+548,porcupine tree,00's,rock
+549,bloc party,00's,rock
+550,mastodon,00's,metal
+551,steely dan,70's,rock
+552,coil,00's,electronic
+553,fka twigs,10's,pop
+554,swans,80's,rock
+555,ac/dc,70's,rock
+556,death,90's,metal
+557,rina sawayama,10's,pop
+558,low,90's,rock
+559,clipping.,10's,hip-hop
+560,ulver,90's,metal
+561,the doors,70's,rock
+562,iron maiden,80's,metal
+563,black sabbath,80's,metal
+564,dream theater,90's,metal
+565,parquet courts,10's,rock
+566,kate bush,70's,pop
+567,linkin park,00's,rock
+568,aphex twin,10's,electronic
+569,genesis,70's,rock
+570,björk,00's,pop
+571,c418,10's,electronic
+572,prodigy,90's,electronic
+573,red house painters,90's,rock
+574,björk,10's,pop
+575,judas priest,90's,metal
+576,coldplay,00's,rock
+577,fiona apple,10's,pop
+578,the replacements,80's,rock
+579,burzum,90's,metal
+580,car seat headrest,10's,rock
+581,tame impala,10's,rock
+582,deltron 3030,00's,hip-hop
+583,michael jackson,70's,pop
+584,n.w.a,80's,hip-hop
+585,comus,70's,folk
+586,공중도둑 [mid-air thief],10's,rock
+587,beastie boys,80's,hip-hop
+588,beck,00's,rock
+589,king gizzard & the lizard wizard,10's,rock
+590,slowdive,90's,rock
+591,iggy pop,70's,rock
+592,black sabbath,70's,rock
+593,kraftwerk,70's,electronic
+594,pink floyd,70's,rock
+595,childish gambino,10's,hip-hop
+596,bob dylan,60's,folk
+597,jefferson airplane,60's,rock
+598,yes,70's,rock
+599,boris,00's,rock
+600,the knife,00's,electronic
+601,metallica,90's,rock
+602,opeth,90's,metal
+603,rage against the machine,90's,metal
+604,drake,10's,pop
+605,death,90's,metal
+606,godspeed you! black emperor,10's,rock
+607,mogwai,90's,rock
+608,u2,90's,rock
+609,pj harvey,10's,rock
+610,lauryn hill,90's,soul_funk
+611,mos def,90's,hip-hop
+612,creedence clearwater revival,70's,rock
+613,ecco2k,10's,pop
+614,vampire weekend,10's,pop
+615,rage against the machine,90's,metal
+616,opeth,00's,rock
+617,slayer,90's,metal
+618,snoop doggy dogg,90's,hip-hop
+619,king crimson,70's,rock
+620,clipping.,10's,hip-hop
+621,david bowie,60's,rock
+622,iron maiden,80's,metal
+623,david bowie,70's,rock
+624,janelle monáe,10's,pop
+625,red hot chili peppers,00's,rock
+626,pink floyd,80's,rock
+627,wire,70's,rock
+628,the cure,80's,rock
+629,galaxie 500,80's,rock
+630,jay-z,00's,soul_funk
+631,oneohtrix point never,10's,electronic
+632,kraftwerk,80's,electronic
+633,iggy pop,70's,rock
+634,the strokes,00's,rock
+635,the microphones,10's,folk
+636,swans,10's,rock
+637,candy claws,10's,rock
+638,modest mouse,90's,rock
+639,david bowie,70's,rock
+640,fiona apple,90's,rock
+641,my chemical romance,00's,rock
+642,angelo badalamenti,90's,jazz
+643,the doors,60's,rock
+644,amy winehouse,00's,pop
+645,the avalanches,10's,rock
+646,mitski,10's,rock
+647,boredoms,90's,rock
+648,deerhunter,00's,rock
+649,tim hecker,10's,electronic
+650,death cab for cutie,00's,rock
+651,the weeknd,10's,pop
+652,primal scream,90's,rock
+653,the dave brubeck quartet,50's,jazz
+654,guided by voices,90's,rock
+655,brian eno,70's,rock
+656,bruce springsteen,80's,folk
+657,big black,80's,rock
+658,deep purple,70's,rock
+659,david bowie,80's,rock
+660,pharoah sanders,60's,jazz
+661,mr. bungle,90's,rock
+662,of montreal,00's,rock
+663,system of a down,00's,metal
+664,a$ap rocky,10's,hip-hop
+665,jay-z,90's,hip-hop
+666,anderson .paak,10's,soul_funk
+667,viktor vaughn,00's,hip-hop
+668,blur,90's,rock
+669,robert wyatt,70's,rock
+670,king crimson,70's,rock
+671,autechre,90's,electronic
+672,built to spill,90's,rock
+673,pj harvey,00's,rock
+674,arctic monkeys,00's,rock
+675,pearl jam,90's,rock
+676,mayhem,90's,metal
+677,miles davis,60's,jazz
+678,isis,00's,metal
+679,blur,90's,rock
+680,lcd soundsystem,00's,rock
+681,refused,90's,rock
+682,bauhaus,80's,rock
+683,slayer,80's,metal
+684,pantera,90's,metal
+685,glenn branca,80's,rock
+686,pj harvey,90's,rock
+687,boards of canada,00's,folk
+688,jamie xx,10's,electronic
+689,opeth,00's,metal
+690,talk talk,80's,pop
+691,alcest,00's,rock
+692,blondie,70's,rock
+693,foo fighters,90's,rock
+694,bad brains,80's,rock
+695,t. rex,70's,rock
+696,faust,70's,rock
+697,led zeppelin,70's,rock
+698,xiu xiu,00's,electronic
+699,tom waits,90's,rock
+700,alvvays,10's,pop
+701,tim hecker,10's,electronic
+702,daft punk,00's,electronic
+703,stereolab,90's,pop
+704,sunny day real estate,90's,rock
+705,drake,10's,pop
+706,yo la tengo,00's,rock
+707,bob dylan,70's,rock
+708,d'angelo and the vanguard,10's,soul_funk
+709,sza,10's,soul_funk
+711,joanna newsom,10's,folk
+712,alice in chains,90's,rock
+713,crystal castles,10's,electronic
+714,the postal service,00's,pop
+715,the national,00's,rock
+716,against all logic,10's,electronic
+717,ornette coleman,50's,jazz
+718,john lennon,70's,rock
+719,tears for fears,80's,rock
+720,camel,70's,rock
+721,bon iver,10's,pop
+722,sufjan stevens,00's,folk
+723,2814,10's,electronic
+724,u2,80's,rock
+725,brockhampton,10's,pop
+726,the roots,90's,jazz
+727,the magnetic fields,90's,pop
+728,dream theater,90's,metal
+729,frank ocean,10's,pop
+730,elvis costello,70's,rock
+731,king krule,10's,rock
+732,bright eyes,00's,folk
+733,red hot chili peppers,00's,rock
+734,darkthrone,90's,metal
+735,injury reserve,10's,hip-hop
+736,m.i.a.,00's,hip-hop
+737,lingua ignota,10's,folk
+738,nujabes,00's,jazz
+739,prince,80's,rock
+740,arctic monkeys,10's,rock
+741,system of a down,00's,metal
+742,nick cave & the bad seeds,10's,rock
+743,magdalena bay,10's,pop
+744,grouper,00's,folk
+745,a silver mt. zion,00's,rock
+746,pavement,90's,rock
+747,van morrison,70's,rock
+748,stan getz & joão gilberto featuring antônio carlos jobim,60's,jazz
+749,pere ubu,70's,rock
+750,sleep,00's,metal
+751,jon hopkins,10's,electronic
+752,stereolab,90's,pop
+753,tom waits,70's,blues
+754,king gizzard & the lizard wizard,10's,metal
+755,giles corey,10's,rock
+756,julia holter,10's,pop
+757,the mothers of invention,60's,rock
+758,青葉市子 [ichiko aoba],10's,folk
+759,spellling,10's,pop
+760,genesis,70's,rock
+761,emperor,90's,metal
+762,agalloch,00's,metal
+763,grizzly bear,00's,pop
+764,ariel pink,10's,pop
+765,king crimson,70's,rock
+766,eno,70's,rock
+767,japanese breakfast,10's,pop
+768,belle and sebastian,90's,pop
+769,the rolling stones,60's,rock
+770,the who,70's,rock
+771,depeche mode,80's,electronic
+772,lingua ignota,10's,electronic
+773,the can,60's,rock
+774,michael jackson,80's,pop
+775,megadeth,90's,metal
+776,van halen,70's,rock
+777,soundgarden,90's,rock
+778,earl sweatshirt,10's,hip-hop
+779,slipknot,90's,metal
+781,muse,00's,rock
+782,jay-z,10's,hip-hop
+783,the beatles,60's,rock
+784,frank zappa,70's,rock
+785,a tribe called quest,90's,jazz
+786,taylor swift,10's,pop
+787,outkast,00's,pop
+788,clipping.,10's,hip-hop
+789,motörhead,80's,rock
+790,fishmans,90's,pop
+791,travis scott,10's,pop
+792,neil young,70's,rock
+793,queens of the stone age,00's,rock
+794,curtis mayfield,70's,soul_funk
+795,new order,80's,electronic
+796,eric dolphy,60's,jazz
+797,father john misty,10's,folk
+798,elliott smith,00's,pop
+799,yves tumor,10's,rock
+800,lana del rey,10's,rock
+801,jeff rosenstock,10's,rock
+802,xtc,80's,rock
+803,battles,00's,rock
+805,beyoncé,10's,pop
+806,grouper,10's,electronic
+807,muse,90's,rock
+808,nick cave and the bad seeds,90's,rock
+809,r.e.m.,90's,rock
+810,death,80's,metal
+811,nico,70's,folk
+812,raekwon,90's,hip-hop
+813,ween,00's,rock
+814,ramones,70's,rock
+815,lou reed,70's,rock
+816,bob dylan,60's,rock
+817,the pink floyd,60's,rock
+818,andrew jackson jihad,00's,rock
+819,queen,70's,rock
+820,pantera,90's,metal
+821,paul simon,80's,rock
+822,weatherday,10's,rock
+823,the strokes,10's,rock
+824,wire,70's,rock
+825,fugazi,00's,rock
+826,sonic youth,90's,rock
+827,danny brown,10's,hip-hop
+828,porcupine tree,00's,rock
+829,ariana grande,10's,pop
+830,venetian snares,00's,electronic
+831,alt-j,10's,pop
+832,kali uchis,10's,soul_funk
+833,gorillaz,10's,pop
+834,ミドリ [midori],00's,rock
+835,death,90's,metal
+836,vince staples,10's,hip-hop
+837,the modern lovers,70's,rock
+838,fleet foxes,10's,folk
+839,xiu xiu,10's,electronic
+840,mazzy star,90's,rock
+841,grimes,10's,pop
+842,bruce springsteen,80's,rock
+843,thom yorke,00's,pop
+844,pj harvey,90's,rock
+845,bark psychosis,90's,rock
+846,dr. dre,90's,hip-hop
+847,st. vincent,10's,rock
+848,d'angelo,00's,soul_funk
+850,tortoise,90's,rock
+851,rush,70's,rock
+852,lil ugly mane,10's,rock
+853,darkthrone,90's,metal
+854,gojira,00's,metal
+855,judas priest,80's,metal
+856,mastodon,00's,metal
+857,syd barrett,70's,rock
+858,genesis,70's,rock
+859,kyuss,90's,rock
+860,tool,10's,metal
+861,blink-182,90's,rock
+862,xxxtentacion,10's,rock
+863,carly rae jepsen,10's,pop
+864,nick cave and the bad seeds,80's,rock
+865,beck,90's,rock
+866,boards of canada,10's,electronic
+867,olivia rodrigo,10's,pop
+868,alice coltrane featuring pharoah sanders,70's,jazz
+869,led zeppelin,70's,rock
+870,pil,70's,rock
+871,gorillaz,10's,electronic
+872,red house painters,90's,rock
+873,dio,80's,metal
+874,porcupine tree,00's,rock
+875,the caretaker,10's,electronic
+876,soft machine,70's,rock
+877,pixies,90's,rock
+878,king geedorah,00's,hip-hop
+879,the beach boys,70's,rock
+880,weezer,10's,rock
+881,mort garson,70's,pop
+882,genesis owusu,10's,soul_funk
+883,faith no more,80's,metal
+884,drake,10's,pop
+885,the brave little abacus,10's,rock
+886,king krule,10's,rock
+887,sly & the family stone,70's,soul_funk
+888,melvins,90's,metal
+889,paul & linda mccartneypaul mccartneylinda mccartney,70's,rock
+890,bruce springsteen,70's,rock
+891,siouxsie and the banshees,80's,rock
+892,depeche mode,80's,electronic
+893,scott engel,60's,pop
+894,death,80's,metal
+895,david bowie,10's,rock
+896,mac demarco,10's,pop
+897,common,00's,hip-hop
+898,new order,80's,electronic
+899,prince,80's,soul_funk
+900,kate bush,80's,pop
+901,serge gainsbourg,70's,pop
+902,billie eilish,10's,pop
+903,rainbow,70's,rock
+904,mike oldfield,70's,rock
+905,faust,70's,rock
+906,fiona apple,90's,rock
+907,korn,90's,metal
+908,queens of the stone age,00's,rock
+909,tim hecker,00's,electronic
+910,autechre,90's,electronic
+911,arctic monkeys,10's,rock
+912,the war on drugs,10's,rock
+913,alice in chains,90's,rock
+914,thundercat,10's,soul_funk
+915,joanna newsom,00's,folk
+916,j. cole,10's,hip-hop
+917,the who,60's,rock
+918,st. vincent,10's,rock
+919,morbid angel,80's,metal
+920,william basinski,00's,electronic
+921,cannibal ox,00's,hip-hop
+922,eminem,10's,pop
+923,roxy music,70's,rock
+924,"tyler, the creator",00's,hip-hop
+925,the chameleons,80's,rock
+926,taylor swift,10's,electronic
+927,bob dylan,60's,rock
+928,the cars,70's,rock
+929,sweet trip,10's,pop
+930,oneohtrix point never,10's,electronic
+931,bob dylan,60's,folk
+932,de la soul,80's,hip-hop
+933,the weeknd,10's,soul_funk
+934,weezer,10's,rock
+935,swans,80's,rock
+936,elvis costello,70's,rock
+937,have a nice life,10's,rock
+938,king gizzard & the lizard wizard,10's,rock
+939,brand new,00's,rock
+940,nine inch nails,00's,rock
+941,lcd soundsystem,10's,rock
+942,drake,10's,pop
+943,rush,80's,rock
+944,neu!,70's,rock
+945,eminem,10's,pop
+946,wilco,90's,rock
+947,bonnie 'prince' billy,90's,folk
+948,a$ap rocky,10's,hip-hop
+949,cure,90's,rock
+950,queens of the stone age,90's,rock
+951,cocteau twins,80's,rock
+952,moby,90's,electronic
+953,eminem,00's,pop
+954,r.e.m.,80's,rock
+955,drive like jehu,90's,rock
+956,jay-z,00's,hip-hop
+957,sonic-youth,80's,rock
+958,slayer,80's,metal
+959,dire straits,80's,rock
+960,exuma,70's,folk
+961,yes,70's,rock
+962,r.e.m.,80's,rock
+963,smashing pumpkins,90's,rock
+964,echo & the bunnymen,80's,rock
+965,amon düül ii,70's,rock
+966,rush,70's,rock
+968,judas priest,80's,metal
+969,the shins,00's,pop
+970,björk,00's,pop
+971,tortoise,90's,rock
+972,daughters,10's,rock
+973,yo la tengo,90's,rock
+974,phoenix,00's,pop
+975,sun kil moon,00's,rock
+976,pearl jam,90's,rock
+977,flying lotus,00's,electronic
+978,destroyer,10's,pop
+979,slipknot,00's,metal
+980,bladee,10's,rock
+982,janelle monáe,10's,pop
+983,a$ap rocky,10's,hip-hop
+984,father john misty,10's,rock
+985,magnolia electric co.,00's,rock
+986,boris,00's,metal
+987,opeth,00's,metal
+988,judas priest,70's,metal
+989,steely dan,70's,rock
+990,the shins,00's,pop
+991,belle & sebastian,90's,pop
+992,iron maiden,00's,metal
+993,elliott smith,90's,folk
+994,guns n' roses,90's,rock
+995,outkast,90's,hip-hop
+996,the verve,90's,rock
+997,the doors,60's,rock
+998,ulver,00's,electronic
+999,the national,10's,rock
+1001,slayer,80's,metal
+1002,swans,10's,rock
+1003,tangerine dream,70's,electronic
+1004,nico,60's,folk
+1005,the kinks,60's,rock
+1006,eminem,10's,pop
+1007,black star,90's,hip-hop
+1008,descendents,80's,rock
+1009,beastie boys,90's,hip-hop
+1010,"crosby, stills, nash & young",70's,rock
+1011,queen,70's,rock
+1012,thom yorke,10's,pop
+1013,the white stripes,00's,rock
+1014,peter gabriel,80's,rock
+1015,lil uzi vert,10's,pop
+1016,macintosh plus,10's,electronic
+1018,nas,90's,hip-hop
+1019,stars of the lid,00's,electronic
+1020,doom,00's,hip-hop
+1021,dissection,90's,metal
+1022,beach house,00's,pop
+1023,bathory,80's,metal
+1024,nick cave & the bad seeds,90's,rock
+1025,curtis mayfield,70's,soul_funk
+1026,the white stripes,00's,rock
+1027,pavement,90's,rock
+1028,jai paul,10's,soul_funk
+1029,neil young with crazy horseneil youngcrazy horse,70's,rock
+1030,the kinks,60's,rock
+1031,future,10's,hip-hop
+1032,gas,00's,electronic
+1033,poppy,10's,metal
+1034,the jesus lizard,90's,rock
+1035,burial,00's,electronic
+1036,the band,60's,rock
+1037,godspeed you! black emperor,10's,rock
+1038,four tet,00's,folk
+1039,quasimoto,00's,jazz
+1040,james blake,10's,pop
+1041,2pac,90's,hip-hop
+1042,rammstein,00's,metal
+1043,big star,70's,pop
+1044,paul mccartney & wings,70's,rock
+1045,wipers,80's,rock
+1046,iron maiden,90's,metal
+1047,simon & garfunkel,60's,rock
+1048,modest mouse,00's,rock
+1049,arca,10's,pop
+1050,death from above 1979,00's,rock
+1051,dead kennedys,80's,rock
+1052,john coltrane,60's,jazz
+1053,death grips,10's,hip-hop
+1054,art blakey and the jazz messengers,50's,jazz
+1055,alvvays,10's,pop
+1056,idles,10's,rock
+1057,cryptopsy,90's,metal
+1058,alcest,10's,rock
+1059,guns n' roses,90's,rock
+1060,animal collective,10's,rock
+1061,the 13th floor elevators,60's,rock
+1062,yeah yeah yeahs,00's,rock
+1063,eminem,10's,pop
+1064,lady gaga,00's,pop
+1065,swans,10's,rock
+1066,the band,60's,rock
+1067,the black keys,10's,rock
+1068,deftones,10's,metal
+1069,neurosis,90's,metal
+1070,m83,10's,pop
+1071,the fall,80's,rock
+1072,the smashing pumpkins,90's,rock
+1073,sonic-youth,80's,rock
+1074,tim buckley,70's,rock
+1075,stereolab,90's,rock
+1076,mac miller,10's,pop
+1077,throbbing gristle,70's,electronic
+1078,ween,90's,rock
+1079,manic street preachers,90's,rock
+1082,grateful dead,70's,rock
+1083,フィッシュマンズ,90's,pop
+1084,stevie wonder,70's,soul_funk
+1085,miles davis,70's,jazz
+1086,isis,00's,metal
+1087,opeth,00's,metal
+1088,machine girl,10's,electronic
+1089,mitski,10's,rock
+1090,椎名林檎 [sheena ringo],00's,rock
+1091,björk,10's,pop
+1092,dream theater,90's,metal
+1093,atheist,90's,metal
+1094,public enemy,90's,hip-hop
+1095,shabazz palaces,10's,hip-hop
+1096,candlemass,80's,metal
+1097,the avalanches,10's,rock
+1098,bob marley & the wailersbob marleythe wailers,70's,reggae
+1099,the pop group,70's,rock
+1100,peter gabriel,80's,rock
+1101,arcade fire,10's,electronic
+1102,sparks,70's,rock
+1103,carissa's wierd,00's,rock
+1104,elton john,70's,rock
+1105,brian eno-david byrnebrian enodavid byrne,80's,rock
+1106,the jesus and mary chain,80's,rock
+1107,james blake,10's,pop
+1108,opeth,90's,metal
+1109,the moody blues with the london festival orchestra,60's,rock
+1110,angel olsen,10's,pop
+1111,os mutantes,60's,rock
+1112,weezer,00's,rock
+1113,earth,90's,metal
+1114,santana,70's,rock
+1115,porter robinson,10's,electronic
+1116,king gizzard & the lizard wizard,10's,rock
+1117,viet cong,10's,rock
+1118,cocteau twins,80's,pop
+1119,drake,10's,pop
+1120,black flag,80's,rock
+1121,deftones,10's,metal
+1122,a perfect circle,00's,rock
+1123,angel olsen,10's,rock
+1124,the kniφe,10's,electronic
+1125,opeth,90's,metal
+1126,the replacements,80's,rock
+1127,eric b. & rakim,80's,hip-hop
+1128,the flaming lips,00's,rock
+1130,townes van zandt,60's,folk
+1131,brian eno with daniel lanois & roger eno,80's,electronic
+1132,eminem,00's,hip-hop
+1133,the feelies,80's,rock
+1134,audioslave,00's,rock
+1135,clipse,00's,hip-hop
+1136,deafheaven,10's,metal
+1137,boston,70's,rock
+1139,mitski,10's,rock
+1140,courtney barnett,10's,rock
+1141,xxxtentacion,10's,rock
+1142,earl sweatshirt,10's,hip-hop
+1143,big l,90's,hip-hop
+1144,simon & garfunkel,60's,rock
+1145,sleep,90's,metal
+1146,the strokes,10's,rock
+1147,otis redding,60's,soul_funk
+1148,the black keys,10's,rock
+1149,the white stripes,00's,rock
+1150,supertramp,70's,rock
+1151,the mahavishnu orchestra with john mclaughlinmahavishnu orchestrajohn mclaughlin,70's,rock
+1152,gorguts,90's,metal
+1153,dangerdoom,00's,hip-hop
+1154,vampire weekend,10's,pop
+1155,nick cave & the bad seeds,10's,rock
+1156,deftones,10's,metal
+1157,fever ray,00's,pop
+1158,dinosaur jr,80's,rock
+1159,the comet is coming,10's,jazz
+1160,three-6 mafia,90's,hip-hop
+1161,foo fighters,90's,rock
+1162,kamasi washington,10's,jazz
+1163,queen,70's,rock
+1164,deafheaven,10's,metal
+1165,coil,80's,electronic
+1166,björk,10's,pop
+1167,arca,10's,electronic
+1168,anthrax,80's,metal
+1169,brand new,10's,rock
+1170,the police,80's,rock
+1171,ozzy osbourne,80's,rock
+1173,ghostface killah,00's,hip-hop
+1174,caroline polachek,10's,pop
+1175,shellac,90's,rock
+1176,julee cruise,80's,pop
+1177,metallica,90's,rock
+1178,the weeknd,10's,soul_funk
+1179,xiu xiu,00's,rock
+1180,creedence clearwater revival,60's,rock
+1181,noname,10's,jazz
+1182,r.e.m.,80's,rock
+1183,this heat,70's,rock
+1184,nujabes,00's,jazz
+1185,st. vincent,00's,rock
+1186,lightning bolt,00's,rock
+1187,r.a.p. ferreira,10's,jazz
+1188,creedence clearwater revival,60's,rock
+1189,fleet foxes,10's,pop
+1190,bladee,10's,hip-hop
+1191,emperor,90's,metal
+1192,2pac,90's,hip-hop
+1193,queen,70's,rock
+1194,"21 savage, offset & metro boomin",10's,hip-hop
+1195,julia holter,10's,pop
+1196,john cale,70's,pop
+1198,tv on the radio,00's,rock
+1199,iglooghost,10's,electronic
+1200,slint,80's,rock
+1201,franz ferdinand,00's,rock
+1202,stars of the lid,00's,electronic
+1203,the killers,00's,rock
+1204,elliott smith,00's,rock
+1205,the pharcyde,90's,jazz
+1206,cloud nothings,10's,rock
+1207,phoebe bridgers,10's,folk
+1208,the beach boys,60's,pop
+1209,weezer,00's,rock
+1210,ariel pink's haunted graffiti,10's,pop
+1211,new order,80's,rock
+1212,the rolling stones,60's,rock
+1213,slowthai,10's,hip-hop
+1214,sepultura,80's,metal
+1215,paramore,10's,rock
+1216,solange,10's,soul_funk
+1217,big k.r.i.t.,10's,hip-hop
+1218,megadeth,80's,metal
+1219,interpol,00's,rock
+1220,yung lean,10's,hip-hop
+1221,joanna newsom,10's,folk
+1222,sigur rós,10's,rock
+1223,between the buried and me,00's,metal
+1224,cocteau twins,80's,pop
+1225,xtc,70's,rock
+1226,billy woods & kenny segal,10's,hip-hop
+1227,caravan,70's,rock
+1228,kid cudi,10's,pop
+1229,low,10's,rock
+1230,megadeth,80's,metal
+1231,godflesh,80's,metal
+1232,oasis,90's,rock
+1233,fugazi,90's,rock
+1234,black sabbath,80's,metal
+1235,broadcast,00's,pop
+1236,青葉市子 [ichiko aoba],10's,folk
+1237,sleater-kinney,00's,rock
+1238,purple mountains,10's,rock
+1239,sonic youth,00's,rock
+1240,beastie boys,90's,hip-hop
+1241,green day,90's,rock
+1242,r.e.m.,80's,rock
+1243,hüsker dü,80's,rock
+1244,cynic,90's,metal
+1245,slipknot,00's,metal
+1246,tom waits,90's,rock
+1247,talking heads,80's,rock
+1248,blur,90's,rock
+1249,xiu xiu,10's,rock
+1250,the microphones,00's,rock
+1251,motörhead,70's,rock
+1252,sigur rós,00's,rock
+1253,ac/dc,70's,rock
+1254,the flaming lips,90's,rock
+1255,u2,80's,rock
+1256,leonard cohen,60's,folk
+1257,godspeed you! black emperor,10's,rock
+1258,george clanton,10's,pop
+1259,parliament,70's,soul_funk
+1260,animal collective,00's,rock
+1261,roxy music,70's,rock
+1262,van der graaf generator,70's,rock
+1263,everything everything,10's,rock
+1264,the rolling stones,70's,rock
+1265,julia holter,10's,pop
+1266,carole king,70's,rock
+1267,depeche mode,90's,rock
+1268,春ねむり [haru nemuri],10's,rock
+1269,perfume genius,10's,pop
+1270,lil ugly mane,10's,hip-hop
+1271,wilco,00's,rock
+1272,solange,10's,pop
+1273,the voidz,10's,rock
+1274,mr. bungle,90's,rock
+1275,killer mike,10's,hip-hop
+1276,nas,10's,hip-hop
+1277,king krule,10's,rock
+1278,autechre,90's,electronic
+1279,nicolás jaar,10's,pop
+1280,lou reed & metallica,10's,metal
+1282,guided by voices,90's,rock
+1283,adele,10's,pop
+1284,blur,90's,rock
+1285,metallica,10's,metal
+1286,nails,10's,metal
+1287,death,90's,metal
+1288,miles davis,70's,rock
+1289,childish gambino,10's,soul_funk
+1290,primus,90's,metal
+1291,prince,80's,soul_funk
+1292,faith no more,90's,metal
+1293,lil uzi vert,10's,pop
+1294,carcass,90's,metal
+1295,dean blunt,10's,pop
+1296,bathory,80's,metal
+1297,green day,90's,rock
+1298,deathspell omega,10's,metal
+1299,nico,60's,folk
+1300,bruce springsteen,80's,rock
+1301,charlie mingus,60's,jazz
+1302,sufjan stevens & angelo de augustine,10's,folk
+1303,low,10's,pop
+1304,anderson .paak,10's,soul_funk
+1305,mastodon,00's,metal
+1306,deftones,90's,metal
+1307,korn,90's,metal
+1308,lorde,10's,pop
+1309,miles davis,50's,jazz
+1310,st. vincent,10's,pop
+1311,fugees,90's,hip-hop
+1312,pj harvey,90's,rock
+1313,a perfect circle,00's,rock
+1314,chvrches,10's,electronic
+1316,joey bada$$,10's,hip-hop
+1317,placebo,90's,rock
+1318,the gun club,80's,rock
+1319,kraftwerk,70's,electronic
+1320,fleetwood mac,70's,rock
+1321,tropical fuck storm,10's,rock
+1322,queen,70's,rock
+1323,sepultura,90's,metal
+1324,m.i.a.,00's,hip-hop
+1325,福居良 [ryo fukui],70's,jazz
+1326,dream theater,00's,metal
+1327,muse,10's,rock
+1328,genesis,70's,rock
+1329,deftones,00's,rock
+1330,ariana grande,10's,soul_funk
+1331,queensrÿche,80's,metal
+1332,clouddead,00's,hip-hop
+1333,silver apples,60's,rock
+1334,eagles,70's,rock
+1335,the mothers of invention,60's,rock
+1336,the fall,80's,rock
+1337,nick cave featuring the bad seeds,80's,rock
+1338,sun ra,70's,jazz
+1339,bob dylan,60's,folk
+1340,armand hammer & the alchemist,10's,hip-hop
+1341,orchid,90's,rock
+1342,john zorn,90's,rock
+1343,vince guaraldi,60's,jazz
+1344,mercury rev,90's,rock
+1345,linkin park,00's,rock
+1346,vince staples,10's,hip-hop
+1347,twenty øne piløts,10's,pop
+1348,joji,10's,soul_funk
+1349,women,10's,rock
+1350,pink floyd,10's,rock
+1351,snail mail,10's,rock
+1352,misfits,80's,rock
+1353,derek and the dominos,70's,rock
+1354,converge,10's,metal
+1355,weezer,00's,rock
+1356,bathory,80's,metal
+1357,can,70's,rock
+1358,clarence clarity,10's,pop
+1359,sly & the family stone,60's,soul_funk
+1360,nick cave and the bad seeds,00's,rock
+1361,aesop rock,10's,hip-hop
+1362,nomeansno,80's,rock
+1363,scott walker,60's,pop
+1364,killing joke,80's,rock
+1365,darkthrone,90's,metal
+1366,turnstile,10's,rock
+1367,animal collective,10's,rock
+1368,judas priest,70's,metal
+1369,hole,90's,rock
+1370,sunn o))),00's,metal
+1371,kid cudi,10's,pop
+1372,bladee,10's,pop
+1373,lady gaga,00's,pop
+1374,megadeth,90's,metal
+1375,unwound,90's,rock
+1376,offspring,90's,rock
+1377,meat puppets,80's,rock
+1378,dire straits,70's,rock
+1379,the clash,70's,rock
+1380,acid bath,90's,metal
+1381,autechre,00's,electronic
+1382,david bowie,70's,rock
+1383,21 savage & metro boomin,10's,hip-hop
+1384,david bowie,60's,pop
+1385,madonna,90's,pop
+1386,the mars volta,00's,rock
+1387,marvin gaye,70's,soul_funk
+1388,kate bush,80's,pop
+1389,green day,00's,rock
+1390,nick cave and the bad seeds,10's,pop
+1391,migos,10's,hip-hop
+1392,behemoth,10's,metal
+1393,the red hot chili peppers,90's,rock
+1394,the united states of america,60's,rock
+1395,m83,00's,electronic
+1396,...and you will know us by the trail of dead,00's,rock
+1397,coldplay,10's,rock
+1398,nick cave & the bad seeds,00's,rock
+1399,led zeppelin,80's,rock
+1401,deftones,00's,metal
+1402,the clash,80's,rock
+1403,the police,70's,rock
+1404,the unicorns,00's,pop
+1405,saba,10's,jazz
+1406,tom waits,70's,blues
+1407,genesis,70's,rock
+1408,melt-banana,10's,rock
+1409,ac/dc,70's,rock
+1410,nine inch nails,00's,rock
+1411,oranssi pazuzu,10's,rock
+1412,gentle giant,70's,rock
+1413,cat power,90's,rock
+1414,the streets,00's,hip-hop
+1415,the beach boys,70's,rock
+1416,blur,00's,rock
+1417,vashti bunyan,70's,folk
+1418,built to spill,90's,rock
+1419,(sandy) alex g,10's,rock
+1420,king gizzard and the lizard wizard,10's,rock
+1421,the chemical brothers,90's,electronic
+1422,beck,90's,rock
+1423,j. cole,10's,hip-hop
+1424,florence + the machine,00's,pop
+1425,the rolling stones,60's,rock
+1426,ghost,10's,rock
+1427,eminem,10's,pop
+1428,"emerson, lake & palmer",70's,rock
+1429,beck,00's,rock
+1430,slowthai,10's,hip-hop
+1431,death's dynamic shroud.wmv,10's,electronic
+1432,primus,90's,metal
+1433,opeth,90's,metal
+1434,おとぼけビ～バ～ [otoboke beaver],10's,rock
+1435,tim buckley,60's,folk
+1436,burzum,90's,metal
+1437,alanis morissette,90's,rock
+1438,the field,00's,electronic
+1439,harold budd / brian enoharold buddbrian eno,80's,electronic
+1440,lil nas x,10's,pop
+1441,cornelius,90's,rock
+1442,silver jews,90's,rock
+1443,gorillaz,10's,electronic
+1444,aesop rock,00's,hip-hop
+1445,aerosmith,70's,rock
+1446,mr. bungle,90's,rock
+1447,rosalía,10's,pop
+1448,coil,90's,electronic
+1449,r.e.m.,90's,rock
+1450,american football,10's,rock
+1451,queen,70's,rock
+1452,dälek,00's,hip-hop
+1453,car seat headrest,10's,rock
+1454,marilyn manson,90's,rock
+1455,lianne la havas,10's,soul_funk
+1456,big thief,10's,folk
+1457,death cab for cutie,00's,rock
+1458,queens of the stone age,10's,rock
+1459,the white stripes,90's,rock
+1460,nick cave & the bad seeds,90's,rock
+1461,porcupine tree,00's,rock
+1462,the beach boys,60's,rock
+1463,chance the rapper,10's,pop
+1464,frank zappa and the mothers of inventionfrank zappathe mothers of invention,70's,rock
+1465,the police,70's,rock
+1466,beck,90's,rock
+1467,kacey musgraves,10's,pop
+1468,childish gambino,10's,pop
+1469,beach house,00's,pop
+1471,biosphere,90's,electronic
+1472,antony and the johnsons,00's,pop
+1473,van halen,80's,rock
+1474,tv on the radio,00's,rock
+1475,the national,10's,rock
+1476,ol' dirty bastard,90's,hip-hop
+1477,grouper,10's,electronic
+1478,judas priest,80's,metal
+1479,the dillinger escape plan,90's,metal
+1480,grizzly bear,10's,rock
+1481,steven wilson,10's,rock
+1482,weezer,10's,rock
+1483,the kinks,60's,rock
+1484,slauson malone,10's,hip-hop
+1485,jeff rosenstock,10's,rock
+1486,john maus,10's,pop
+1487,dream theater,00's,metal
+1488,at the gates,90's,metal
+1489,grizzly bear,00's,folk
+1490,sewerslvt,10's,electronic
+1491,isaac hayes,60's,soul_funk
+1492,mercyful fate,80's,metal
+1493,tori amos,90's,rock
+1494,lynyrd skynyrd,70's,rock
+1495,50 cent,00's,hip-hop
+1496,jean michel jarre,70's,electronic
+1497,supertramp,70's,rock
+1498,brian wilson,00's,pop
+1499,the prodigy,90's,electronic
+1500,four tet,10's,electronic
+1501,u.s. girls,10's,rock
+1502,twenty øne piløts,10's,pop
+1503,iron maiden,00's,metal
+1504,shame,10's,rock
+1505,king gizzard & the lizard wizard,10's,rock
+1506,nick cave & the bad seeds,80's,rock
+1507,boris,90's,metal
+1508,mastodon,10's,metal
+1509,ride,90's,rock
+1510,animal collective,10's,rock
+1511,sunn o))),00's,metal
+1512,anderson .paak,10's,soul_funk
+1513,steely dan,70's,rock
+1514,the notorious b.i.g.,90's,hip-hop
+1515,lil peep,10's,rock
+1517,idles,10's,rock
+1518,bon iver,10's,pop
+1519,ulver,00's,pop
+1520,panic! at the disco,00's,rock
+1521,eels,90's,pop
+1522,sonny rollins,50's,jazz
+1523,magazine,70's,rock
+1524,converge,00's,metal
+1525,simon and garfunkel,60's,rock
+1526,joni mitchell,70's,pop
+1527,jesu,00's,rock
+1528,sampha,10's,soul_funk
+1529,post malone,10's,pop
+1530,blood orange,10's,pop
+1531,yes,70's,rock
+1532,beach house,10's,pop
+1533,the mothers of invention,60's,rock
+1534,xiu xiu,10's,pop
+1535,sleep,10's,metal
+1536,agalloch,10's,metal
+1537,sleater-kinney,90's,rock
+1538,mgła,10's,metal
+1539,immortal,90's,metal
+1540,yellow magic orchestra,70's,electronic
+1541,hella,00's,rock
+1542,mogwai,00's,rock
+1543,sade,90's,pop
+1544,pantera,90's,metal
+1545,queen,90's,rock
+1546,山岡晃 [akira yamaoka],00's,electronic
+1548,porcupine tree,90's,rock
+1549,weezer,00's,rock
+1550,big star,70's,rock
+1551,big thief,10's,rock
+1552,miles davis,70's,jazz
+1553,david bowie,90's,rock
+1554,belle & sebastian,00's,pop
+1555,black sabbath,70's,rock
+1556,agalloch,90's,metal
+1557,st. vincent,10's,rock
+1558,u2,80's,rock
+1559,ulver,90's,metal
+1560,prefab sprout,80's,rock
+1561,cat stevens,70's,rock
+1562,the flaming lips,00's,rock
+1563,lana del rey,10's,pop
+1564,david bowie,00's,rock
+1565,bob dylan,90's,rock
+1566,celtic frost,80's,metal
+1567,gang starr,90's,hip-hop
+1568,iron maiden,00's,metal
+1569,fleetwood mac,70's,rock
+1570,the mothers,70's,rock
+1571,mercyful fate,80's,metal
+1572,u2,00's,rock
+1573,lil wayne,00's,hip-hop
+1574,the mars volta,00's,rock
+1575,sepultura,90's,metal
+1576,galaxie 500,80's,rock
+1577,chelsea wolfe,10's,rock
+1578,chuck person,10's,electronic
+1579,nina simone,60's,blues
+1580,cream,60's,rock
+1581,iron maiden,90's,metal
+1582,cannonball adderley,50's,jazz
+1583,flying lotus,10's,electronic
+1584,mission of burma,80's,rock
+1585,entombed,90's,metal
+1586,talk talk,80's,electronic
+1587,david bowie,90's,rock
+1588,blink-182,00's,rock
+1589,paramore,00's,rock
+1590,sufjan stevens,10's,pop
+1591,brian eno,80's,electronic
+1592,malibu ken,10's,hip-hop
+1593,limp bizkit,00's,rock
+1594,unwound,90's,rock
+1595,nine inch nails,10's,rock
+1596,autechre,90's,electronic
+1597,bladee,10's,rock
+1598,the sound,80's,rock
+1599,swans,80's,rock
+1600,thin lizzy,70's,rock
+1601,pj harvey,90's,rock
+1602,dorian electra,10's,electronic
+1603,rush,70's,rock
+1604,"thaiboy digital, bladee & ecco2k",10's,hip-hop
+1605,tom waits,70's,blues
+1606,arthur russell,80's,pop
+1607,r.e.m.,80's,rock
+1608,electric light orchestra,70's,rock
+1609,burzum,90's,metal
+1610,digable planets,90's,jazz
+1612,young marble giants,80's,rock
+1613,protomartyr,10's,rock
+1614,oneohtrix point never,10's,rock
+1615,beach house,10's,rock
+1616,mercury rev,90's,rock
+1617,father john misty,10's,pop
+1618,deep purple,70's,rock
+1619,new york dolls,70's,rock
+1620,orchid,00's,rock
+1621,frank sinatra,50's,jazz
+1622,depeche mode,80's,electronic
+1623,fennesz,00's,electronic
+1624,sepultura,90's,metal
+1625,"emerson, lake & palmer",70's,rock
+1627,belle and sebastian,00's,pop
+1628,blank banshee,10's,hip-hop
+1630,red hot chili peppers,80's,rock
+1632,einstürzende neubauten,80's,electronic
+1633,napalm death,80's,metal
+1634,goldfrapp,00's,pop
+1635,fugazi,90's,rock
+1636,the xx,10's,pop
+1637,protomartyr,10's,rock
+1638,the flaming lips,90's,rock
+1639,crystal castles,10's,electronic
+1640,rammstein,90's,metal
+1641,duran duran,80's,electronic
+1642,grandaddy,00's,rock
+1643,new order,80's,electronic
+1644,roxy music,80's,pop
+1645,current 93,90's,folk
+1646,explosions in the sky,00's,rock
+1647,xiu xiu,00's,rock
+1649,cocteau twins,80's,rock
+1650,black sabbath,70's,rock
+1651,sonic youth,00's,rock
+1652,joey bada$$,10's,hip-hop
+1653,elvis presley,50's,rock
+1654,swans,80's,rock
+1655,ghostface killah,90's,hip-hop
+1657,taylor swift,10's,pop
+1658,rihanna,10's,soul_funk
+1659,big star,70's,pop
+1660,mar1lyn man5on,90's,rock
+1661,king crimson,80's,rock
+1662,taylor swift,10's,rock
+1663,perfume genius,10's,pop
+1664,korn,90's,metal
+1665,schoolboy q,10's,hip-hop
+1666,ghost,10's,rock
+1667,creedence clearwater revival,60's,rock
+1668,the mothers,70's,rock
+1669,caribou,10's,electronic
+1671,the byrds,60's,rock
+1672,morphine,90's,rock
+1674,billy joel,70's,rock
+1675,lana del rey,10's,pop
+1676,m83,00's,pop
+1677,type o negative,90's,metal
+1678,evanescence,00's,rock
+1679,батюшка [batushka],10's,metal
+1680,blink-182,00's,rock
+1681,death in june,90's,folk
+1682,bob marley and the wailersbob marleythe wailers,70's,reggae
+1683,foo fighters,90's,rock
+1684,schoolboy q,10's,hip-hop
+1685,green day,00's,rock
+1686,the sonics,60's,rock
+1688,steve roach,80's,electronic
+1689,converge,00's,metal
+1690,chief keef,10's,hip-hop
+1691,ramones,70's,rock
+1693,suede,90's,rock
+1694,tim hecker,10's,electronic
+1695,bedwetter,10's,hip-hop
+1696,bathory,90's,metal
+1697,spiritualized,90's,rock
+1698,thundercat,10's,soul_funk
+1699,sons of kemet,10's,jazz
+1700,john coltrane,60's,jazz
+1701,dälek,00's,hip-hop
+1702,the kinks,70's,rock
+1703,beastie boys,90's,hip-hop
+1704,the decemberists,00's,rock
+1705,laurie anderson,80's,pop
+1706,thelonious monk,50's,jazz
+1707,tim buckley,60's,rock
+1708,andy stott,10's,electronic
+1709,wilco,90's,rock
+1710,young thug,10's,hip-hop
+1711,flying lotus,10's,jazz
+1712,sigur rós,10's,rock
+1713,iceage,10's,rock
+1714,rage against the machine,00's,metal
+1715,gil scott-heron,70's,soul_funk
+1716,unwound,90's,rock
+1717,taylor swift,10's,electronic
+1718,adrianne lenker,10's,folk
+1719,vince staples,10's,hip-hop
+1720,the offspring,90's,rock
+1721,madlib,00's,jazz
+1722,steely dan,70's,rock
+1723,the hotelier,10's,rock
+1724,glass beach,10's,rock
+1725,morrissey,80's,pop
+1726,cap'n jazz,90's,rock
+1727,fiona apple,00's,rock
+1728,vektor,10's,metal
+1729,monks,60's,rock
+1730,joni mitchell,70's,rock
+1731,pup,10's,rock
+1732,dirty projectors,00's,pop
+1734,the breeders,90's,rock
+1735,low,00's,rock
+1736,lingua ignota,10's,electronic
+1737,swans,90's,rock
+1738,codeine,90's,rock
+1739,dream theater,00's,metal
+1740,the decemberists,00's,pop
+1741,the byrds,60's,rock
+1742,drake,10's,pop
+1743,bruce springsteen,70's,rock
+1744,sonic youth,00's,rock
+1745,j. cole,10's,hip-hop
+1746,ice cube,90's,hip-hop
+1747,the brave little abacus,00's,rock
+1748,foo fighters,10's,rock
+1749,my chemical romance,00's,rock
+1750,j.i.d,10's,hip-hop
+1751,dr. octagon,90's,hip-hop
+1752,paysage d'hiver,90's,metal
+1753,jackson c. frank,60's,folk
+1755,kate bush,70's,pop
+1756,mogwai,90's,rock
+1757,queen,80's,rock
+1759,scott walker,90's,electronic
+1760,justin timberlake,00's,pop
+1761,"emerson, lake & palmer",70's,rock
+1762,radiohead,00's,rock
+1763,clipping.,10's,hip-hop
+1764,camel,70's,rock
+1765,ac/dc,70's,rock
+1766,gary numan,70's,electronic
+1767,electric wizard,90's,metal
+1768,mount eerie,10's,folk
+1769,maudlin of the well,00's,metal
+1770,beirut,00's,folk
+1771,jane's addiction,80's,rock
+1772,the angelic process,00's,rock
+1773,pavement,90's,rock
+1774,gravediggaz,90's,hip-hop
+1775,pulp,90's,rock
+1776,edge of sanity,90's,metal
+1777,king gizzard & the lizard wizard with mild high clubking gizzard & the lizard wizardmild high club,10's,rock
+1778,battles,10's,rock
+1779,air,00's,pop
+1780,disclosure,10's,electronic
+1781,king crimson,80's,rock
+1782,tom waits,00's,jazz
+1783,joji,10's,pop
+1784,x,80's,rock
+1785,lil ugly mane,10's,hip-hop
+1786,the world is a beautiful place & i am no longer afraid to die,10's,rock
+1787,rush,80's,rock
+1788,sade,80's,pop
+1789,madlib,10's,hip-hop
+1790,janis joplin,70's,rock
+1791,liturgy,10's,metal
+1793,stone temple pilots,90's,rock
+1794,the mountain goats,00's,folk
+1795,kid cudi,10's,rock
+1796,public image ltd,70's,rock
+1797,the 1975,10's,pop
+1798,global communication,90's,electronic
+1799,opeth,10's,rock
+1800,r.e.m.,90's,rock
+1801,jane's addiction,90's,rock
+1802,the the,80's,pop
+1803,slipknot,00's,metal
+1804,ulver,90's,folk
+1805,the olivia tremor control,90's,rock
+1806,foo fighters,00's,rock
+1807,beyoncé,10's,soul_funk
+1808,have a nice life,10's,rock
+1809,blur,90's,rock
+1810,pearl jam,90's,rock
+1811,albert ayler trio,60's,jazz
+1812,broken social scene,00's,rock
+1813,venom,80's,metal
+1814,in flames,90's,metal
+1815,aretha franklin,60's,soul_funk
+1816,jethro tull,60's,rock
+1817,charles mingus,60's,jazz
+1818,black sabbath,10's,metal
+1819,camel,70's,rock
+1820,boredoms,90's,rock
+1821,jim o'rourke,90's,pop
+1822,massive attack,10's,electronic
+1823,lil pump,10's,hip-hop
+1824,king gizzard & the lizard wizard,10's,pop
+1825,the cure,00's,rock
+1826,blood incantation,10's,metal
+1827,spoon,00's,rock
+1828,gojira,00's,metal
+1829,d'angelo,90's,soul_funk
+1830,rush,70's,rock
+1831,röyksopp,00's,electronic
+1832,the shins,00's,pop
+1833,u2,00's,rock
+1835,sharon van etten,10's,rock
+1836,duster,10's,rock
+1837,helloween,80's,metal
+1838,"crosby, stills & nash",60's,rock
+1839,katatonia,90's,metal
+1840,muse,10's,rock
+1842,suede,90's,rock
+1843,the peter brötzmann octet,60's,jazz
+1844,mastodon,10's,metal
+1845,depeche mode,90's,rock
+1846,kreator,80's,metal
+1847,múm,00's,folk
+1848,tim hecker,00's,electronic
+1849,squarepusher,90's,electronic
+1850,the cure,80's,rock
+1851,rammstein,00's,metal
+1852,james blake,10's,pop
+1853,garbage,90's,rock
+1854,flower travellin' band,70's,rock
+1855,elvis costello & the attractions,70's,rock
+1856,deerhunter,00's,rock
+1857,ariel pink,10's,pop
+1858,tom waits,00's,rock
+1859,the go! team,00's,rock
+1860,blanck mass,10's,electronic
+1861,fripp & eno,70's,electronic
+1862,darkside,10's,electronic
+1863,the tallest man on earth,10's,folk
+1864,sky ferreira,10's,pop
+1865,iron + wine,00's,folk
+1866,judas priest,70's,metal
+1867,the rolling stones,60's,blues
+1868,andrew jackson jihad,10's,rock
+1869,steely dan,70's,rock
+1870,taylor swift,10's,electronic
+1871,type o negative,90's,metal
+1872,the sisters of mercy,80's,rock
+1874,cat power,00's,folk
+1875,the shaggs,60's,rock
+1876,the xx,10's,pop
+1877,pj harvey,00's,folk
+1879,the war on drugs,10's,rock
+1880,natural snow buildings,00's,folk
+1881,herbie hancock,70's,jazz
+1882,broadcast,00's,rock
+1883,clairo,10's,pop
+1884,wolves in the throne room,00's,metal
+1885,duster,00's,rock
+1886,boris,00's,rock
+1887,the soft machine,60's,rock
+1888,butthole surfers,80's,rock
+1889,stone temple pilots,90's,rock
+1890,pantera,90's,metal
+1891,badbadnotgood,10's,jazz
+1892,21 savage,10's,hip-hop
+1893,wu-tang clan,90's,hip-hop
+1894,lizzo,10's,pop
+1895,japanese breakfast,10's,rock
+1896,korn,90's,metal
+1897,converge,10's,metal
+1898,t. rex,70's,rock
+1899,m.i.a.,10's,hip-hop
+1901,milo,10's,hip-hop
+1902,the mountain goats,00's,folk
+1903,madonna,80's,pop
+1904,let's eat grandma,10's,pop
+1905,yung lean,10's,soul_funk
+1906,sleigh bells,10's,pop
+1907,seatbelts,90's,jazz
+1908,exodus,80's,metal
+1909,cunninlynguists,00's,hip-hop
+1910,lady gaga,10's,pop
+1911,amon düül ii,60's,rock
+1912,the byrds,60's,rock
+1913,kurt vile,10's,rock
+1914,the ornette coleman double quartet,60's,jazz
+1915,meshuggah,00's,metal
+1916,ariana grande,10's,pop
+1917,kate bush,00's,pop
+1918,lady gaga,10's,pop
+1919,wilco,00's,rock
+1920,panda bear,10's,rock
+1921,tears for fears,80's,electronic
+1922,green day,10's,rock
+1923,ritchie blackmore's rainbow,70's,rock
+1924,weezer,10's,rock
+1926,yes,80's,rock
+1927,the pains of being pure at heart,00's,pop
+1928,strapping young lad,90's,metal
+1929,pearl jam,90's,rock
+1930,xtc,80's,rock
+1931,lupe fiasco,00's,hip-hop
+1932,jeff rosenstock,10's,rock
+1933,aerosmith,70's,rock
+1934,neurosis,90's,metal
+1935,j. cole,10's,hip-hop
+1936,current 93,90's,folk
+1937,neil young,90's,rock
+1938,the police,80's,rock
+1939,mahavishnu orchestra,70's,rock
+1940,jay reatard,00's,rock
+1941,westside gunn,10's,hip-hop
+1942,spacemen 3,80's,rock
+1943,u2,90's,rock
+1944,darkthrone,90's,metal
+1945,black dresses,10's,rock
+1946,sonic youth,90's,rock
+1947,pusha t,10's,hip-hop
+1948,deep purple,70's,rock
+1949,the soft boys,80's,rock
+1951,peter gabriel,70's,rock
+1952,ministry,90's,metal
+1953,sixteen horsepower,90's,country
+1954,the john coltrane quartet,60's,jazz
+1955,explosions in the sky,00's,rock
+1956,meat loaf,70's,rock
+1957,car seat headrest,10's,rock
+1958,mitski,10's,pop
+1959,melvins,90's,metal
+1960,disco inferno,90's,rock
+1961,coldplay,10's,pop
+1962,helloween,80's,metal
+1963,demilich,90's,metal
+1964,joy division,80's,rock
+1965,japan,80's,pop
+1966,bob dylan & the band,70's,rock
+1967,the olivia tremor control,90's,rock
+1968,leonard cohen,70's,folk
+1969,herbie hancock,60's,jazz
+1970,rites of spring,80's,rock
+1971,king gizzard & the lizard wizard,10's,rock
+1972,wipers,80's,rock
+1973,love,60's,rock
+1974,slayer,00's,metal
+1975,mac demarco,10's,rock
+1976,roxy music,70's,rock
+1977,liz phair,90's,rock
+1978,machine girl,10's,electronic
+1979,michael jackson,90's,pop
+1980,the books,00's,folk
+1981,guns n' roses,80's,rock
+1982,leonard cohen,80's,pop
+1983,the knife,00's,electronic
+1984,yung lean,10's,hip-hop
+1985,kevin abstract,10's,pop
+1986,candlemass,80's,metal
+1987,deakin,10's,rock
+1988,xtc,80's,rock
+1989,my chemical romance,10's,rock
+1990,the libertines,00's,rock
+1991,jon hopkins,10's,electronic
+1992,arca,10's,electronic
+1993,jimmy eat world,00's,rock
+1994,the rolling stones,70's,rock
+1995,richard dawson,10's,folk
+1996,the mothers of invention,70's,rock
+1997,the roots,00's,hip-hop
+1998,backxwash,10's,hip-hop
+1999,kyuss,90's,rock
+2000,charles mingus,70's,jazz
+2001,carcass,90's,metal
+2002,leonard cohen,10's,folk
+2003,the weeknd,10's,soul_funk
+2004,swans,80's,rock
+2005,open mike eagle,10's,hip-hop
+2006,underworld,90's,electronic
+2007,the byrds,60's,rock
+2008,wishbone ash,70's,rock
+2009,anthrax,80's,metal
+2010,the angels of light,00's,rock
+2011,nas,00's,hip-hop
+2012,bohren & der club of gore,00's,jazz
+2013,erykah badu,90's,soul_funk
+2014,the roots,10's,hip-hop
+2015,deftones,10's,rock
+2016,paul mccartney,70's,rock
+2017,iron maiden,10's,metal
+2018,asobi seksu,00's,rock
+2019,arca,10's,hip-hop
+2020,iron maiden,90's,metal
+2021,bright eyes,00's,folk
+2022,grateful dead,70's,rock
+2023,foster the people,10's,pop
+2024,tangerine dream,70's,electronic
+2025,jack white,10's,rock
+2026,miles davis,50's,jazz
+2027,tim hecker,00's,electronic
+2028,dan deacon,10's,rock
+2029,jeff rosenstock,10's,rock
+2030,this mortal coil,80's,pop
+2031,nick cave & the bad seeds,00's,rock
+2032,dream theater,00's,metal
+2034,marillion,80's,rock
+2035,them crooked vultures,00's,rock
+2036,earth,00's,rock
+2037,the pogues,80's,rock
+2038,tom waits,10's,rock
+2039,the dillinger escape plan,00's,metal
+2040,morbid angel,90's,metal
+2041,blur,10's,rock
+2042,the charlie mingus jazz workshop,50's,jazz
+2043,st. vincent,00's,pop
+2044,flipper,80's,rock
+2045,cream,60's,rock
+2046,wolf parade,00's,rock
+2047,television,70's,rock
+2048,yeah yeah yeahs,00's,rock
+2049,the sundays,90's,pop
+2050,weezer,10's,rock
+2051,limp bizkit,90's,rock
+2053,mgmt,10's,rock
+2054,king crimson,90's,rock
+2055,don caballero,90's,rock
+2056,gospel,00's,rock
+2057,atoms for peace,10's,pop
+2058,tricot,10's,rock
+2059,at the drive-in,90's,rock
+2060,the rolling stones,60's,rock
+2061,fall out boy,00's,rock
+2062,the radio dept.,00's,pop
+2063,foals,00's,rock
+2064,laura marling,10's,folk
+2065,foo fighters,00's,rock
+2066,lil uzi vert,10's,pop
+2067,sparklehorse,00's,rock
+2068,primus,90's,metal
+2069,björk,00's,pop
+2070,nine inch nails,00's,rock
+2071,ulver,10's,electronic
+2072,andy stott,10's,electronic
+2073,jpegmafia,10's,hip-hop
+2074,aphrodite's child,70's,rock
+2075,blind guardian,90's,metal
+2077,bohren & der club of gore,00's,jazz
+2078,dillinger escape plan,00's,metal
+2079,isaiah rashad,10's,hip-hop
+2080,of montreal,00's,rock
+2081,cage the elephant,10's,rock
+2082,tim buckley,70's,folk
+2083,wolf alice,10's,rock
+2084,tangerine dream,70's,electronic
+2085,yes,70's,rock
+2086,scott walker,00's,electronic
+2087,pulp,90's,rock
+2088,ac/dc,80's,rock
+2089,oneohtrix point never,10's,electronic
+2090,sonic youth,90's,rock
+2091,david sylvian,80's,pop
+2092,ween,00's,rock
+2093,kairon; irse!,10's,rock
+2094,depeche mode,00's,electronic
+2095,melt-banana,00's,rock
+2096,my morning jacket,00's,rock
+2097,justin timberlake,10's,pop
+2098,judas priest,70's,metal
+2099,paramore,00's,rock
+2100,butthole surfers,80's,rock
+2101,bob dylan,70's,rock
+2102,talking heads,80's,rock
+2103,polvo,90's,rock
+2104,mike oldfield,70's,rock
+2105,pere ubu,70's,rock
+2107,mac miller,10's,hip-hop
+2108,andrew bird,00's,pop
+2109,iron maiden,90's,metal
+2110,eels,90's,rock
+2111,erykah badu,00's,soul_funk
+2112,prmlscrm,00's,electronic
+2113,toe,00's,rock
+2114,creedence clearwater revival,60's,rock
+2115,electric light orchestra,70's,rock
+2116,ozzy osbourne,80's,rock
+2117,duke ellington / charlie mingus / max roachduke ellingtoncharles mingusmax roach,60's,jazz
+2119,the sisters of mercy,80's,rock
+2120,scraping foetus off the wheel,80's,rock
+2121,chelsea wolfe,10's,rock
+2122,autopsy,90's,metal
+2124,fuck buttons,00's,rock
+2125,frank zappa,70's,rock
+2126,miles davis quintet,60's,jazz
+2127,the police,80's,rock
+2128,linkin park,10's,rock
+2129,morbid angel,90's,metal
+2130,sublime,90's,rock
+2131,brian eno,70's,electronic
+2132,dream theater,90's,rock
+2133,panda bear,10's,pop
+2134,wayne shorter,60's,jazz
+2135,bloc party,00's,rock
+2136,rainbow,70's,rock
+2137,possessed,80's,metal
+2138,nick cave & warren ellis,10's,pop
+2139,siekiera,80's,rock
+2140,guns n' roses,00's,rock
+2141,they might be giants,90's,rock
+2142,alice in chains,00's,rock
+2143,rush,70's,rock
+2144,kings of leon,00's,rock
+2145,popol vuh,70's,electronic
+2146,steely dan,80's,rock
+2147,brand new,00's,rock
+2148,santana,60's,rock
+2149,bowery electric,90's,rock
+2150,campfire songs,00's,folk
+2151,the killers,00's,rock
+2152,king gizzard & the lizard wizard,10's,rock
+2153,van der graaf generator,70's,rock
+2154,dire straits,80's,rock
+2155,temple of the dog,90's,rock
+2156,teenage fanclub,90's,rock
+2157,alice cooper,70's,rock
+2158,soundgarden,90's,rock
+2159,dire straits,80's,rock
+2160,celtic frost,00's,metal
+2161,ariana grande,10's,pop
+2162,cardi b,10's,hip-hop
+2163,todd rundgren,70's,rock
+2164,foo fighters,00's,rock
+2165,steely dan,70's,rock
+2166,kaytranada,10's,soul_funk
+2167,jackboys & travis scott,10's,pop
+2168,american football,10's,rock
+2169,uboa,10's,electronic
+2170,miles davis,50's,jazz
+2171,porcupine tree,90's,rock
+2172,ugk,90's,hip-hop
+2174,the sound,80's,rock
+2175,neu!,70's,rock
+2176,depeche mode,80's,electronic
+2177,prince and the revolution,80's,rock
+2178,deafheaven,10's,metal
+2179,big thief,10's,rock
+2180,patti smith group,70's,rock
+2181,the byrds,60's,rock
+2182,soft cell,80's,electronic
+2185,kiss,70's,rock
+2186,nick cave & the bad seeds,80's,rock
+2187,ramones,70's,rock
+2188,bob dylan,00's,rock
+2189,titus andronicus,10's,rock
+2190,bauhaus,80's,rock
+2191,king diamond,80's,metal
+2192,ween,90's,rock
+2193,ocean machine,90's,metal
+2194,celtic frost,80's,metal
+2195,purity ring,10's,electronic
+2196,baby keem,10's,hip-hop
+2197,joni mitchell,70's,pop
+2198,mount eerie with julie doiron & fred squiremount eeriejulie doironfred squire,00's,folk
+2199,tricot,10's,rock
+2200,genesis,70's,rock
+2201,weezer,10's,rock
+2202,badbadnotgood,10's,jazz
+2203,angel olsen,10's,folk
+2204,avenged sevenfold,00's,metal
+2205,anathema,90's,rock
+2206,lou reed,80's,rock
+2207,amon tobin,90's,jazz
+2208,the smashing pumpkins,00's,rock
+2209,pusha t,10's,hip-hop
+2210,drudkh,00's,metal
+2211,dean blunt,10's,pop
+2213,beck,10's,folk
+2214,cut copy,00's,electronic
+2215,paramore,10's,rock
+2216,vektor,00's,metal
+2217,florence + the machine,10's,pop
+2218,ghostface killah,00's,hip-hop
+2219,xxxtentacion,10's,hip-hop
+2220,nicolás jaar,10's,electronic
+2221,morphine,90's,rock
+2222,the beach boys,60's,pop
+2223,blue öyster cult,70's,rock
+2224,immortal,90's,metal
+2225,alcest,10's,rock
+2226,tom waits,00's,rock
+2227,wolfmother,00's,rock
+2228,todd terje,10's,electronic
+2229,the afghan whigs,90's,rock
+2230,verve,90's,rock
+2231,imagine dragons,10's,rock
+2232,the dillinger escape plan,10's,metal
+2233,nine inch nails,00's,electronic
+2234,bruce springsteen,70's,rock
+2235,ween,90's,rock
+2236,blonde redhead,00's,rock
+2237,la dispute,10's,rock
+2238,ac/dc,90's,rock
+2239,the pretty things,60's,rock
+2240,david bowie,80's,rock
+2241,bob dylan,00's,rock
+2242,placebo,00's,rock
+2243,king gizzard & the lizard wizard,10's,rock
+2244,mogwai,00's,rock
+2245,syd barrett,70's,rock
+2246,the human league,80's,electronic
+2247,townes van zandt,60's,folk
+2248,katatonia,00's,metal
+2249,oasis,00's,rock
+2250,mclusky,00's,rock
+2251,common,00's,hip-hop
+2252,david bowie,00's,rock
+2253,queen,80's,rock
+2254,the slits,70's,rock
+2255,alcest,10's,rock
+2256,kayo dot,00's,rock
+2257,black sabbath,80's,rock
+2258,이달의 소녀 오드아이써클 [loona odd eye circle],10's,pop
+2259,lisa germano,90's,rock
+2260,the klf,90's,electronic
+2261,incubus,90's,rock
+2262,liars,00's,rock
+2263,dusty springfield,60's,pop
+2264,blind guardian,90's,metal
+2265,baroness,00's,metal
+2266,various artists,10's,hip-hop
+2267,green day,90's,rock
+2268,bring me the horizon,10's,rock
+2269,the replacements,80's,rock
+2270,porcupine tree,90's,rock
+2271,u2,80's,rock
+2272,siouxsie and the banshees,70's,rock
+2273,testament,80's,metal
+2274,digable planets,90's,jazz
+2275,morrissey,90's,rock
+2276,jack white,10's,rock
+2277,gorguts,10's,metal
+2278,ka,10's,hip-hop
+2279,yes,60's,rock
+2280,kelela,10's,soul_funk
+2281,orchestral manœuvres in the dark,80's,electronic
+2283,joni mitchell,70's,folk
+2284,beck,00's,rock
+2285,stereolab,90's,rock
+2286,placebo,90's,rock
+2287,twenty one pilots,10's,pop
+2289,rush,80's,rock
+2290,pescado rabioso,70's,rock
+2291,parquet courts,10's,rock
+2292,blink-182,90's,rock
+2293,feist,00's,pop
+2294,mass of the fermenting dregs,00's,rock
+2295,lupe fiasco,10's,hip-hop
+2296,mach-hommy,10's,hip-hop
+2297,yung lean,10's,hip-hop
+2298,faith no more,90's,rock
+2299,jethro tull,70's,rock
+2300,the rolling stones,80's,rock
+2302,big boi,10's,hip-hop
+2303,tierra whack,10's,pop
+2304,john coltrane,60's,jazz
+2305,the allman brothers band,70's,rock
+2306,big brother & the holding company,60's,rock
+2307,band of horses,00's,rock
+2308,ghost,10's,rock
+2309,iceage,10's,rock
+2310,danzig,80's,rock
+2311,deafheaven,10's,rock
+2312,oasis,00's,rock
+2313,rammstein,90's,metal
+2314,u2,80's,rock
+2315,herbie hancock,60's,jazz
+2316,iron maiden,10's,metal
+2317,the damned,70's,rock
+2318,gojira,10's,metal
+2319,captain beefheart & the magic band,70's,rock
+2320,real estate,10's,pop
+2321,the raincoats,70's,rock
+2322,jay electronica,10's,hip-hop
+2323,megadeth,90's,metal
+2324,clap your hands say yeah,00's,rock
+2325,grimes,10's,electronic
+2326,foxygen,10's,pop
+2327,chelsea wolfe,10's,rock
+2328,fairport convention,60's,rock
+2329,ice cube,90's,hip-hop
+2330,alt-j,10's,pop
+2331,kelly lee owens,10's,pop
+2332,madonna,80's,pop
+2333,u2,90's,rock
+2334,yeah yeah yeahs,00's,rock
+2335,judas priest,10's,metal
+2336,venom,80's,metal
+2337,steven wilson,10's,rock
+2338,spoon,00's,rock
+2339,air,00's,pop
+2340,discordance axis,00's,metal
+2341,gentle giant,70's,rock
+2342,orbital,90's,electronic
+2343,a tribe called quest,90's,hip-hop
+2344,the cramps,80's,rock
+2345,post malone,10's,pop
+2346,dorian electra,10's,electronic
+2347,prince and the revolution,80's,rock
+2348,lightning bolt,00's,rock
+2349,21 savage & metro boomin,10's,hip-hop
+2350,franz ferdinand,00's,rock
+2351,neon indian,10's,electronic
+2352,terry riley,60's,electronic
+2353,lil wayne,10's,pop
+2354,neurosis,90's,metal
+2355,zz top,70's,rock
+2356,melody's echo chamber,10's,rock
+2357,echo and the bunnymen,80's,rock
+2358,manic street preachers,90's,rock
+2359,botch,90's,metal
+2360,organized konfusion,90's,jazz
+2361,mogwai,00's,rock
+2362,meshuggah,00's,metal
+2364,"dr. john, the night tripper",60's,rock
+2365,mastodon,10's,metal
+2366,the notwist,00's,pop
+2367,immolation,00's,metal
+2368,pig destroyer,00's,metal
+2369,oasis,00's,rock
+2370,japandroids,10's,rock
+2371,fugazi,90's,rock
+2372,pig destroyer,00's,metal
+2373,fear factory,90's,metal
+2374,lamp,00's,pop
+2375,gojira,10's,metal
+2376,harry styles,10's,rock
+2377,van der graaf generator,70's,rock
+2378,genesis,80's,rock
+2379,the congos,70's,reggae
+2380,alice cooper,70's,rock
+2381,the roots,90's,hip-hop
+2382,om,10's,rock
+2383,janelle monáe,10's,soul_funk
+2384,the new pornographers,00's,pop
+2385,slayer,00's,metal
+2386,red hot chili peppers,10's,rock
+2387,regina spektor,00's,pop
+2388,el-p,00's,hip-hop
+2389,deerhunter,10's,rock
+2391,todd rundgren,70's,rock
+2392,def leppard,80's,rock
+2393,father john misty,10's,folk
+2394,the cranberries,90's,rock
+2395,the fall,70's,rock
+2396,deathspell omega,00's,metal
+2397,the black keys,00's,rock
+2398,hum,10's,rock
+2399,queen,80's,rock
+2400,mumford & sons,00's,pop
+2401,quelle chris,10's,jazz
+2402,(sandy) alex g,10's,folk
+2403,manuel göttsching,80's,electronic
+2404,the go-betweens,80's,pop
+2405,the silver mt. zion memorial orchestra & tra-la-la band,00's,rock
+2406,nine inch nails,10's,electronic
+2407,mew,00's,pop
+2408,the blue nile,80's,pop
+2409,nails,10's,metal
+2410,john fahey,70's,folk
+2411,the antlers,10's,rock
+2412,the mothers of invention,70's,rock
+2413,jens lekman,00's,pop
+2414,janet,90's,pop
+2415,migos,10's,hip-hop
+2416,blue cheer,60's,rock
+2417,gong,70's,rock
+2418,cloud nothings,10's,rock
+2419,nicolás jaar,10's,pop
+2420,czarface & mf doom,10's,hip-hop
+2421,funkadelic,70's,rock
+2422,madonna,80's,pop
+2423,jimmy eat world,90's,rock
+2424,clairo,10's,folk
+2425,tracy chapman,80's,rock
+2426,lightning bolt,10's,rock
+2427,neurosis,00's,metal
+2428,sigur rós,90's,rock
+2429,damien rice,00's,folk
+2430,arcturus,00's,metal
+2431,peter gabriel,80's,rock
+2432,coldplay,10's,rock
+2434,skee mask,10's,electronic
+2435,the libertines,00's,rock
+2436,weezer,10's,rock
+2437,beat happening,90's,rock
+2438,gnarls barkley,00's,soul_funk
+2439,meshuggah,90's,metal
+2440,aretha franklin,60's,soul_funk
+2441,prince,80's,soul_funk
+2442,dirty three,90's,rock
+2443,buffalo springfield,60's,rock
+2444,lady gaga,10's,pop
+2445,no doubt,90's,rock
+2446,ulver,00's,electronic
+2447,ween,90's,rock
+2448,sunny day real estate,90's,rock
+2449,milo,10's,hip-hop
+2450,nails,10's,metal
+2451,ulcerate,10's,metal
+2452,wavves,10's,rock
+2453,dinosaur jr,90's,rock
+2454,bon jovi,80's,rock
+2455,the mountain goats,00's,folk
+2456,disturbed,00's,metal
+2457,king gizzard & the lizard wizard,10's,rock
+2458,miles davis,60's,jazz
+2459,xiu xiu,10's,rock
+2460,elo,80's,rock
+2461,patti smith group,70's,rock
+2462,korn,00's,metal
+2463,cynic,00's,metal
+2464,the white noise,60's,pop
+2465,the jam,70's,pop
+2466,gentle giant,70's,rock
+2467,linda perhacs,70's,folk
+2468,god is an astronaut,00's,rock
+2469,sodom,80's,metal
+2470,king crimson,00's,rock
+2471,the horrors,00's,rock
+2472,komeda quintet,60's,jazz
+2473,the chemical brothers,90's,rock
+2474,diiv,10's,pop
+2475,bad religion,80's,rock
+2476,tom waits,00's,rock
+2477,kate bush,10's,pop
+2478,scott walker,10's,electronic
+2479,juice wrld,10's,rock
+2480,bolt thrower,00's,metal
+2481,skepta,10's,hip-hop
+2482,stevie wonder,70's,soul_funk
+2483,the jesus lizard,90's,rock
+2484,songs: ohia,00's,rock
+2485,유키카 [yukika],10's,pop
+2486,cult of luna,00's,metal
+2487,queen,80's,rock
+2488,fatboy slim,90's,electronic
+2489,"emerson, lake & palmer",70's,rock
+2490,slayer,90's,metal
+2491,camera obscura,00's,pop
+2492,tindersticks,90's,pop
+2493,jan jelinek,00's,electronic
+2494,dissection,90's,metal
+2495,morrissey,00's,rock
+2496,fripp & eno,70's,electronic
+2497,the red crayola with the familiar ugly,60's,rock
+2498,opeth,10's,rock
+2499,ghost,10's,rock
+2500,chet baker,50's,jazz
+2501,melvins,90's,metal
+2502,brand new,00's,rock
+2503,orb,90's,electronic
+2504,kylie,00's,pop
+2506,editors,00's,rock
+2507,the armed,10's,rock
+2508,badbadnotgood & ghostface killah,10's,jazz
+2509,neil young + crazy horseneil youngcrazy horse,90's,rock
+2510,converge,00's,metal
+2511,alice cooper,70's,rock
+2512,black dresses,10's,rock
+2513,the 1975,10's,rock
+2514,cypress hill,90's,hip-hop
+2515,the cranberries,90's,rock
+2516,lush,90's,rock
+2517,shellac,00's,rock
+2518,arca,10's,electronic
+2519,neurosis,00's,rock
+2520,talking heads,80's,rock
+2521,liturgy,10's,metal
+2522,chvrches,10's,electronic
+2523,run-d.m.c.,80's,hip-hop
+2524,the fall of troy,00's,rock
+2525,standing on the corner,10's,soul_funk
+2526,mad season,90's,rock
+2527,gas,90's,electronic
+2528,two door cinema club,10's,pop
+2529,maudlin of the well,00's,metal
+2530,dream theater,00's,metal
+2531,the roots,10's,hip-hop
+2532,coil,90's,electronic
+2533,autechre,90's,electronic
+2534,jim o'rourke,00's,rock
+2535,dismember,90's,metal
+2537,avril lavigne,00's,rock
+2538,tropical fuck storm,10's,rock
+2539,the caretaker,10's,electronic
+2540,maroon 5,00's,rock
+2541,iceage,10's,rock
+2542,terrorizer,80's,metal
+2543,cannibal corpse,90's,metal
+2544,bright eyes,00's,folk
+2546,atheist,90's,metal
+2547,murmuüre,10's,metal
+2548,matt elliott,00's,rock
+2549,iron butterfly,60's,rock
+2550,company flow,90's,hip-hop
+2551,neon indian,00's,electronic
+2553,echo and the bunnymen,80's,rock
+2554,carly rae jepsen,10's,pop
+2555,william basinski,00's,electronic
+2556,king gizzard & the lizard wizard,10's,rock
+2557,marilyn manson,00's,rock
+2558,charli xcx,10's,electronic
+2559,pet shop boys,90's,electronic
+2560,the birthday party,80's,rock
+2561,genesis,80's,rock
+2562,madonna,80's,pop
+2563,black sabbath,90's,metal
+2564,el-p,10's,hip-hop
+2565,neil young,60's,rock
+2566,daughters,00's,metal
+2567,public image ltd,80's,rock
+2568,blind faith,60's,rock
+2569,pete rock & c.l. smooth,90's,jazz
+2570,haim,10's,rock
+2571,dio,80's,metal
+2572,megadeth,00's,metal
+2573,incubus,00's,rock
+2574,oasis,00's,rock
+2575,ka,10's,hip-hop
+2576,gustavo cerati,90's,rock
+2577,wild nothing,10's,pop
+2578,dogleg,10's,rock
+2579,melvins,90's,rock
+2580,megadeth,00's,metal
+2581,the upsetters,70's,reggae
+2582,mac miller,10's,soul_funk
+2583,hannah diamond,10's,electronic
+2584,stevie ray vaughan and double trouble,80's,rock
+2585,dead can dance,80's,rock
+2586,stella donnelly,10's,pop
+2587,porcupine tree,00's,rock
+2588,椎名林檎 [sheena ringo],00's,rock
+2589,blue öyster cult,70's,rock
+2590,yg,10's,hip-hop
+2591,r.e.m.,90's,rock
+2592,big thief,10's,rock
+2593,post malone,10's,pop
+2594,the radio dept.,10's,pop
+2595,jay-z,10's,hip-hop
+2596,madonna,00's,pop
+2597,the flaming lips,10's,rock
+2598,the thelonious monk quartet,60's,jazz
+2599,katy perry,10's,pop
+2600,they might be giants,80's,rock
+2601,weakling,00's,metal
+2602,kasabian,00's,rock
+2603,avantdale bowling club,10's,jazz
+2604,mac miller,10's,pop
+2605,julien baker,10's,rock
+2607,blonde redhead,00's,rock
+2608,the raconteurs,00's,rock
+2609,the garden,10's,rock
+2610,sonic-youth,00's,rock
+2611,the breeders,90's,rock
+2612,electric wizard,00's,metal
+2613,beirut,00's,folk
+2614,ramleh,80's,electronic
+2615,suffocation,90's,metal
+2616,cocteau twins,90's,pop
+2617,duke ellington & john coltrane,60's,jazz
+2618,john martyn,70's,rock
+2619,depeche mode,80's,electronic
+2620,daughters,00's,metal
+2621,altar of plagues,10's,metal
+2622,pet shop boys,80's,electronic
+2623,slipknot,10's,metal
+2624,kvelertak,10's,rock
+2625,the beach boys,60's,pop
+2626,keane,00's,rock
+2627,dinosaur jr,90's,rock
+2628,siouxsie and the banshees,80's,rock
+2629,fleetwood mac,80's,rock
+2630,tom waits,80's,rock
+2632,"curren$y, freddie gibbs & the alchemist",10's,hip-hop
+2633,13th floor elevators,60's,rock
+2634,青葉市子 [ichiko aoba],10's,folk
+2635,foals,10's,rock
+2636,the mars volta,00's,rock
+2637,alex g,10's,rock
+2638,def leppard,80's,rock
+2639,isis,00's,metal
+2640,bruno pernadas,10's,pop
+2641,donald fagen,80's,pop
+2642,makaveli,90's,hip-hop
+2643,paysage d'hiver,10's,metal
+2644,porter robinson,10's,electronic
+2645,bladee & mechatok,10's,pop
+2646,the wrens,00's,rock
+2647,badbadnotgood,10's,jazz
+2648,roxy music,70's,rock
+2649,children of bodom,00's,metal
+2650,the soft machine,60's,rock
+2651,voivod,80's,metal
+2652,meshuggah,90's,metal
+2653,coroner,90's,metal
+2654,fall out boy,00's,rock
+2655,blu & exile,00's,jazz
+2656,kevin abstract,10's,pop
+2657,viagra boys,10's,rock
+2658,david bowie,80's,rock
+2659,the fall,80's,rock
+2660,pearl jam,00's,rock
+2661,tim hecker,10's,electronic
+2662,can,70's,rock
+2663,bathory,80's,metal
+2664,destroyer,00's,rock
+2665,deathspell omega,00's,metal
+2666,cigarettes after sex,10's,rock
+2667,panic at the disco,00's,rock
+2668,bill callahan,00's,country
+2669,gas,90's,electronic
+2670,van halen,70's,rock
+2671,baroness,00's,metal
+2672,frank zappa,70's,rock
+2673,the pogues,80's,rock
+2674,machine head,00's,metal
+2675,klaus schulze,70's,electronic
+2676,in flames,90's,metal
+2677,a$ap ferg,10's,hip-hop
+2678,iron and wine,00's,folk
+2679,frank zappa,70's,rock
+2681,gas,10's,electronic
+2682,amorphis,90's,metal
+2683,royal blood,10's,rock
+2684,harold budd / brian eno with daniel lanoisharold buddbrian eno,80's,electronic
+2685,depeche mode,00's,electronic
+2686,andrew w.k.,00's,rock
+2687,best coast,10's,pop
+2688,chrome,70's,rock
+2689,guns n' roses,90's,rock
+2690,down,90's,metal
+2691,fontaines d.c.,10's,rock
+2692,amon tobin,90's,jazz
+2693,sebadoh,90's,rock
+2694,moor mother & billy woods,10's,hip-hop
+2695,blue öyster cult,70's,rock
+2696,autechre,10's,electronic
+2697,amon tobin,00's,jazz
+2698,in flames,00's,metal
+2699,placebo,00's,rock
+2700,jorge ben,70's,soul_funk
+2701,bell witch,10's,metal
+2702,gong,70's,rock
+2703,negură bunget,00's,metal
+2704,motörhead,70's,rock
+2705,pearl jam,00's,rock
+2706,sleater-kinney,10's,rock
+2707,파란노을 [parannoul] / asian glow / sonhos tomam conta,10's,rock
+2708,michael kiwanuka,10's,soul_funk
+2709,funkadelic,70's,rock
+2710,david bowie,90's,rock
+2711,waka flocka flame,10's,hip-hop
+2712,neil young,70's,rock
+2713,interpol,10's,rock
+2714,tori amos,90's,pop
+2715,ryan adams,00's,country
+2716,beck,00's,rock
+2717,deerhunter,10's,rock
+2718,anathema,90's,rock
+2719,rammstein,00's,metal
+2720,obituary,90's,metal
+2721,dinosaur jr.,00's,rock
+2722,john lennon & yoko ono,80's,rock
+2723,parquet courts,10's,rock
+2724,nile,00's,metal
+2725,carcass,80's,metal
+2726,alcest,10's,rock
+2727,lift to experience,00's,rock
+2728,mount eerie,00's,folk
+2729,yes,70's,rock
+2730,the streets,00's,hip-hop
+2731,orbital,90's,electronic
+2732,oval,90's,electronic
+2733,susanne sundfør,10's,pop
+2734,modest mouse,10's,rock
+2735,annihilator,80's,metal
+2736,the national,00's,rock
+2737,laurel halo,10's,pop
+2738,edan,00's,hip-hop
+2739,britney spears,00's,pop
+2740,melody's echo chamber,10's,rock
+2741,johnny cash,90's,country
+2742,haim,10's,rock
+2743,"bladee, ecco2k & thaiboy digital",10's,soul_funk
+2744,courtney barnett,10's,rock
+2745,taylor swift,10's,rock
+2746,queen,80's,rock
+2747,bat for lashes,00's,pop
+2748,daft punk,10's,electronic
+2749,francis vincent zappa & the abnuceals emuukha electric symphony orchestra & chorusfrank zappathe abnuceals emuukha electric symphony orchestra,60's,rock
+2750,bob dylan,70's,rock
+2751,kings of leon,00's,rock
+2752,tim hecker,10's,electronic
+2753,nas,00's,hip-hop
+2755,the haxan cloak,10's,electronic
+2756,the national,10's,pop
+2757,kid cudi,10's,pop
+2758,red house painters,90's,rock
+2759,savages,10's,rock
+2760,washed out,10's,electronic
+2761,faust,70's,rock
+2762,j.i.d,10's,hip-hop
+2763,scott walker,60's,pop
+2764,chromatics,10's,pop
+2765,kid cudi,10's,pop
+2766,placebo,00's,rock
+2767,johnny cash,00's,country
+2768,nas,10's,hip-hop
+2769,the cure,00's,rock
+2770,drudkh,00's,metal
+2771,spiritualized?,10's,rock
+2772,aminé,10's,pop
+2773,richard hell & the voidoids,70's,rock
+2774,the durutti column,80's,rock
+2775,lamb of god,00's,metal
+2776,girls,00's,rock
+2777,perfume genius,10's,pop
+2778,uriah heep,70's,rock
+2780,tom petty,80's,rock
+2781,marina & the diamonds,10's,pop
+2782,charles mingus,50's,jazz
+2783,the chameleons,80's,rock
+2784,the caretaker,10's,electronic
+2785,jefferson airplane,60's,rock
+2786,suicidal tendencies,80's,rock
+2787,donovan,60's,pop
+2788,aesop rock,10's,hip-hop
+2789,prince,70's,pop
+2790,the la's,90's,pop
+2791,sepultura,80's,metal
+2792,a place to bury strangers,00's,rock
+2793,interpol,10's,rock
+2794,scott walker,60's,pop
+2795,the last shadow puppets,00's,rock
+2796,mineral,90's,rock
+2797,spoon,00's,rock
+2798,mount eerie,10's,folk
+2799,testament,80's,metal
+2800,mavi,10's,jazz
+2802,spirit of the beehive,10's,rock
+2803,taylor swift,00's,rock
+2804,isis,00's,metal
+2805,the 1975,10's,rock
+2806,gal costa,60's,pop
+2807,algiers,10's,rock
+2808,de la soul,90's,hip-hop
+2809,method man,90's,hip-hop
+2810,common sense,90's,jazz
+2811,pet shop boys,80's,pop
+2812,hop along,10's,rock
+2813,logic,10's,pop
+2814,isaiah rashad,10's,hip-hop
+2815,elton john,70's,rock
+2816,ash ra tempel,70's,rock
+2817,tiamat,90's,metal
+2818,the residents,70's,rock
+2819,caribou,10's,electronic
+2820,weather report,70's,jazz
+2821,cat power,00's,rock
+2822,joyce manor,10's,rock
+2823,tenacious d,00's,rock
+2824,thom yorke,10's,pop
+2825,ed sheeran,10's,pop
+2826,dj sprinkles,00's,electronic
+2827,tom petty and the heartbreakers,70's,rock
+2828,oranssi pazuzu,10's,rock
+2829,genesis,80's,rock
+2830,pestilence,80's,metal
+2831,jay-z,00's,pop
+2832,soccer mommy,10's,rock
+2833,audioslave,00's,rock
+2834,jethro tull,70's,rock
+2835,j. cole,10's,hip-hop
+2836,m.i.a.,10's,hip-hop
+2837,megadeth,90's,rock
+2838,sigur rós,00's,rock
+2839,bob dylan,80's,rock
+2840,charli xcx,10's,rock
+2841,robyn,10's,pop
+2842,red hot chili peppers,10's,rock
+2843,lil xan,10's,hip-hop
+2844,pj harvey,00's,rock
+2845,aerosmith,70's,rock
+2846,the millennium,60's,pop
+2847,dream theater,80's,metal
+2848,unknown mortal orchestra,10's,rock
+2849,m83,00's,pop
+2850,touché amoré,10's,rock
+2851,aesop rock,00's,hip-hop
+2852,avenged sevenfold,00's,metal
+2853,dr. dre,10's,hip-hop
+2854,the weather station,10's,pop
+2855,rancid,90's,rock
+2856,neptunian maximalism,10's,metal
+2857,captain beefheart and the magic band,70's,rock
+2858,david bowie,90's,pop
+2859,autopsy,80's,metal
+2860,nick cave & the bad seeds,80's,rock
+2861,black rebel motorcycle club,00's,rock
+2862,traffic,70's,rock
+2863,soundgarden,80's,rock
+2864,mew,00's,rock
+2865,caribou,10's,electronic
+2867,bruce springsteen,80's,rock
+2868,mazzy star,90's,rock
+2869,fishmans,90's,rock
+2870,entombed,90's,metal
+2871,the dismemberment plan,00's,rock
+2872,schoolboy q,10's,hip-hop
+2874,elder,10's,rock
+2875,children of bodom,90's,metal
+2876,ac/dc,00's,rock
+2877,ryuichi sakamoto,70's,electronic
+2878,vektor,10's,metal
+2879,slayer,90's,metal
+2880,oneohtrix point never,10's,electronic
+2881,belle & sebastian,00's,pop
+2882,wolves in the throne room,00's,metal
+2883,pet shop boys,80's,pop
+2884,deerhunter,10's,rock
+2885,lou reed,70's,rock
+2886,yo la tengo,90's,rock
+2887,elton john,70's,rock
+2888,paul simon,70's,rock
+2889,blood orange,10's,soul_funk
+2890,john mayall with eric claptonjohn mayalleric claptonjohn mayall's bluesbreakers,60's,rock
+2891,jeru the damaja,90's,hip-hop
+2892,death cab for cutie,00's,rock
+2893,japandroids,00's,rock
+2894,공중도덕,10's,pop
+2895,talk talk,80's,electronic
+2896,fennesz,00's,electronic
+2897,yeule,10's,pop
+2898,wipers,80's,rock
+2899,judas priest,80's,rock
+2900,teyana taylor,10's,soul_funk
+2901,weezer,10's,rock
+2902,the future sound of london,90's,electronic
+2903,r.e.m.,00's,rock
+2904,dj shadow,00's,hip-hop
+2905,thee oh sees,10's,rock
+2906,the church,80's,rock
+2907,broadcast,00's,rock
+2908,lucinda williams,90's,country
+2909,huncho jack,10's,hip-hop
+2910,spoon,10's,rock
+2911,the 1975,10's,pop
+2912,muse,10's,rock
+2913,soccer mommy,10's,pop
+2914,adele,10's,pop
+2915,tv on the radio,00's,rock
+2916,amon amarth,00's,metal
+2917,u2,00's,rock
+2918,deicide,90's,metal
+2919,sufjan stevens,00's,pop
+2920,megadeth,00's,metal
+2921,the black keys,00's,rock
+2922,young fathers,10's,soul_funk
+2923,sunn o))),10's,metal
+2924,hermit and the recluse,10's,hip-hop
+2925,little richard,50's,rock
+2926,richard & linda thompson,70's,rock
+2927,farrah abraham,10's,pop
+2928,fontaines d.c.,10's,rock
+2929,mono,00's,rock
+2930,life without buildings,00's,rock
+2931,coheed and cambria,00's,rock
+2932,garbage,90's,rock
+2933,kelly lee owens,10's,pop
+2934,helmet,90's,rock
+2935,judas priest,70's,rock
+2936,grimes,10's,pop
+2937,cake,90's,rock
+2938,azealia banks,10's,hip-hop
+2939,mogwai,10's,rock
+2941,linkin park,10's,rock
+2942,kiss,70's,rock
+2943,kings of leon,00's,rock
+2944,misfits,80's,rock
+2945,slayer,00's,metal
+2946,x-ray spex,70's,rock
+2947,clarence clarity,10's,pop
+2948,suffocation,90's,metal
+2949,immortal,00's,metal
+2950,gene clark,70's,rock
+2951,the prodigy,00's,electronic
+2952,sun ra,70's,jazz
+2953,dark tranquillity,90's,metal
+2954,future,10's,hip-hop
+2955,a-ha,80's,electronic
+2957,eric b. & rakim,80's,hip-hop
+2958,incubus,90's,metal
+2959,third eye blind,90's,rock
+2960,dean blunt,10's,pop
+2961,voivod,80's,metal
+2962,grant green,60's,jazz
+2963,natalia lafourcade,10's,folk
+2964,chick corea,70's,jazz
+2965,nightwish,00's,metal
+2966,nine inch nails,00's,rock
+2967,bruno pernadas,10's,pop
+2968,"harold budd, elizabeth fraser, robin guthrie & simon raymonde",80's,pop
+2969,flying saucer attack,90's,rock
+2970,lil wayne,00's,hip-hop
+2971,in flames,90's,metal
+2972,devin townsend,00's,metal
+2973,swirlies,90's,rock
+2974,the roots,00's,hip-hop
+2975,bauhaus,80's,rock
+2976,bruno mars,10's,soul_funk
+2977,deep purple,60's,rock
+2978,the beach boys,60's,rock
+2979,dead can dance,90's,folk
+2980,la dispute,00's,rock
+2981,mötley crüe,80's,metal
+2982,the stone roses,90's,rock
+2983,tubeway army,70's,electronic
+2984,devon hendryx,10's,pop
+2985,king gizzard & the lizard wizard,10's,rock
+2986,tycho,10's,electronic
+2987,arca,10's,electronic
+2988,pageninetynine,00's,rock
+2990,neil cicierega,10's,pop
+2992,killing joke,80's,rock
+2993,burzum,10's,metal
+2994,the jam,80's,rock
+2995,sparks,70's,electronic
+2996,supergrass,90's,rock
+2997,regina spektor,00's,pop
+2998,kings of leon,00's,rock
+2999,bo burnham,10's,electronic
+3000,the chameleons,80's,rock
+3001,amon amarth,00's,metal
+3002,ozzy osbourne,90's,rock
+3003,death's dynamic shroud.wmv,10's,pop
+3004,neil young,80's,rock
+3005,future,10's,pop
+3006,fugazi,90's,rock
+3007,mike,10's,hip-hop
+3008,throbbing gristle,70's,electronic
+3009,nightwish,90's,metal
+3010,dire straits,70's,rock
+3011,stereolab,90's,pop
+3012,amy winehouse,00's,blues
+3013,iron & wine,00's,folk
+3014,mos def,00's,hip-hop
+3015,depeche mode,80's,electronic
+3016,the black keys,10's,rock
+3017,unknown mortal orchestra,10's,pop
+3018,lemon demon,10's,electronic
+3019,summoning,90's,metal
+3020,alex cameron,10's,electronic
+3021,camel,70's,rock
+3022,iceage,10's,rock
+3023,the horace silver quintet,60's,jazz
+3024,jeff rosenstock,10's,rock
+3025,john cale,70's,rock
+3026,marina and the diamonds,10's,pop
+3027,katatonia,00's,rock
+3028,why?,00's,pop
+3029,jorge ben,70's,soul_funk
+3030,okkervil river,00's,rock
+3031,sparks,70's,rock
+3032,built to spill,00's,rock
+3033,070 shake,10's,pop
+3034,japan,80's,pop
+3035,the chemical brothers,90's,electronic
+3036,the fall,80's,rock
+3037,elvis costello & the attractions,80's,rock
+3038,king gizzard & the lizard wizard,10's,rock
+3039,the decemberists,00's,rock
+3040,yes,80's,rock
+3041,a winged victory for the sullen,10's,electronic
+3042,happy mondays,90's,rock
+3043,funkadelic,70's,rock
+3044,rush,80's,rock
+3045,nas,90's,hip-hop
+3046,sun kil moon,00's,rock
+3047,type o negative,90's,metal
+3048,the new pornographers,00's,pop
+3049,kaiser chiefs,00's,rock
+3050,ryoji ikeda,00's,electronic
+3051,yeule,10's,pop
+3052,smashing pumpkins,00's,rock
+3053,julia holter,10's,pop
+3054,naked city,90's,metal
+3055,air,00's,electronic
+3056,a perfect circle,00's,rock
+3057,germs,70's,rock
+3058,stevie wonder,70's,soul_funk
+3059,anohni,10's,pop
+3060,harry styles,10's,rock
+3061,grouper,10's,folk
+3062,mdou moctar,10's,rock
+3063,invisible,70's,rock
+3064,genesis,80's,rock
+3065,machine head,90's,metal
+3066,atlas sound,00's,rock
+3067,bonobo,10's,electronic
+3068,roy harper,70's,folk
+3069,the rolling stones,70's,rock
+3070,the fiery furnaces,00's,pop
+3071,abc,80's,electronic
+3072,doja cat,10's,pop
+3073,bob dylan,70's,rock
+3074,bolt thrower,80's,metal
+3075,pantera,00's,metal
+3076,peste noire,00's,metal
+3077,the red hot chili peppers,80's,rock
+3078,sun kil moon,10's,rock
+3079,logic,10's,hip-hop
+3080,simple minds,80's,electronic
+3082,dltzk,10's,pop
+3083,the birthday party,80's,rock
+3084,opeth,10's,rock
+3085,65daysofstatic,00's,rock
+3086,ministry,80's,rock
+3087,yndi halda,00's,rock
+3089,forest swords,10's,electronic
+3090,aerosmith,80's,rock
+3091,van dyke parks,60's,pop
+3092,electric light orchestra,70's,rock
+3093,bark psychosis,00's,rock
+3094,uncle acid & the deadbeats,10's,rock
+3095,girls,10's,rock
+3096,a. g. cook,10's,electronic
+3097,linkin park,00's,rock
+3098,kansas,70's,rock
+3099,teenage fanclub,90's,pop
+3100,japanese breakfast,10's,pop
+3101,chapterhouse,90's,rock
+3102,kate bush,90's,pop
+3103,bob marley & the wailersbob marleythe wailers,70's,reggae
+3104,agent orange,80's,rock
+3105,idles,10's,rock
+3106,jethro tull,70's,rock
+3107,mazzy star,90's,rock
+3108,moses sumney,10's,pop
+3109,blind guardian,90's,metal
+3110,cardiacs,90's,rock
+3111,this town needs guns,00's,rock
+3112,green day,10's,rock
+3113,armand hammer,10's,hip-hop
+3114,fairport convention,60's,rock
+3115,paradise lost,90's,metal
+3116,judas priest,80's,rock
+3117,suede,90's,rock
+3118,luomo,00's,electronic
+3119,between the buried and me,00's,metal
+3120,dead kennedys,80's,rock
+3121,wintersun,00's,metal
+3122,ybn cordae,10's,jazz
+3123,cunninlynguists,10's,hip-hop
+3124,ozzy osbourne,80's,rock
+3125,limp bizkit,90's,metal
+3126,the gun club,80's,rock
+3127,seefeel,90's,electronic
+3128,gentle giant,70's,rock
+3129,the sugarcubes,80's,rock
+3130,the red hot chili peppers,80's,rock
+3131,protomartyr,10's,rock
+3132,meshuggah,00's,metal
+3133,death cab for cutie,00's,rock
+3134,marillion,80's,rock
+3135,gang of four,80's,rock
+3136,pearl jam,00's,rock
+3137,oh sees,10's,rock
+3138,pj harvey,10's,rock
+3139,underscores,10's,pop
+3140,blue öyster cult,80's,rock
+3141,viper,00's,hip-hop
+3142,山下達郎 [tatsuro yamashita],80's,pop
+3143,kraftwerk,70's,rock
+3144,ac/dc,70's,rock
+3145,darkside,10's,rock
+3146,corey feldman,10's,rock
+3147,antônio carlos jobim,60's,jazz
+3148,slipknot,10's,metal
+3149,sade,80's,pop
+3150,yuck,10's,rock
+3151,jefferson airplane,60's,rock
+3152,fantômas,00's,rock
+3153,beat happening,80's,rock
+3154,norah jones,00's,pop
+3155,the mars volta,10's,rock
+3156,toro y moi,10's,electronic
+3157,real estate,10's,pop
+3158,souls of mischief,90's,jazz
+3159,marilyn manson,00's,rock
+3160,napalm death,80's,metal
+3161,fax gang,10's,hip-hop
+3162,richard dawson,10's,rock
+3163,ministry,80's,rock
+3164,nile,00's,metal
+3165,foals,10's,rock
+3166,genesis,70's,rock
+3167,cindy lee,10's,pop
+3168,hum,90's,rock
+3169,disembowelment,90's,metal
+3170,preoccupations,10's,rock
+3171,ana frango elétrico,10's,pop
+3172,nas,00's,hip-hop
+3173,alcest,10's,metal
+3174,lily allen,00's,pop
+3175,bob dylan,70's,rock
+3176,elvis costello & the attractions,80's,rock
+3177,anathema,00's,rock
+3178,steven wilson,10's,rock
+3179,dark angel,80's,metal
+3180,sparklehorse,90's,rock
+3181,thaiboy digital,10's,hip-hop
+3182,echo & the bunnymen,80's,rock
+3183,the kinks,70's,rock
+3185,jethro tull,70's,rock
+3186,roxy music,70's,rock
+3187,dark throne,90's,metal
+3188,kurt vile,10's,rock
+3189,grizzly bear,10's,rock
+3190,paramore,00's,rock
+3191,dream theater,10's,metal
+3192,armand hammer,10's,hip-hop
+3193,nina simone,60's,soul_funk
+3194,grateful dead,60's,rock
+3195,turnover,10's,rock
+3196,logic,10's,pop
+3197,christoph de babalon,90's,electronic
+3198,coil,00's,electronic
+3199,william basinski,00's,electronic
+3200,anathema,10's,rock
+3201,iglooghost,10's,electronic
+3202,the cure,90's,rock
+3203,sigh,00's,metal
+3204,吉村弘 [hiroshi yoshimura],80's,electronic
+3205,lil peep,10's,rock
+3206,the dillinger esc plan,10's,metal
+3207,wild nothing,10's,pop
+3208,adolescents,80's,rock
+3209,the residents,80's,pop
+3210,linkin park,10's,electronic
+3211,power trip,10's,metal
+3212,backxwash,10's,hip-hop
+3213,john prine,70's,folk
+3214,florence + the machine,10's,rock
+3215,kraftwerk,80's,electronic
+3216,pain of salvation,00's,metal
+3218,autechre,10's,electronic
+3219,deepchord presents echospace,10's,electronic
+3220,morrissey,90's,rock
+3221,mgła,10's,metal
+3222,pharoah sanders,70's,jazz
+3223,the red hot chili peppers,80's,rock
+3224,lupe fiasco,00's,hip-hop
+3225,n*e*r*d,10's,pop
+3226,r.e.m.,00's,rock
+3227,machine girl,10's,electronic
+3228,thelonious monk septet,50's,jazz
+3229,lee morgan,60's,jazz
+3230,the beach boys,60's,rock
+3231,sodom,80's,metal
+3232,the roots,90's,jazz
+3233,the kinks,60's,rock
+3234,deep purple,80's,rock
+3235,adele,00's,pop
+3236,yo la tengo,00's,rock
+3237,blu & exile,10's,jazz
+3238,lovesliescrushing,90's,rock
+3239,explosions in the sky,00's,rock
+3241,burzum,90's,electronic
+3242,jay-z,00's,hip-hop
+3243,神聖かまってちゃん [shinsei kamattechan],10's,rock
+3244,helloween,80's,metal
+3245,coheed and cambria,00's,rock
+3246,deep purple,60's,rock
+3247,miles davis,60's,jazz
+3248,van morrison,70's,rock
+3249,the rolling stones,70's,rock
+3250,bob dylan,70's,rock
+3251,the dream syndicate,80's,pop
+3252,the caretaker,10's,electronic
+3253,tori amos,90's,pop
+3254,saint pepsi,10's,soul_funk
+3255,klaxons,00's,rock
+3256,blanck mass,10's,electronic
+3257,the allman brothers band,60's,rock
+3258,genesis,60's,rock
+3259,al green,70's,soul_funk
+3260,jaden,10's,pop
+3261,van der graaf generator,70's,rock
+3262,no age,00's,rock
+3263,new order,00's,rock
+3264,van der graaf generator,70's,rock
+3265,alice coltrane,70's,jazz
+3266,songs: ohia,00's,rock
+3267,remo drive,10's,rock
+3268,zz top,80's,rock
+3269,cat stevens,70's,rock
+3270,paul mccartney,80's,rock
+3271,el-p,00's,hip-hop
+3272,avenged sevenfold,10's,metal
+3273,nilsson,70's,rock
+3274,gentle giant,70's,rock
+3275,the get up kids,90's,rock
+3276,dinosaur jr.,00's,rock
+3277,spoon,00's,rock
+3278,santana,70's,rock
+3279,of montreal,00's,pop
+3280,elbow,00's,rock
+3281,thee silver mt. zion memorial orchestra & tra-la-la band,00's,rock
+3282,ボリス,10's,rock
+3283,andrew jackson jihad,00's,rock
+3284,lil ugly mane,10's,hip-hop
+3285,elton john,70's,rock
+3286,ayreon,00's,rock
+3287,al green,70's,soul_funk
+3288,alt-j,10's,pop
+3289,pearl jam,00's,rock
+3290,john coltrane,70's,jazz
+3291,coroner,80's,metal
+3292,neurosis,90's,metal
+3293,megadeth,10's,metal
+3294,judas priest,80's,metal
+3295,doja cat,10's,pop
+3296,converge & chelsea wolfe,10's,metal
+3297,the stranglers,70's,rock
+3298,harmonium,70's,folk
+3299,harold budd,70's,electronic
+3300,superorganism,10's,rock
+3301,mike,10's,hip-hop
+3303,beth gibbons & rustin man,00's,folk
+3304,in flames,00's,metal
+3305,steven wilson,00's,rock
+3306,大貫妙子 [taeko ohnuki],70's,pop
+3307,sonic youth,00's,rock
+3308,sum 41,00's,rock
+3309,gang gang dance,10's,rock
+3310,bolt thrower,90's,metal
+3311,buzzcocks,70's,rock
+3312,crying,10's,pop
+3313,the flaming lips,10's,rock
+3314,bad religion,80's,rock
+3315,fleetwood mac,60's,rock
+3316,the newfound interest in connecticut,00's,rock
+3317,grouper,10's,folk
+3318,lynyrd skynyrd,70's,rock
+3319,einstürzende neubauten,80's,electronic
+3320,behemoth,00's,metal
+3321,prurient,10's,electronic
+3322,andrew hill,60's,jazz
+3323,the flying burrito bros,60's,rock
+3324,gong,70's,rock
+3325,green day,10's,rock
+3326,lil pump,10's,hip-hop
+3327,dmx,90's,hip-hop
+3328,jeff buckley,90's,rock
+3329,blonde redhead,00's,rock
+3331,peter gabriel,70's,rock
+3332,caribou,00's,pop
+3333,the miles davis quintet,50's,jazz
+3334,afi,00's,rock
+3336,iamamiwhoami,10's,pop
+3337,ski mask the slump god,10's,hip-hop
+3338,weyes blood,10's,pop
+3339,the velvet underground,70's,rock
+3340,rush,10's,rock
+3341,lady gaga,10's,rock
+3342,motörhead,70's,rock
+3343,sbtrkt,10's,electronic
+3344,bring me the horizon,10's,rock
+3345,the who,70's,rock
+3346,anthrax,90's,metal
+3347,jethro tull,70's,rock
+3348,sun ra,50's,jazz
+3349,cluster,70's,rock
+3350,jack white,10's,rock
+3351,the incredible string band,60's,folk
+3352,kamasi washington,10's,jazz
+3353,lykke li,10's,pop
+3354,rodriguez,70's,rock
+3355,captain beefheart and the magic band,80's,rock
+3356,marilyn manson,90's,rock
+3357,envy,00's,metal
+3358,alabama shakes,10's,rock
+3359,the residents,70's,electronic
+3360,きのこ帝国 [kinoko teikoku],10's,rock
+3361,cannibal corpse,90's,metal
+3362,megadeth,00's,metal
+3363,the wailers,70's,reggae
+3364,pup,10's,rock
+3365,dry cleaning,10's,rock
+3366,aerosmith,90's,rock
+3367,my dying bride,90's,metal
+3368,mobb deep,90's,hip-hop
+3369,david crosby,70's,rock
+3370,the raconteurs,00's,rock
+3371,perfume genius,10's,pop
+3373,henry cow,70's,rock
+3374,throbbing gristle,70's,electronic
+3375,scorpions,80's,rock
+3376,mount eerie,10's,folk
+3377,max roach,60's,jazz
+3378,future islands,10's,electronic
+3379,the alan parsons project,70's,rock
+3380,the alan parsons project,70's,rock
+3381,anna von hausswolff,10's,electronic
+3382,the offspring,90's,rock
+3383,clipse,00's,hip-hop
+3385,ashra,70's,electronic
+3386,hmltd,10's,rock
+3387,bill evans trio,60's,jazz
+3388,angelo badalamenti,90's,jazz
+3389,streetlight manifesto,00's,rock
+3390,korn,00's,metal
+3391,thee silver mt. zion memorial orchestra,10's,rock
+3392,hüsker dü,80's,rock
+3393,the rolling stones,60's,rock
+3394,hüsker dü,80's,rock
+3395,rob scallon & doug walker,10's,rock
+3396,passion pit,00's,pop
+3397,future,10's,hip-hop
+3398,violent femmes,80's,rock
+3399,converge,90's,metal
+3400,the byrds,60's,rock
+3401,kreator,90's,metal
+3402,charlie mingus,60's,jazz
+3403,the beach boys,60's,rock
+3404,smog,90's,rock
+3405,john coltrane quartet,60's,jazz
+3406,mogwai,00's,rock
+3407,archers of loaf,90's,rock
+3408,avenged sevenfold,00's,metal
+3409,alice cooper,70's,rock
+3410,the carters,10's,pop
+3411,tangerine dream,70's,electronic
+3412,at the gates,90's,metal
+3413,car seat headrest,10's,rock
+3414,big thief,10's,rock
+3415,6ix9ine,10's,hip-hop
+3417,porcupine tree,90's,rock
+3418,autechre,00's,electronic
+3419,drop nineteens,90's,rock
+3420,kraftwerk,00's,electronic
+3421,"sufjan stevens, nico muhly, bryce dessner & james mcalister",10's,pop
+3422,rise against,00's,rock
+3423,diamond head,80's,metal
+3424,king gizzard & the lizard wizard,10's,rock
+3425,captain beyond,70's,rock
+3426,nick cave and the bad seeds,00's,rock
+3427,satyricon,90's,metal
+3428,madonna,00's,electronic
+3429,shining,00's,metal
+3431,better oblivion community center,10's,rock
+3432,voivod,80's,metal
+3433,acid bath,90's,metal
+3434,arlo parks,10's,pop
+3435,stereolab,90's,pop
+3436,cyndi lauper,80's,rock
+3437,mount eerie,00's,folk
+3438,sturgill simpson,10's,soul_funk
+3439,mutantes,70's,rock
+3440,celtic frost,80's,metal
+3441,adele,10's,pop
+3442,mewithoutyou,00's,rock
+3443,blood incantation,10's,metal
+3444,slick rick,80's,hip-hop
+3445,enslaved,00's,metal
+3446,rome,00's,folk
+3447,wilco,00's,rock
+3448,baroness,10's,rock
+3449,boldy james & the alchemist,10's,hip-hop
+3450,deicide,90's,metal
+3451,riverside,00's,rock
+3452,the black keys,00's,rock
+3453,metronomy,10's,pop
+3454,wilco,10's,rock
+3455,blood orange,10's,soul_funk
+3456,future,10's,hip-hop
+3458,scarface,90's,hip-hop
+3459,isis,00's,metal
+3460,ne obliviscaris,10's,metal
+3461,fuck buttons,10's,rock
+3462,ben frost,10's,electronic
+3463,21 savage,10's,hip-hop
+3464,gojira,10's,metal
+3465,foxtails,10's,rock
+3466,machine girl,10's,electronic
+3467,tori amos,90's,pop
+3468,aaliyah,00's,soul_funk
+3469,various artists,10's,pop
+3470,animals as leaders,00's,metal
+3471,silver jews,90's,rock
+3472,swell maps,80's,rock
+3473,françoise hardy,70's,pop
+3474,hayley williams,10's,pop
+3475,thinking fellers union local 282,90's,rock
+3476,tuxedomoon,80's,rock
+3477,moonsorrow,00's,metal
+3478,the devin townsend project,00's,metal
+3479,deep purple,70's,rock
+3480,the books,00's,folk
+3481,neil young,70's,rock
+3482,tindersticks,90's,pop
+3483,primordial,00's,metal
+3484,loathe,10's,metal
+3485,burzum,10's,metal
+3486,dababy,10's,hip-hop
+3487,the miles davis quintet,50's,jazz
+3488,manic street preachers,90's,rock
+3489,premiata forneria marconi,70's,rock
+3490,king crimson,00's,rock
+3491,uriah heep,70's,rock
+3492,solid space,80's,electronic
+3493,siouxsie and the banshees,80's,rock
+3494,kreator,80's,metal
+3495,diiv,10's,rock
+3496,amesoeurs,00's,rock
+3497,mac demarco,10's,rock
+3498,parliament,70's,soul_funk
+3499,fall out boy,00's,rock
+3500,depeche mode,00's,electronic
+3501,lou reed & john cale,90's,rock
+3502,beastie boys,00's,hip-hop
+3503,queen,90's,rock
+3504,big pun,90's,hip-hop
+3505,feist,00's,pop
+3506,hole,90's,rock
+3507,2pac,90's,hip-hop
+3508,the darkness,00's,rock
+3509,children of bodom,00's,metal
+3510,hawkwind,70's,rock
+3511,ac/dc,70's,rock
+3512,grouper,10's,electronic
+3513,ariana grande,10's,pop
+3514,eyehategod,90's,metal
+3515,miles davis quintet,50's,jazz
+3516,caravan,70's,rock
+3517,ved buens ende.....,90's,metal
+3518,black moth super rainbow,00's,rock
+3519,iggy pop,10's,rock
+3520,shame,10's,rock
+3521,judas priest,00's,metal
+3522,beach bunny,10's,rock
+3523,pink guy,10's,hip-hop
+3524,bring me the horizon,10's,rock
+3525,sun city girls,90's,rock
+3526,bad brains,80's,rock
+3527,danny brown,10's,hip-hop
+3528,beastie boys,10's,hip-hop
+3529,grace jones,80's,pop
+3530,mass of the fermenting dregs,00's,rock
+3531,pinegrove,10's,rock
+3532,matmos,10's,electronic
+3533,circle jerks,80's,rock
+3534,diiv,10's,rock
+3535,mount eerie,00's,folk
+3536,kali uchis,10's,soul_funk
+3537,juice wrld,10's,rock
+3538,danzig,90's,rock
+3539,yes,70's,rock
+3540,tune-yards,10's,pop
+3541,r.a.p. ferreira,10's,jazz
+3542,jethro tull,60's,rock
+3543,le tigre,90's,rock
+3544,robbie basho,70's,folk
+3545,sun ra and his arkestra,70's,jazz
+3546,the hives,00's,rock
+3547,paavoharju,00's,folk
+3548,street sects,10's,rock
+3549,city morgue,10's,metal
+3550,sonny sharrock,60's,jazz
+3551,the damned,70's,rock
+3552,neko case,00's,country
+3553,logic,10's,pop
+3554,doves,00's,rock
+3555,death cab for cutie,00's,rock
+3556,rod stewart,70's,rock
+3557,between the buried and me,00's,metal
+3558,travis,90's,rock
+3559,autechre,10's,electronic
+3560,katatonia,00's,rock
+3561,alice cooper,70's,rock
+3562,ramones,80's,rock
+3563,tennis,10's,pop
+3564,the rapture,00's,rock
+3565,miles davis,60's,jazz
+3566,van halen,80's,rock
+3567,genesis,90's,rock
+3568,type o negative,90's,metal
+3569,rammstein,10's,metal
+3570,floating points,10's,electronic
+3571,goodie mob,90's,hip-hop
+3572,t2,70's,rock
+3573,cage the elephant,00's,rock
+3574,nas,10's,hip-hop
+3575,obituary,80's,metal
+3576,bruce springsteen,00's,rock
+3577,natural snow buildings,00's,folk
+3578,ariel pink's haunted graffiti,10's,pop
+3579,panic! at the disco,10's,rock
+3580,black sabbath,80's,metal
+3581,soda stereo,90's,rock
+3582,logic,10's,hip-hop
+3583,anathema,10's,rock
+3584,baroness,10's,rock
+3585,wes montgomery,60's,jazz
+3586,incantation,90's,metal
+3587,coldplay,10's,pop
+3588,the moody blues,60's,pop
+3589,julien baker,10's,rock
+3590,sadness,10's,metal
+3591,hatchie,10's,pop
+3592,czarface & mf doom,10's,hip-hop
+3593,gorguts,90's,metal
+3594,anthrax,80's,metal
+3595,autechre,00's,electronic
+3596,jamiroquai,90's,jazz
+3597,laura nyro,60's,pop
+3598,the beach boys,60's,rock
+3599,warning,00's,metal
+3600,metro boomin,10's,hip-hop
+3601,kashiwa daisuke,00's,electronic
+3602,planning for burial,10's,rock
+3603,twenty one pilots,10's,pop
+3604,liars,00's,rock
+3606,strapping young lad,00's,metal
+3607,van morrison,70's,rock
+3608,jean michel jarre,70's,electronic
+3609,city of caterpillar,00's,rock
+3610,denzel curry,10's,hip-hop
+3611,cult of luna,10's,metal
+3612,ryuichi sakamoto,10's,electronic
+3613,mgła,10's,metal
+3614,nightwish,00's,metal
+3615,bob dylan,80's,rock
+3616,chloe x halle,10's,soul_funk
+3617,james blake,10's,soul_funk
+3618,hawkwind,70's,rock
+3619,the gathering,90's,metal
+3620,grouper,10's,pop
+3621,black flag,80's,rock
+3622,jesu,00's,rock
+3623,baths,10's,pop
+3624,underworld,90's,electronic
+3625,dirty projectors,10's,pop
+3626,against me!,10's,rock
+3627,halsey,10's,rock
+3628,rjd2,00's,hip-hop
+3629,van halen,80's,rock
+3630,swirlies,90's,rock
+3631,my dying bride,90's,metal
+3632,coil,80's,electronic
+3633,sparklehorse,90's,rock
+3634,schoolboy q,10's,hip-hop
+3635,drive like jehu,90's,rock
+3636,actress,10's,electronic
+3637,nas,10's,hip-hop
+3638,吉村弘 [hiroshi yoshimura],80's,electronic
+3639,creedence clearwater revival,70's,rock
+3640,gentle giant,70's,rock
+3641,the fall,70's,rock
+3642,britney spears,90's,pop
+3643,xiu xiu,00's,rock
+3644,mötley crüe,80's,rock
+3645,"the good, the bad & the queen",00's,rock
+3646,the who,70's,rock
+3647,juice wrld,10's,rock
+3648,the mama's and the papa's,60's,rock
+3649,hüsker dü,80's,rock
+3650,silversun pickups,00's,rock
+3651,mercury rev,90's,rock
+3652,world's end girlfriend,00's,rock
+3653,bring me the horizon,00's,metal
+3654,overkill,80's,metal
+3655,greta van fleet,10's,rock
+3656,santana,70's,rock
+3657,hot chip,00's,pop
+3658,deep purple,70's,rock
+3659,sublime,90's,rock
+3660,wilco,90's,country
+3661,aesop rock,10's,hip-hop
+3662,the tallest man on earth,00's,folk
+3663,agalloch,10's,metal
+3664,meat puppets,80's,rock
+3665,poppy,10's,pop
+3666,marvin gaye,70's,soul_funk
+3667,tim buckley,60's,folk
+3668,randy newman,70's,rock
+3669,yellow magic orchestra,70's,electronic
+3670,john coltrane,70's,jazz
+3671,the caretaker,10's,electronic
+3672,the residents,70's,rock
+3673,кино [kino],80's,rock
+3674,grandaddy,90's,rock
+3675,accept,80's,metal
+3676,hop along,10's,rock
+3677,code orange,10's,metal
+3678,cult of luna,00's,metal
+3679,einstürzende neubauten,80's,electronic
+3680,the cult,80's,rock
+3681,don cherry,70's,jazz
+3682,taking back sunday,00's,rock
+3683,john coltrane quartet,60's,jazz
+3684,the pharcyde,90's,hip-hop
+3685,siouxsie & the banshees,80's,rock
+3686,korn,00's,metal
+3687,the kooks,00's,rock
+3688,einstuerzende neubauten,80's,electronic
+3690,premiata forneria marconi,70's,rock
+3691,jay-z,90's,hip-hop
+3692,u2,10's,rock
+3693,bad brains,80's,rock
+3694,jefre cantu-ledesma,10's,electronic
+3695,snail mail,10's,rock
+3696,suicide,80's,rock
+3697,slayer,90's,rock
+3698,devendra banhart,00's,folk
+3699,logic,10's,rock
+3700,scorpions,80's,rock
+3701,rush,90's,rock
+3702,nas,10's,hip-hop
+3703,live,90's,rock
+3704,ben folds five,90's,rock
+3705,nickelback,00's,rock
+3706,burzum,90's,electronic
+3707,aerosmith,70's,rock
+3708,joão gilberto,50's,jazz
+3709,autechre,00's,electronic
+3710,freddie gibbs,10's,hip-hop
+3711,the future sound of london,90's,electronic
+3712,3776,10's,pop
+3713,john lennon,70's,rock
+3714,bring me the horizon,10's,rock
+3715,open mike eagle,10's,hip-hop
+3716,four tet,10's,electronic
+3717,65daysofstatic,00's,rock
+3718,the blue öyster cult,70's,rock
+3719,múm,00's,electronic
+3720,forest swords,10's,electronic
+3721,a place to bury strangers,00's,rock
+3722,orange juice,80's,pop
+3723,future,10's,hip-hop
+3724,sevdaliza,10's,pop
+3725,simon & garfunkel,60's,pop
+3726,rush,80's,rock
+3727,ice cube,90's,hip-hop
+3728,rammstein,00's,metal
+3729,gang starr,90's,jazz
+3730,eddie vedder,00's,rock
+3731,queensrÿche,90's,rock
+3732,john mayer,00's,rock
+3733,band of horses,00's,rock
+3734,supertramp,70's,rock
+3735,jeff beck,70's,rock
+3736,damon albarn,10's,pop
+3737,gris,00's,metal
+3738,janet jackson,80's,pop
+3739,chicago transit authority,60's,rock
+3740,rob zombie,90's,metal
+3741,windir,90's,metal
+3742,alex g,10's,rock
+3743,funkadelic,70's,rock
+3744,phil collins,80's,rock
+3745,sarcófago,80's,metal
+3746,dredg,00's,rock
+3747,minutemen,80's,rock
+3748,the world is a beautiful place & i am no longer afraid to die,10's,rock
+3749,small faces,60's,rock
+3750,john frusciante,00's,rock
+3751,devin townsend,00's,metal
+3752,morbid saint,90's,metal
+3753,the decemberists,00's,rock
+3755,sleater-kinney,00's,rock
+3756,disturbed,00's,rock
+3757,green day,10's,rock
+3758,sepultura,80's,metal
+3759,renaissance,70's,rock
+3760,brian eno,70's,electronic
+3761,aztec camera,80's,pop
+3762,willie nelson,70's,country
+3763,cursive,00's,rock
+3764,jessica pratt,10's,folk
+3765,the dillinger escape plan,10's,metal
+3766,koopsta knicca,90's,hip-hop
+3767,mono,00's,rock
+3768,the alan parsons project,80's,rock
+3769,alice in chains,10's,rock
+3770,warpaint,10's,rock
+3771,toe,00's,rock
+3773,marvin gaye,70's,soul_funk
+3774,zappa,70's,rock
+3775,traveling wilburys,80's,rock
+3776,yo la tengo,10's,rock
+3777,men i trust,10's,pop
+3778,circle takes the square,00's,rock
+3779,at the drive-in,90's,rock
+3780,deep purple,60's,rock
+3781,entombed,90's,metal
+3782,beyoncé,10's,pop
+3783,iceage,10's,rock
+3784,in flames,00's,metal
+3785,pain of salvation,00's,metal
+3786,avey tare,10's,rock
+3787,gang starr,90's,hip-hop
+3788,brainbombs,90's,rock
+3789,fever ray,10's,pop
+3790,david sylvian,80's,pop
+3791,crystal castles,10's,electronic
+3792,nxworries,10's,soul_funk
+3793,waxahatchee,10's,country
+3794,crywank,10's,folk
+3795,magnetic fields,90's,pop
+3796,john frusciante,90's,rock
+3797,bush,90's,rock
+3798,imagine dragons,10's,rock
+3799,orville peck,10's,country
+3800,dimmu borgir,90's,metal
+3801,nina simone,50's,jazz
+3802,thom yorke,10's,electronic
+3803,gang starr,90's,hip-hop
+3804,thee oh sees,10's,rock
+3805,jay-z,90's,hip-hop
+3806,foo fighters,10's,rock
+3807,dragonforce,00's,metal
+3808,deathspell omega,10's,metal
+3809,bright eyes,00's,pop
+3810,lucio battisti,70's,pop
+3811,ultravox,80's,electronic
+3812,madonna,90's,pop
+3813,frank zappa,70's,rock
+3814,fall out boy,00's,rock
+3815,rush,00's,rock
+3816,goblin,70's,rock
+3817,repulsion,80's,metal
+3818,black sabbath featuring tony iommiblack sabbathtony iommi,80's,rock
+3820,the drones,10's,rock
+3821,dua lipa,10's,soul_funk
+3822,lush,90's,rock
+3823,pantha du prince,10's,electronic
+3824,inxs,80's,rock
+3825,nightwish,00's,metal
+3826,kyuss,90's,rock
+3827,bad religion,90's,rock
+3828,michael jackson,90's,pop
+3830,nevermore,00's,metal
+3831,gram parsons,70's,rock
+3832,primus,90's,rock
+3833,enslaved,90's,metal
+3834,mineral,90's,rock
+3835,editors,00's,rock
+3836,the allman brothers band,70's,rock
+3837,eric clapton,70's,rock
+3838,beat happening,80's,rock
+3839,bathory,90's,metal
+3840,tim hecker,00's,electronic
+3841,the field mice,80's,pop
+3842,boris,90's,metal
+3843,atheist,90's,metal
+3844,glass animals,10's,pop
+3845,broken bells,10's,pop
+3846,justice,10's,rock
+3847,daniel caesar,10's,soul_funk
+3848,pale saints,90's,rock
+3849,kings of convenience,00's,pop
+3850,calvin harris,10's,pop
+3851,felt,80's,pop
+3852,morbid angel,90's,metal
+3853,grateful dead,60's,rock
+3854,s.o.d.,80's,metal
+3855,angel witch,80's,metal
+3856,ty segall,10's,rock
+3857,stiff little fingers,70's,rock
+3858,paul mccartney,00's,rock
+3859,bolt thrower,90's,metal
+3861,anthrax,80's,metal
+3862,origami angel,10's,rock
+3863,panopticon,10's,metal
+3864,codeine,90's,rock
+3865,xiu xiu,10's,pop
+3866,chvrches,10's,electronic
+3867,cannibal corpse,90's,metal
+3868,midlake,00's,rock
+3869,lil wayne,10's,pop
+3870,shuggie otis,70's,soul_funk
+3871,warren zevon,70's,rock
+3872,don caballero,90's,rock
+3873,fuck buttons,00's,electronic
+3874,zeal and ardor,10's,metal
+3875,imperial triumphant,10's,metal
+3876,julian casablancas + the voidz,10's,rock
+3877,ulcerate,00's,metal
+3878,owen pallett,10's,pop
+3879,oliver nelson,60's,jazz
+3880,james brown,70's,soul_funk
+3881,cryptopsy,90's,metal
+3882,badbadnotgood,10's,jazz
+3883,bauhaus,80's,rock
+3884,the kinks,60's,rock
+3885,ac/dc,80's,rock
+3886,royal trux,90's,rock
+3887,ryan adams,00's,rock
+3888,r.e.m.,00's,rock
+3889,quelle chris & chris keys,10's,jazz
+3890,faith no more,80's,rock
+3891,the offspring,00's,rock
+3892,j. cole,10's,hip-hop
+3893,florence + the machine,10's,pop
+3894,nine inch nails,10's,electronic
+3895,cecil taylor,60's,jazz
+3896,blut aus nord,00's,metal
+3897,marina and the diamonds,10's,electronic
+3898,pop smoke,10's,pop
+3899,flying lotus,00's,hip-hop
+3900,car seat headrest,10's,rock
+3901,shabaka and the ancestors,10's,jazz
+3902,ac/dc,90's,rock
+3903,the shins,10's,pop
+3904,vein,10's,metal
+3905,tim hecker,00's,electronic
+3906,bright eyes,00's,folk
+3907,bring me the horizon,00's,metal
+3908,moses sumney,10's,pop
+3909,whitesnake,80's,rock
+3910,epmd,80's,hip-hop
+3911,jean grae & quelle chris,10's,hip-hop
+3912,rush,90's,rock
+3913,immortal,90's,metal
+3914,wayne shorter,60's,jazz
+3915,boogie down productions,80's,hip-hop
+3916,taylor swift,00's,pop
+3917,captain beefheart & his magic band,70's,rock
+3918,gong,70's,rock
+3919,modern baseball,10's,rock
+3920,they might be giants,80's,rock
+3921,metal church,80's,metal
+3922,four tet,00's,folk
+3923,sufjan stevens,00's,electronic
+3924,ab-soul,10's,hip-hop
+3925,joni mitchell,60's,folk
+3926,unwound,90's,rock
+3927,2pac,90's,hip-hop
+3928,billy bragg & wilco,90's,rock
+3929,trent reznor and atticus ross,10's,electronic
+3930,joni mitchell,70's,pop
+3931,blondie,70's,rock
+3932,joe satriani,80's,rock
+3933,the beach boys,60's,rock
+3934,katatonia,90's,metal
+3935,drudkh,00's,metal
+3936,floating points,10's,electronic
+3937,peter gabriel,90's,rock
+3939,failure,90's,rock
+3940,the cure,00's,rock
+3941,ал-90,10's,electronic
+3942,cult of luna and julie christmascult of lunajulie christmas,10's,metal
+3943,jeff beck,60's,rock
+3945,jim o'rourke,90's,folk
+3946,billy woods,10's,hip-hop
+3947,black sabbath,80's,rock
+3948,goat,10's,rock
+3949,arca,10's,electronic
+3950,billie holiday & ray ellis and his orchestrabillie holidayray ellis,50's,jazz
+3951,actress,10's,electronic
+3953,youth lagoon,10's,pop
+3954,freddie gibbs,10's,hip-hop
+3955,the decemberists,10's,rock
+3956,rihanna,00's,pop
+3957,cccp fedeli alla linea,80's,rock
+3958,emperor,00's,metal
+3959,foals,10's,rock
+3960,johnny cash,50's,rock
+3961,klaus schulze,70's,electronic
+3963,linkin park,10's,rock
+3964,david byrne & st. vincent,10's,pop
+3965,spacemen 3,80's,rock
+3966,panopticon,10's,metal
+3967,the jesus and mary chain,80's,rock
+3968,low,90's,rock
+3969,thirty seconds to mars,00's,rock
+3970,marillion,80's,rock
+3971,king diamond,80's,metal
+3972,trivium,00's,metal
+3973,accept,80's,metal
+3974,public enemy,90's,hip-hop
+3975,natalia lafourcade,10's,folk
+3976,frank sinatra,50's,jazz
+3977,the clash,80's,rock
+3978,against me!,00's,rock
+3979,gojira,00's,metal
+3980,dinosaur,80's,rock
+3981,beck,90's,rock
+3982,meshuggah,10's,metal
+3983,ac/dc,80's,rock
+3984,green day,10's,rock
+3985,eric clapton,70's,rock
+3986,quasimoto,10's,hip-hop
+3987,liturgy,10's,metal
+3988,television personalities,80's,rock
+3989,the promise ring,90's,rock
+3990,cluster,70's,rock
+3991,maudlin of the well,00's,rock
+3992,the caretaker,10's,electronic
+3993,gorgoroth,90's,metal
+3994,stone temple pilots,90's,rock
+3995,mötley crüe,80's,metal
+3996,bullet for my valentine,00's,metal
+3997,jordaan mason & the horse museum,00's,folk
+3998,enslaved,10's,metal
+3999,buffalo springfield,60's,rock
+4000,dinosaur jr,90's,rock
+4001,earth,00's,rock
+4002,opeth,10's,rock
+4003,super furry animals,90's,rock
+4004,neurosis,00's,metal
+4005,manu chao,90's,rock
+4007,emperor,90's,metal
+4008,william basinski,10's,electronic
+4009,porter ricks,90's,electronic
+4010,bill evans & jim hall,60's,jazz
+4011,ac/dc,00's,rock
+4012,the drones,10's,rock
+4013,manic street preachers,90's,rock
+4014,horse lords,10's,rock
+4015,grinderman,00's,rock
+4016,giorgio,70's,electronic
+4017,ed sheeran,10's,pop
+4018,elder,10's,metal
+4020,rush,80's,rock
+4021,traffic,60's,rock
+4022,protest the hero,00's,metal
+4023,immortal,90's,metal
+4024,arcturus,90's,metal
+4025,scott walker + sunn o)))scott walkersunn o))),10's,rock
+4026,immolation,90's,metal
+4027,miles davis + 19,50's,jazz
+4028,phoenix,10's,rock
+4029,pi'erre bourne,10's,pop
+4030,don caballero,00's,rock
+4031,al green,70's,soul_funk
+4032,green day,90's,rock
+4033,testament,90's,metal
+4034,women,00's,rock
+4035,procol harum,60's,rock
+4036,joyce manor,10's,rock
+4037,ought,10's,rock
+4038,王菲 [faye wong],90's,pop
+4039,nas,90's,hip-hop
+4040,riverside,00's,rock
+4041,john fahey,60's,folk
+4042,car seat headrest,10's,rock
+4043,wu-tang clan,00's,hip-hop
+4044,bloc party,00's,rock
+4045,big k.r.i.t.,10's,hip-hop
+4046,future & lil uzi vert,10's,hip-hop
+4047,dennis wilson,70's,rock
+4048,thrice,00's,rock
+4049,belle and sebastian,10's,pop
+4050,carcass,10's,metal
+4051,the internet,10's,soul_funk
+4052,bad company,70's,rock
+4053,rapeman,80's,rock
+4054,dungen,00's,rock
+4055,pink siifu,10's,electronic
+4056,rihanna,10's,pop
+4057,liturgy,10's,rock
+4058,andrew bird,00's,pop
+4059,the fall,80's,rock
+4060,boris,10's,rock
+4061,the pains of being pure at heart,10's,pop
+4062,area,70's,rock
+4063,coil,00's,electronic
+4064,david thomas broughton,00's,folk
+4065,uriah heep,70's,rock
+4066,curtis mayfield,70's,soul_funk
+4068,cocteau twins,90's,pop
+4070,rae sremmurd,10's,pop
+4071,kylie,10's,pop
+4073,low,90's,rock
+4074,symphony x,90's,metal
+4075,katatonia,90's,metal
+4076,eels,00's,pop
+4077,nickelback,00's,rock
+4078,children of bodom,00's,metal
+4079,animal collective,10's,rock
+4080,death in june,80's,rock
+4081,susumu yokota,00's,electronic
+4082,nightwish,00's,metal
+4083,taylor swift,10's,rock
+4084,raekwon,00's,hip-hop
+4085,conway the machine,10's,hip-hop
+4086,coheed and cambria,00's,rock
+4087,beherit,90's,metal
+4088,antony and the johnsons,00's,pop
+4089,mccoy tyner,60's,jazz
+4090,squarepusher,00's,electronic
+4091,toto,80's,rock
+4092,asia,80's,rock
+4093,prince,80's,rock
+4094,trouble,80's,metal
+4095,kasabian,00's,rock
+4096,henry flynt,80's,folk
+4097,captain beefheart and the magic band,70's,rock
+4098,the beach boys,60's,rock
+4099,electric light orchestra,70's,rock
+4100,justin bieber,10's,pop
+4101,nofx,90's,rock
+4102,a tribe called quest,90's,hip-hop
+4103,kmd,00's,hip-hop
+4104,baths,10's,pop
+4105,the waterboys,80's,rock
+4106,lily allen,00's,pop
+4107,broken social scene,10's,rock
+4108,nico,70's,folk
+4109,cypress hill,90's,hip-hop
+4110,megadeth,10's,metal
+4111,portal,10's,metal
+4112,sun kil moon,10's,folk
+4113,slayer,10's,metal
+4114,cult of luna,10's,metal
+4115,de la soul,90's,jazz
+4116,love,60's,rock
+4117,the goslings,00's,rock
+4118,thin lizzy,70's,rock
+4119,blackfield,00's,rock
+4120,savatage,80's,metal
+4121,microphones,90's,rock
+4122,incubus,00's,rock
+4123,sugar,90's,rock
+4124,full of hell & merzbow,10's,metal
+4125,wolf alice,10's,rock
+4126,thrice,00's,rock
+4127,thee oh sees,10's,rock
+4128,the undertones,70's,rock
+4129,soundgarden,80's,rock
+4130,ground-zero,90's,rock
+4132,the crazy world of arthur brown,60's,rock
+4134,gorguts,90's,metal
+4135,rustie,10's,electronic
+4136,jessie ware,10's,soul_funk
+4137,deutsch amerikanische freundschaft,80's,rock
+4138,art ensemble of chicago,70's,jazz
+4139,the black eyed peas,00's,pop
+4140,interpol,10's,rock
+4141,lloyd cole and the commotions,80's,pop
+4142,ladytron,00's,electronic
+4143,ad nauseam,10's,metal
+4144,hawkwind,70's,rock
+4145,rhye,10's,pop
+4146,mike,10's,hip-hop
+4147,immolation,90's,metal
+4148,ought,10's,rock
+4149,satyricon,90's,metal
+4150,sleater-kinney,90's,rock
+4151,justin timberlake,00's,pop
+4152,jaco pastorius,70's,jazz
+4153,the field,10's,electronic
+4154,henry cow,70's,rock
+4155,josé gonzález,00's,folk
+4156,miles davis,60's,jazz
+4157,nevermore,00's,metal
+4158,elastica,90's,rock
+4159,converge,90's,metal
+4160,boredoms,90's,rock
+4161,amnesia scanner,10's,electronic
+4162,spirit,70's,rock
+4163,ultramagnetic mc's,80's,hip-hop
+4164,children of bodom,90's,metal
+4165,papa roach,00's,rock
+4166,bikini kill,90's,rock
+4167,touché amoré,10's,rock
+4168,klô pelgag,10's,pop
+4169,miley cyrus,10's,rock
+4170,the decemberists,00's,rock
+4171,bat for lashes,00's,pop
+4172,swell maps,70's,rock
+4175,jamiroquai,90's,jazz
+4176,darkspace,00's,metal
+4177,sonny sharrock,90's,jazz
+4178,leftfield,90's,electronic
+4179,cardiacs,80's,rock
+4180,depeche mode,10's,electronic
+4181,code orange,10's,metal
+4182,parquet courts,10's,rock
+4183,cradle of filth,90's,metal
+4184,oathbreaker,10's,metal
+4185,mount eerie with julie doironmount eeriejulie doiron,10's,folk
+4186,goldie,90's,electronic
+4187,destroyer,10's,pop
+4188,cluster & eno,70's,electronic
+4189,ben frost,00's,electronic
+4190,gentle giant,70's,rock
+4191,polvo,90's,rock
+4192,protest the hero,00's,metal
+4193,kraftwerk,70's,rock
+4194,dragged into sunlight,00's,metal
+4195,tomb mold,10's,metal
+4196,van morrison,70's,rock
+4197,haken,10's,rock
+4199,dean blunt & inga copeland,10's,pop
+4200,cibo matto,90's,pop
+4201,the magnetic fields,90's,pop
+4202,faith no more,10's,rock
+4203,leonard cohen,70's,pop
+4204,spoon,10's,rock
+4206,the crickets,50's,rock
+4207,testament,80's,metal
+4208,glassjaw,00's,rock
+4209,alice coltrane,70's,jazz
+4210,the rolling stones,80's,rock
+4211,bolt thrower,90's,metal
+4212,toro y moi,10's,soul_funk
+4213,skee mask,10's,electronic
+4214,jlin,10's,electronic
+4215,the war on drugs,10's,rock
+4216,kraftwerk,70's,rock
+4217,marillion,80's,rock
+4218,beck,10's,rock
+4219,nils frahm,10's,electronic
+4220,between the buried and me,10's,metal
+4221,fall out boy,10's,rock
+4222,boris with merzbow,10's,metal
+4223,atmosphere,00's,hip-hop
+4224,orchid,00's,metal
+4225,behemoth,00's,metal
+4226,lemonheads,90's,rock
+4227,blank banshee,10's,hip-hop
+4228,oxbow,10's,rock
+4229,elton john,70's,rock
+4230,aerosmith,80's,rock
+4231,mojave 3,90's,pop
+4233,carcass,90's,metal
+4234,the gaslight anthem,00's,rock
+4235,細野晴臣 [haruomi hosono] / 鈴木茂 [shigeru suzuki] / 山下達郎 [tatsuro yamashita],70's,pop
+4236,run-d.m.c.,80's,hip-hop
+4237,black moon,90's,hip-hop
+4238,µ-ziq,90's,electronic
+4239,reflection eternal,00's,hip-hop
+4240,dream theater,10's,metal
+4241,mild high club,10's,rock
+4242,nina simone,60's,soul_funk
+4243,new order,90's,electronic
+4244,pete rock & c.l. smooth,90's,hip-hop
+4245,cornelius,00's,pop
+4246,flume,10's,pop
+4247,bad bunny,10's,reggae
+4248,silvana estrada,10's,folk
+4249,sly & the family stone,70's,soul_funk
+4250,cannibal corpse,90's,metal
+4251,eartheater,10's,folk
+4252,blackalicious,00's,hip-hop
+4253,necrophagist,00's,metal
+4254,fall out boy,10's,rock
+4255,boldy james & sterling toles,10's,jazz
+4256,iron maiden,10's,metal
+4257,w.a.s.p.,80's,metal
+4258,blink,90's,rock
+4259,nas,00's,hip-hop
+4261,nocturnus,90's,metal
+4262,anathema,00's,rock
+4263,jenny hval,10's,pop
+4264,kylesa,00's,metal
+4265,black sabbath,90's,metal
+4266,badbadnotgood,10's,jazz
+4267,westside gunn,10's,hip-hop
+4268,frank zappa,70's,rock
+4270,pelican,00's,metal
+4271,show me the body,10's,rock
+4272,erika de casier,10's,soul_funk
+4273,l'rain,10's,rock
+4274,sun-ra and his astro infinity arkestra,60's,jazz
+4275,john fahey,70's,folk
+4276,budgie,70's,rock
+4277,algernon cadwallader,00's,rock
+4278,the national,00's,rock
+4279,tom petty,90's,rock
+4280,yeasayer,10's,rock
+4281,coroner,80's,metal
+4282,tom waits,90's,rock
+4283,gojira,00's,metal
+4284,the game,00's,hip-hop
+4285,holly herndon,10's,pop
+4286,gonjasufi,10's,rock
+4287,david gilmour,00's,rock
+4288,kurt vile,10's,rock
+4289,ornette coleman,70's,jazz
+4290,moby,00's,electronic
+4291,boldy james & the alchemist,10's,hip-hop
+4292,william basinski,00's,electronic
+4293,om,00's,rock
+4294,purity ring,10's,pop
+4295,artillery,90's,metal
+4296,w.a.s.p.,90's,rock
+4297,robert wyatt,90's,rock
+4298,of montreal,90's,rock
+4299,peter gabriel,00's,rock
+4300,enslaved,00's,metal
+4301,fun.,10's,rock
+4302,nine inch nails,10's,electronic
+4303,britney spears,00's,pop
+4304,nicki minaj,10's,pop
+4305,unwound,90's,rock
+4306,ミドリ [midori],10's,rock
+4307,macklemore & ryan lewis,10's,pop
+4308,toro y moi,10's,rock
+4309,motörhead,80's,rock
+4310,screaming trees,90's,rock
+4311,blind guardian,00's,metal
+4312,kreator,80's,metal
+4313,the dandy warhols,00's,rock
+4314,nujabes,10's,jazz
+4315,matmos,10's,electronic
+4316,disturbed,00's,metal
+4317,thursday,00's,rock
+4318,amon düül ii,70's,rock
+4320,guided by voices,90's,rock
+4321,thundercat,10's,soul_funk
+4322,rich brian,10's,pop
+4323,lamb of god,00's,metal
+4324,sleater-kinney,90's,rock
+4325,lou reed,80's,rock
+4326,four tet,10's,electronic
+4327,bob marley & the wailersbob marleythe wailers,70's,reggae
+4328,gwen stefani,00's,pop
+4329,the magnetic fields,90's,pop
+4330,sweet trip,90's,pop
+4331,super furry animals,00's,rock
+4332,temples,10's,rock
+4333,i hate myself,90's,rock
+4334,thee oh sees,10's,rock
+4335,chvrches,10's,electronic
+4336,red house painters,90's,rock
+4337,skid row,80's,rock
+4338,supergrass,90's,rock
+4339,of monsters and men,10's,pop
+4340,gorguts,00's,metal
+4341,santogold,00's,rock
+4342,passion pit,10's,electronic
+4343,motörhead,80's,rock
+4344,current 93,90's,folk
+4345,steven wilson,10's,rock
+4346,808 state,80's,electronic
+4347,yeasayer,00's,rock
+4348,strawberry switchblade,80's,electronic
+4349,neil young and crazy horseneil youngcrazy horse,90's,rock
+4350,pentagram,80's,metal
+4351,destroyer,00's,rock
+4352,algiers,10's,rock
+4353,目黒将司 [shoji meguro],10's,jazz
+4354,the durutti column,80's,rock
+4355,joe jackson,70's,pop
+4356,carly rae jepsen,10's,pop
+4357,wolf alice,10's,rock
+4358,doves,00's,rock
+4359,warpaint,10's,pop
+4360,panopticon,10's,metal
+4361,bruno mars,10's,pop
+4362,yardbirds,60's,rock
+4363,the beach boys,70's,rock
+4364,crass,70's,rock
+4365,dirty three,90's,rock
+4366,henry cow,70's,rock
+4367,public enemy,80's,hip-hop
+4368,mewithoutyou,00's,rock
+4369,the killers,10's,rock
+4370,sunny day real estate,90's,rock
+4371,my morning jacket,00's,rock
+4372,in flames,00's,metal
+4373,andy stott,10's,electronic
+4374,spiritualized,10's,rock
+4375,katy perry,00's,rock
+4376,spellling,10's,pop
+4377,the killers,10's,rock
+4378,ofwgkta,10's,hip-hop
+4379,rush,00's,rock
+4380,dark tranquillity,00's,metal
+4381,dream theater,10's,rock
+4382,wilco,10's,rock
+4383,daniel lopatin,10's,electronic
+4384,manowar,80's,metal
+4385,50 cent,00's,pop
+4386,neon indian,10's,electronic
+4387,atari teenage riot,90's,electronic
+4388,the allman brothers band,70's,rock
+4389,scorpions,70's,rock
+4390,van halen,80's,rock
+4391,stars of the lid,90's,electronic
+4393,john maus,00's,pop
+4394,george harrison,70's,rock
+4395,neil young,90's,rock
+4396,john lennon,70's,rock
+4397,the vaccines,10's,rock
+4398,abba,80's,pop
+4399,killswitch engage,00's,metal
+4401,babymetal,10's,metal
+4402,catherine wheel,90's,rock
+4403,faust,70's,rock
+4404,stereolab,00's,pop
+4405,the beatles,00's,rock
+4406,cattle decapitation,10's,metal
+4407,chelsea wolfe,10's,folk
+4409,queen,80's,rock
+4410,blackout,90's,hip-hop
+4411,nara leão,70's,jazz
+4412,limp bizkit,00's,rock
+4413,waste of space orchestra,10's,metal
+4414,arca,10's,pop
+4415,galaxie 500,90's,rock
+4417,screaming trees,90's,rock
+4418,imogen heap,00's,pop
+4419,melt-banana,90's,rock
+4420,lightning bolt,00's,rock
+4421,lizzy mercier descloux,70's,rock
+4422,bill callahan,10's,folk
+4423,arthur verocai,70's,pop
+4424,serpentwithfeet,10's,pop
+4425,jefferson airplane,60's,rock
+4426,janet jackson,80's,pop
+4427,black dresses,10's,electronic
+4428,the rolling stones,60's,rock
+4430,explosions in the sky,10's,rock
+4431,kamelot,00's,rock
+4432,c418,10's,electronic
+4433,kiss,70's,rock
+4434,jónsi,10's,pop
+4435,大貫妙子 [taeko ohnuki],70's,pop
+4436,miley cyrus,10's,rock
+4438,billy cobham,70's,rock
+4439,the black keys,00's,rock
+4440,squarepusher,90's,electronic
+4441,skinny puppy,90's,electronic
+4442,metric,00's,rock
+4444,hum,90's,rock
+4445,the antlers,10's,pop
+4446,la dispute,10's,rock
+4447,nine inch nails,90's,rock
+4448,beyoncé,00's,pop
+4449,le mystère des voix bulgares,70's,folk
+4451,the black crowes,90's,rock
+4452,the new pornographers,00's,pop
+4453,xiu xiu,10's,rock
+4454,enslaved,90's,metal
+4455,(the) melvins,00's,metal
+4456,harmonia,70's,rock
+4457,16 horsepower,00's,country
+4458,blackpink,10's,pop
+4459,smog,90's,rock
+4460,red house painters,90's,rock
+4461,santana,90's,rock
+4462,orphaned land,00's,metal
+4463,alex g,10's,rock
+4464,eric dolphy,60's,jazz
+4465,yusef lateef,60's,jazz
+4466,ratatat,00's,electronic
+4467,van halen,80's,rock
+4468,rudimentary peni,80's,rock
+4469,eyehategod,90's,metal
+4470,nujabes / fat jon,00's,hip-hop
+4471,emeralds,10's,electronic
+4472,jorja smith,10's,soul_funk
+4473,the drums,10's,pop
+4474,trust,10's,electronic
+4475,these new puritans,10's,rock
+4477,magma,70's,rock
+4479,bicep,10's,electronic
+4480,etta james,60's,blues
+4481,free,70's,rock
+4482,this will destroy you,00's,rock
+4483,of montreal,00's,pop
+4484,charles mingus,60's,jazz
+4485,klaus schulze,70's,electronic
+4486,tangerine dream,70's,rock
+4487,yo la tengo,00's,pop
+4488,megadeth,10's,metal
+4489,crass,80's,rock
+4490,kevin ayers,60's,pop
+4491,kiss,70's,rock
+4492,ac/dc,80's,rock
+4493,shabazz palaces,10's,hip-hop
+4494,gastr del sol,90's,rock
+4495,avril lavigne,00's,rock
+4496,ty segall band,10's,rock
+4497,kiss,70's,rock
+4498,tears for fears,80's,rock
+4499,rush,90's,rock
+4500,sufjan stevens,00's,folk
+4501,do make say think,00's,rock
+4502,katatonia,00's,metal
+4503,ty segall,10's,rock
+4504,alexandra savior,10's,pop
+4505,blind guardian,90's,metal
+4506,the verve,90's,rock
+4507,spoon,10's,rock
+4509,the black keys,00's,rock
+4510,tenhi,00's,folk
+4511,nokturnal mortum,00's,metal
+4512,open mike eagle,10's,hip-hop
+4513,bob marley & the wailersbob marleythe wailers,80's,reggae
+4514,dreamville,10's,hip-hop
+4515,harmonia,70's,rock
+4516,paradise lost,90's,metal
+4517,ozzy osbourne,80's,rock
+4518,the walkmen,00's,rock
+4519,rise against,00's,rock
+4520,om,00's,rock
+4521,young thug,10's,pop
+4522,devo,70's,rock
+4523,mudvayne,00's,metal
+4524,gil scott-heron & jamie xx,10's,electronic
+4525,аукцыон [auktyon],90's,rock
+4526,the flaming lips,90's,rock
+4527,tortoise,90's,rock
+4528,empire! empire! (i was a lonely estate),00's,rock
+4529,sd laika,10's,electronic
+4530,badly drawn boy,00's,pop
+4531,roger waters,90's,rock
+4532,mumford & sons,10's,pop
+4533,goldfrapp,00's,electronic
+4534,tenacious d,00's,rock
+4535,abba,80's,pop
+4536,madonna,00's,electronic
+4537,don cherry,60's,jazz
+4538,herbie hancock,70's,jazz
+4539,duran duran,80's,electronic
+4540,daughter,10's,pop
+4541,the devin townsend band,00's,metal
+4542,songs: ohia,00's,rock
+4543,ミドリ [midori],00's,rock
+4544,mutantes,60's,rock
+4546,electric light orchestra,70's,rock
+4547,dark tranquillity,00's,metal
+4548,twenty one pilots,00's,rock
+4550,tuxedomoon,80's,rock
+4551,princess nokia,10's,hip-hop
+4552,panic! at the disco,10's,rock
+4553,lucy dacus,10's,rock
+4554,the flaming lips,90's,rock
+4555,primal scream,90's,rock
+4556,flatbush zombies,10's,hip-hop
+4557,swervedriver,90's,rock
+4558,oliver tree,10's,rock
+4559,food house,10's,electronic
+4560,the john coltrane quartette,60's,jazz
+4561,清水靖晃 [yasuaki shimizu],80's,pop
+4562,sinéad o'connor,90's,rock
+4563,low,00's,rock
+4564,les discrets,10's,rock
+4565,deerhoof,00's,rock
+4566,franz ferdinand,10's,rock
+4567,eels,00's,pop
+4568,roddy ricch,10's,pop
+4569,three days grace,00's,rock
+4570,depressive silence,90's,electronic
+4571,$uicideboy$,10's,hip-hop
+4572,prince,70's,soul_funk
+4573,the fratellis,00's,rock
+4575,travis,00's,rock
+4576,la dispute,10's,rock
+4578,type o negative,00's,metal
+4579,velvet revolver,00's,rock
+4580,zach hill,10's,rock
+4581,lupe fiasco,10's,hip-hop
+4582,lou reed,70's,rock
+4583,the wedding present,90's,rock
+4584,spiritualized®,00's,rock
+4585,blind melon,90's,rock
+4587,the kinks,60's,rock
+4588,annihilator,90's,metal
+4589,behemoth,10's,metal
+4590,thin lizzy,70's,rock
+4591,erykah badu,00's,soul_funk
+4592,electric wizard,10's,metal
+4593,dj koze,10's,electronic
+4594,the raincoats,80's,rock
+4595,living colour,80's,rock
+4596,pet shop boys,90's,pop
+4597,scorpions,70's,rock
+4598,leprous,10's,metal
+4599,elton john,70's,rock
+4601,blink-182,10's,rock
+4602,the smashing pumpkins,10's,rock
+4603,atomic rooster,70's,rock
+4604,xtc,80's,rock
+4605,flaming lips,90's,rock
+4606,holly herndon,10's,pop
+4607,of montreal,90's,pop
+4608,cliff martinez,10's,electronic
+4609,lightning bolt,10's,rock
+4610,horrendous,10's,metal
+4611,imagine dragons,10's,rock
+4612,boris,10's,rock
+4614,madonna,90's,pop
+4615,dimmu borgir,00's,metal
+4616,cabaret voltaire,80's,rock
+4617,jet,00's,rock
+4618,hawkwind,70's,rock
+4619,chrome,70's,rock
+4620,tiger trap,90's,pop
+4621,rosetta,00's,metal
+4622,morrissey,00's,rock
+4624,amon düül ii,70's,rock
+4625,the prodigy,00's,electronic
+4626,serj tankian,00's,rock
+4627,cage the elephant,10's,rock
+4628,gabor szabo,60's,jazz
+4629,rodan,90's,rock
+4630,r.e.m.,10's,rock
+4631,the dead weather,00's,rock
+4632,benny the butcher,10's,hip-hop
+4633,nancy sinatra & lee hazlewood,60's,pop
+4635,the horrors,10's,rock
+4636,foals,10's,rock
+4637,lil yachty,10's,pop
+4638,full of hell,10's,metal
+4639,protomartyr,10's,rock
+4640,killswitch engage,00's,metal
+4641,say anything,00's,rock
+4642,beyoncé,00's,pop
+4643,the blue nile,80's,pop
+4644,liars,10's,electronic
+4645,the hold steady,00's,rock
+4646,nickelus f,10's,hip-hop
+4647,the jesus and mary chain,90's,rock
+4648,sacramentum,90's,metal
+4649,killing joke,00's,rock
+4650,n*e*r*d,00's,rock
+4651,panda bear,10's,rock
+4652,blasphemy,90's,metal
+4653,foo fighters,10's,rock
+4654,brigitte fontaine & art ensemble of chicago,70's,jazz
+4655,main source,90's,hip-hop
+4656,!!!,00's,rock
+4657,dababy,10's,hip-hop
+4658,nicolás jaar,10's,electronic
+4659,manilla road,80's,metal
+4661,ornette coleman,60's,jazz
+4662,neil young,80's,electronic
+4663,arthur russell,90's,pop
+4664,polyphia,10's,rock
+4665,slum village,00's,hip-hop
+4666,tv on the radio,10's,rock
+4667,lone,10's,electronic
+4668,thelonious monk with john coltrane,60's,jazz
+4670,róisín murphy,00's,pop
+4671,antônio carlos jobim,70's,jazz
+4672,anathema,90's,metal
+4673,the replacements,80's,rock
+4674,johnny cash,90's,country
+4675,the jam,70's,rock
+4676,pelican,00's,metal
+4677,audioslave,00's,rock
+4678,dire straits,90's,rock
+4680,moonsorrow,00's,metal
+4681,gotye,10's,pop
+4682,deep purple,70's,rock
+4683,kasabian,00's,rock
+4684,george michael,80's,pop
+4685,skid row,90's,rock
+4686,britney spears,00's,pop
+4687,health,00's,rock
+4688,viagra boys,10's,rock
+4689,white zombie,90's,metal
+4690,amorphis,90's,metal
+4691,cake,00's,rock
+4692,sum 41,00's,rock
+4693,deerhoof,00's,rock
+4694,the tallest man on earth,10's,folk
+4695,the war on drugs,10's,rock
+4696,butthole surfers,80's,rock
+4697,creed,90's,rock
+4698,aesop rock,00's,hip-hop
+4699,ke\$ha,10's,pop
+4700,jay som,10's,rock
+4701,kreator,80's,metal
+4702,james carr,60's,soul_funk
+4703,russian circles,00's,rock
+4705,animals as leaders,10's,metal
+4706,jenny hval,10's,pop
+4707,bill withers,70's,soul_funk
+4708,the cars,70's,rock
+4709,fear factory,90's,metal
+4710,neil young with crazy horseneil youngcrazy horse,10's,rock
+4711,roger waters,80's,rock
+4712,monster magnet,90's,rock
+4713,steve hackett,70's,rock
+4714,teen suicide,10's,rock
+4715,snow patrol,00's,rock
+4716,judas priest,00's,metal
+4717,the pentangle,60's,rock
+4718,billy joel,70's,rock
+4719,cradle of filth,90's,metal
+4720,agitation free,70's,rock
+4721,高木正勝 [masakatsu takagi],10's,folk
+4722,destroyer,10's,pop
+4723,the lounge lizards,80's,jazz
+4724,taylor swift,10's,rock
+4725,saint vitus,80's,metal
+4726,ed sheeran,10's,pop
+4727,dio,80's,metal
+4728,rowland s. howard,90's,rock
+4729,phoenix,00's,rock
+4730,unknown mortal orchestra,10's,rock
+4731,return to forever,70's,rock
+4732,omd,80's,electronic
+4733,the body,10's,metal
+4734,jon hassell & brian eno,80's,electronic
+4735,blink-182,10's,rock
+4737,amon amarth,00's,metal
+4738,mare cognitum,10's,metal
+4739,camp lo,90's,jazz
+4740,bloodbath,00's,metal
+4741,art blakey & the jazz messengers,60's,jazz
+4742,heart,70's,rock
+4743,anathema,90's,metal
+4744,the beach boys,70's,rock
+4745,windir,00's,metal
+4747,electric wizard,90's,metal
+4748,death cab for cutie,90's,rock
+4750,air,00's,pop
+4751,ariana grande,10's,pop
+4752,panic! at the disco,10's,rock
+4753,imagine dragons,10's,rock
+4754,the for carnation,00's,rock
+4755,motörhead,80's,rock
+4756,elder,10's,rock
+4757,halsey,10's,pop
+4758,beyoncé,00's,pop
+4759,spectral wound,10's,metal
+4760,anthony braxton,70's,jazz
+4761,motörhead,90's,rock
+4762,the blood brothers,00's,rock
+4763,dimmu borgir,00's,metal
+4764,fall out boy,10's,electronic
+4765,panic! at the disco,10's,electronic
+4766,kansas,70's,rock
+4767,belle and sebastian,10's,pop
+4768,the body,10's,metal
+4769,einstürzende neubauten,00's,rock
+4771,the internet,10's,soul_funk
+4772,miles davis,60's,jazz
+4773,primus,90's,rock
+4774,lil b,10's,hip-hop
+4775,bert jansch,60's,folk
+4776,coldworld,00's,metal
+4777,unknown mortal orchestra,10's,rock
+4778,def leppard,80's,rock
+4779,2 chainz,10's,hip-hop
+4780,nala sinephro,10's,jazz
+4781,twisted sister,80's,rock
+4782,lovesliescrushing,90's,rock
+4783,mount kimbie,10's,electronic
+4784,elvis presley,60's,soul_funk
+4785,cults,10's,pop
+4786,between the buried and me,10's,metal
+4787,bruce dickinson,90's,metal
+4788,snow patrol,00's,rock
+4789,marilyn manson,10's,rock
+4790,my dying bride,00's,metal
+4791,fates warning,80's,metal
+4792,cowboy junkies,80's,folk
+4793,septicflesh,00's,metal
+4794,jimmy eat world,00's,rock
+4795,moby grape,60's,rock
+4796,the psychedelic furs,80's,rock
+4797,melvins,80's,metal
+4798,today is the day,00's,rock
+4799,flotation toy warning,00's,rock
+4800,faye webster,10's,country
+4801,manowar,80's,metal
+4802,this will destroy you,00's,rock
+4803,mayhem,00's,metal
+4804,manitoba,00's,pop
+4805,dredg,00's,rock
+4806,rex orange county,10's,pop
+4807,afi,00's,rock
+4808,insomnium,00's,metal
+4809,xtc,90's,pop
+4810,guru,90's,jazz
+4811,haley heynderickx,10's,folk
+4812,machine gun kelly,10's,rock
+4813,john maus,00's,pop
+4814,the caretaker,10's,electronic
+4815,rxk nephew,10's,hip-hop
+4816,iced earth,90's,metal
+4817,bob dylan,00's,rock
+4818,riverside,00's,rock
+4819,dj rozwell,10's,hip-hop
+4820,full of hell,10's,metal
+4821,cluster,70's,rock
+4822,blondie,70's,rock
+4823,okkervil river,00's,rock
+4824,big k.r.i.t.,10's,hip-hop
+4825,beach fossils,10's,rock
+4826,the koreatown oddity,10's,jazz
+4827,宇多田ヒカル [hikaru utada],10's,pop
+4828,青葉市子 [ichiko aoba],10's,folk
+4829,leprous,10's,metal
+4830,ensiferum,00's,metal
+4831,lykke li,10's,pop
+4832,coldplay,10's,rock
+4833,ufo,70's,rock
+4834,redman,90's,hip-hop
+4836,ahab,00's,metal
+4837,toro y moi,10's,soul_funk
+4838,the mountain goats,10's,pop
+4839,pharoah sanders,70's,jazz
+4840,kid cudi,10's,pop
+4841,spk,80's,electronic
+4842,grateful dead,60's,rock
+4843,dexys midnight runners,80's,soul_funk
+4844,banco del mutuo soccorso,70's,rock
+4845,george harrison,80's,rock
+4846,the hives,00's,rock
+4847,standing on the corner,10's,pop
+4848,the chemical brothers,00's,electronic
+4849,behemoth,00's,metal
+4850,ella fitzgerald & louis armstrong,50's,jazz
+4851,mc5,70's,rock
+4852,xiu xiu,00's,pop
+4853,johnny cash,00's,country
+4854,j dilla,00's,hip-hop
+4855,flume,10's,electronic
+4856,oneohtrix point never,10's,electronic
+4857,traffic,70's,rock
+4858,scraping foetus off the wheel,80's,rock
+4859,courtney barnett & kurt vile,10's,rock
+4860,rich brian,10's,pop
+4861,the teardrop explodes,80's,rock
+4863,wolves in the throne room,10's,metal
+4864,tim buckley,60's,folk
+4865,everything but the girl,90's,electronic
+4866,deerhoof,00's,rock
+4867,john fahey,60's,folk
+4868,accept,80's,metal
+4869,catherine wheel,90's,rock
+4870,king gizzard and the lizard wizard,10's,rock
+4871,jay-z,90's,hip-hop
+4872,marilyn manson,00's,rock
+4873,janis joplin,60's,rock
+4874,brian eno,80's,electronic
+4875,dark tranquillity,00's,metal
+4876,inquisition,10's,metal
+4877,machinedrum,10's,electronic
+4878,current 93,10's,folk
+4879,dave,10's,hip-hop
+4880,country joe & the fish,60's,rock
+4881,ariel pink's haunted graffiti,00's,pop
+4882,änglagård,90's,rock
+4883,john frusciante,00's,rock
+4884,trippie redd,10's,rock
+4885,the brian jonestown massacre,90's,rock
+4886,alice cooper,80's,rock
+4887,pestilence,90's,metal
+4888,bruce springsteen,90's,folk
+4889,high on fire,00's,metal
+4890,ratking,10's,hip-hop
+4892,king diamond,80's,metal
+4893,jack johnson,00's,rock
+4894,nelly furtado,00's,pop
+4895,korn,10's,metal
+4896,dan deacon,00's,rock
+4897,devin townsend project,10's,metal
+4898,prefuse 73,00's,hip-hop
+4899,sheck wes,10's,hip-hop
+4900,sun kil moon,10's,folk
+4901,bone thugs-n-harmony,90's,hip-hop
+4902,księżyc,90's,folk
+4903,avenged sevenfold,10's,metal
+4904,michael jackson,00's,pop
+4905,low,00's,rock
+4906,captain beefheart & his magic band,60's,rock
+4907,wings,70's,rock
+4908,the alan parsons project,80's,rock
+4909,mew,00's,pop
+4910,napalm death,90's,metal
+4911,whitehouse,00's,electronic
+4912,george clanton,10's,electronic
+4913,alexander spence,60's,folk
+4914,baby huey,70's,soul_funk
+4915,devendra banhart,00's,folk
+4916,clifford brown and max roach,50's,jazz
+4917,elis regina & antônio carlos jobim,70's,jazz
+4918,de la soul,90's,hip-hop
+4919,bruce springsteen,00's,rock
+4920,spiritualized electric mainline,90's,rock
+4921,bat for lashes,10's,pop
+4922,young thug & young stoner life recordsyoung thugyoung stoner life,10's,pop
+4923,morphine,90's,rock
+4924,kiss,70's,rock
+4925,the rolling stones,00's,rock
+4926,hiatus kaiyote,10's,soul_funk
+4927,primus,90's,rock
+4928,amorphis,00's,metal
+4929,the chemical brothers,00's,electronic
+4930,melanie martinez,10's,pop
+4931,sia,10's,pop
+4932,peter bjorn and john,00's,pop
+4933,outkast,00's,hip-hop
+4934,gas,10's,electronic
+4935,buddy holly,50's,rock
+4936,katatonia,90's,rock
+4937,saxon,80's,metal
+4938,long fin killie,90's,rock
+4939,stars,00's,pop
+4940,m83,10's,electronic
+4941,meshuggah,10's,metal
+4942,dido,90's,pop
+4943,laurel halo,10's,pop
+4944,the cars,80's,rock
+4945,the silver mt. zion memorial orchestra & tra-la-la band with choir,00's,rock
+4946,scissor sisters,00's,rock
+4947,weezer,10's,rock
+4948,pinkshinyultrablast,10's,rock
+4949,arooj aftab,10's,folk
+4950,labradford,90's,rock
+4952,clouddead,00's,hip-hop
+4954,nina simone,60's,blues
+4955,dead kennedys,80's,rock
+4956,summoning,90's,metal
+4957,angelo badalamenti,10's,electronic
+4958,insect warfare,00's,metal
+4959,the cardigans,90's,rock
+4960,matana roberts,10's,jazz
+4961,2814,10's,electronic
+4962,black marble,10's,electronic
+4963,at the drive-in,10's,rock
+4964,set fire to flames,00's,rock
+4965,daughter,10's,pop
+4966,camera obscura,00's,pop
+4967,various artists,10's,electronic
+4968,goldfrapp,00's,pop
+4969,stevie ray vaughan and double trouble,80's,rock
+4970,leonard cohen,90's,pop
+4971,leviathan,10's,metal
+4972,anthrax,90's,metal
+4973,the black eyed peas,00's,pop
+4974,perfume,00's,pop
+4975,mogwai,10's,rock
+4976,jack stauber,10's,pop
+4977,tangerine dream,70's,rock
+4978,the radio dept.,00's,pop
+4979,death from above 1979,10's,rock
+4980,sum 41,00's,rock
+4981,keane,00's,rock
+4982,terry callier,70's,soul_funk
+4983,paradise lost,90's,metal
+4984,n.w.a,90's,hip-hop
+4985,squarepusher,00's,electronic
+4986,mitski,10's,pop
+4987,yg,10's,hip-hop
+4988,doopees,90's,pop
+4989,disturbed,00's,rock
+4990,exodus,00's,metal
+4991,tigers jaw,00's,rock
+4992,the garden,10's,rock
+4993,pi'erre bourne,10's,pop
+4994,thin lizzy,70's,rock
+4995,blind guardian,80's,metal
+4996,eluvium,00's,electronic
+4997,summoning,00's,metal
+4999,third ear band,70's,folk
+5000,abba,70's,pop

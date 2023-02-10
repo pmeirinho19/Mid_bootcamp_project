@@ -33,7 +33,7 @@ popular_ranking,artist_name,release_date,genre
 32,the smiths,1986,pop
 33,godspeed you black emperor!,2000,rock
 34,led zeppelin,1971,rock
-35,"tyler, the creator",2019,soul
+35,"tyler, the creator",2019,soul_funk
 36,pixies,1989,rock
 37,radiohead,2003,rock
 38,kanye west,2016,pop
@@ -86,7 +86,7 @@ popular_ranking,artist_name,release_date,genre
 86,david bowie,2016,rock
 87,television,1977,rock
 88,john coltrane,1965,jazz
-89,frank ocean,2012,soul
+89,frank ocean,2012,soul_funk
 90,black sabbath,1970,rock
 91,the microphones,2001,rock
 92,a tribe called quest,1991,jazz
@@ -168,7 +168,7 @@ popular_ranking,artist_name,release_date,genre
 171,weyes blood,2019,pop
 172,miles davis,1970,jazz
 173,tom waits,1985,rock
-174,marvin gaye,1971,soul
+174,marvin gaye,1971,soul_funk
 175,pink floyd,1970,rock
 176,slayer,1986,metal
 177,kendrick lamar,2011,hip-hop
@@ -278,7 +278,7 @@ popular_ranking,artist_name,release_date,genre
 283,red hot chili peppers,1999,rock
 284,the rolling stones,1969,rock
 285,"tyler, the creator",2013,hip-hop
-286,the weeknd,2020,soul
+286,the weeknd,2020,soul_funk
 287,ac/dc,1980,rock
 288,iron maiden,1984,metal
 289,the zombies,1968,pop
@@ -339,7 +339,7 @@ popular_ranking,artist_name,release_date,genre
 344,the smiths,1987,pop
 345,death,1995,metal
 346,linkin park,2000,rock
-347,talking heads,1983,funk
+347,talking heads,1983,soul_funk
 348,godspeed you! black emperor,2002,rock
 349,carly rae jepsen,2015,pop
 350,outkast,2000,hip-hop
@@ -410,12 +410,12 @@ popular_ranking,artist_name,release_date,genre
 417,franz ferdinand,2004,rock
 418,king gizzard and the lizard wizard,2016,rock
 419,iron maiden,1980,metal
-420,childish gambino,2016,soul
+420,childish gambino,2016,soul_funk
 421,brockhampton,2018,hip-hop
 422,the rolling stones,1968,rock
 423,the white stripes,2001,rock
 424,eminem,1999,hip-hop
-425,stevie wonder,1976,soul
+425,stevie wonder,1976,soul_funk
 426,oneohtrix point never,2011,electronic
 427,neutral milk hotel,1996,rock
 428,ride,1990,rock
@@ -434,7 +434,7 @@ popular_ranking,artist_name,release_date,genre
 441,bon iver,2011,pop
 442,herbie hancock,1973,jazz
 443,public enemy,1988,hip-hop
-444,stevie wonder,1973,soul
+444,stevie wonder,1973,soul_funk
 445,idles,2018,rock
 446,the kinks,1968,rock
 447,the dismemberment plan,1999,rock
@@ -460,7 +460,7 @@ popular_ranking,artist_name,release_date,genre
 467,captain beefheart and his magic band,1967,rock
 468,the cure,1985,rock
 469,dr. dre,1992,hip-hop
-470,mac miller,2020,soul
+470,mac miller,2020,soul_funk
 471,iron maiden,1988,metal
 472,king crimson,1970,rock
 473,system of a down,2005,metal
@@ -507,7 +507,7 @@ popular_ranking,artist_name,release_date,genre
 516,death grips,2015,rock
 517,lorde,2013,pop
 518,the cure,1979,rock
-519,silk sonic,2021,soul
+519,silk sonic,2021,soul_funk
 520,mobb deep,1995,hip-hop
 521,aphex twin,1995,electronic
 522,deftones,1997,metal
@@ -598,7 +598,7 @@ popular_ranking,artist_name,release_date,genre
 607,mogwai,1997,rock
 608,u2,1991,rock
 609,pj harvey,2011,rock
-610,lauryn hill,1998,soul
+610,lauryn hill,1998,soul_funk
 611,mos def,1999,hip-hop
 612,creedence clearwater revival,1970,rock
 613,ecco2k,2019,pop
@@ -618,7 +618,7 @@ popular_ranking,artist_name,release_date,genre
 627,wire,1978,rock
 628,the cure,1987,rock
 629,galaxie 500,1989,rock
-630,jay-z,2001,soul
+630,jay-z,2001,soul_funk
 631,oneohtrix point never,2013,electronic
 632,kraftwerk,1981,electronic
 633,iggy pop,1977,rock
@@ -654,7 +654,7 @@ popular_ranking,artist_name,release_date,genre
 663,system of a down,2005,metal
 664,a$ap rocky,2013,hip-hop
 665,jay-z,1996,hip-hop
-666,anderson .paak,2016,soul
+666,anderson .paak,2016,soul_funk
 667,viktor vaughn,2003,hip-hop
 668,blur,1999,rock
 669,robert wyatt,1974,rock
@@ -696,8 +696,8 @@ popular_ranking,artist_name,release_date,genre
 705,drake,2013,pop
 706,yo la tengo,2000,rock
 707,bob dylan,1976,rock
-708,d'angelo and the vanguard,2014,soul
-709,sza,2017,soul
+708,d'angelo and the vanguard,2014,soul_funk
+709,sza,2017,soul_funk
 711,joanna newsom,2010,folk
 712,alice in chains,1990,rock
 713,crystal castles,2010,electronic
@@ -780,7 +780,7 @@ popular_ranking,artist_name,release_date,genre
 791,travis scott,2016,pop
 792,neil young,1975,rock
 793,queens of the stone age,2005,rock
-794,curtis mayfield,1972,soul
+794,curtis mayfield,1972,soul_funk
 795,new order,1985,electronic
 796,eric dolphy,1964,jazz
 797,father john misty,2015,folk
@@ -817,7 +817,7 @@ popular_ranking,artist_name,release_date,genre
 829,ariana grande,2019,pop
 830,venetian snares,2005,electronic
 831,alt-j,2012,pop
-832,kali uchis,2018,soul
+832,kali uchis,2018,soul_funk
 833,gorillaz,2020,pop
 834,ミドリ [midori],2008,rock
 835,death,1993,metal
@@ -833,7 +833,7 @@ popular_ranking,artist_name,release_date,genre
 845,bark psychosis,1994,rock
 846,dr. dre,1999,hip-hop
 847,st. vincent,2011,rock
-848,d'angelo,2000,soul
+848,d'angelo,2000,soul_funk
 850,tortoise,1996,rock
 851,rush,1978,rock
 852,lil ugly mane,2021,rock
@@ -866,12 +866,12 @@ popular_ranking,artist_name,release_date,genre
 879,the beach boys,1971,rock
 880,weezer,2016,rock
 881,mort garson,1976,pop
-882,genesis owusu,2021,soul
+882,genesis owusu,2021,soul_funk
 883,faith no more,1989,metal
 884,drake,2016,pop
 885,the brave little abacus,2010,rock
 886,king krule,2020,rock
-887,sly & the family stone,1971,soul
+887,sly & the family stone,1971,soul_funk
 888,melvins,1993,metal
 889,paul & linda mccartneypaul mccartneylinda mccartney,1971,rock
 890,bruce springsteen,1978,rock
@@ -883,7 +883,7 @@ popular_ranking,artist_name,release_date,genre
 896,mac demarco,2017,pop
 897,common,2005,hip-hop
 898,new order,1989,electronic
-899,prince,1982,funk
+899,prince,1982,soul_funk
 900,kate bush,1980,pop
 901,serge gainsbourg,1971,pop
 902,billie eilish,2021,pop
@@ -898,7 +898,7 @@ popular_ranking,artist_name,release_date,genre
 911,arctic monkeys,2011,rock
 912,the war on drugs,2014,rock
 913,alice in chains,1995,rock
-914,thundercat,2017,soul
+914,thundercat,2017,soul_funk
 915,joanna newsom,2004,folk
 916,j. cole,2014,hip-hop
 917,the who,1967,rock
@@ -917,7 +917,7 @@ popular_ranking,artist_name,release_date,genre
 930,oneohtrix point never,2015,electronic
 931,bob dylan,1964,folk
 932,de la soul,1989,hip-hop
-933,the weeknd,2016,soul
+933,the weeknd,2016,soul_funk
 934,weezer,2021,rock
 935,swans,1984,rock
 936,elvis costello,1977,rock
@@ -1005,10 +1005,10 @@ popular_ranking,artist_name,release_date,genre
 1022,beach house,2008,pop
 1023,bathory,1988,metal
 1024,nick cave & the bad seeds,1990,rock
-1025,curtis mayfield,1970,soul
+1025,curtis mayfield,1970,soul_funk
 1026,the white stripes,2000,rock
 1027,pavement,1997,rock
-1028,jai paul,2019,soul
+1028,jai paul,2019,soul_funk
 1029,neil young with crazy horseneil youngcrazy horse,1975,rock
 1030,the kinks,1969,rock
 1031,future,2015,hip-hop
@@ -1062,7 +1062,7 @@ popular_ranking,artist_name,release_date,genre
 1079,manic street preachers,1994,rock
 1082,grateful dead,1970,rock
 1083,フィッシュマンズ,1996,pop
-1084,stevie wonder,1972,soul
+1084,stevie wonder,1972,soul_funk
 1085,miles davis,1972,jazz
 1086,isis,2002,metal
 1087,opeth,2008,metal
@@ -1123,7 +1123,7 @@ popular_ranking,artist_name,release_date,genre
 1144,simon & garfunkel,1966,rock
 1145,sleep,1992,metal
 1146,the strokes,2013,rock
-1147,otis redding,1965,soul
+1147,otis redding,1965,soul_funk
 1148,the black keys,2011,rock
 1149,the white stripes,2007,rock
 1150,supertramp,1979,rock
@@ -1153,7 +1153,7 @@ popular_ranking,artist_name,release_date,genre
 1175,shellac,1994,rock
 1176,julee cruise,1989,pop
 1177,metallica,1998,rock
-1178,the weeknd,2015,soul
+1178,the weeknd,2015,soul_funk
 1179,xiu xiu,2004,rock
 1180,creedence clearwater revival,1969,rock
 1181,noname,2018,jazz
@@ -1190,7 +1190,7 @@ popular_ranking,artist_name,release_date,genre
 1213,slowthai,2019,hip-hop
 1214,sepultura,1989,metal
 1215,paramore,2017,rock
-1216,solange,2016,soul
+1216,solange,2016,soul_funk
 1217,big k.r.i.t.,2017,hip-hop
 1218,megadeth,1988,metal
 1219,interpol,2007,rock
@@ -1233,7 +1233,7 @@ popular_ranking,artist_name,release_date,genre
 1256,leonard cohen,1969,folk
 1257,godspeed you! black emperor,2017,rock
 1258,george clanton,2018,pop
-1259,parliament,1975,funk
+1259,parliament,1975,soul_funk
 1260,animal collective,2003,rock
 1261,roxy music,1972,rock
 1262,van der graaf generator,1971,rock
@@ -1262,9 +1262,9 @@ popular_ranking,artist_name,release_date,genre
 1286,nails,2010,metal
 1287,death,1990,metal
 1288,miles davis,1971,rock
-1289,childish gambino,2020,soul
+1289,childish gambino,2020,soul_funk
 1290,primus,1991,metal
-1291,prince,1980,funk
+1291,prince,1980,soul_funk
 1292,faith no more,1995,metal
 1293,lil uzi vert,2017,pop
 1294,carcass,1993,metal
@@ -1277,7 +1277,7 @@ popular_ranking,artist_name,release_date,genre
 1301,charlie mingus,1960,jazz
 1302,sufjan stevens & angelo de augustine,2021,folk
 1303,low,2018,pop
-1304,anderson .paak,2019,soul
+1304,anderson .paak,2019,soul_funk
 1305,mastodon,2002,metal
 1306,deftones,1995,metal
 1307,korn,1998,metal
@@ -1302,7 +1302,7 @@ popular_ranking,artist_name,release_date,genre
 1327,muse,2012,rock
 1328,genesis,1976,rock
 1329,deftones,2006,rock
-1330,ariana grande,2018,soul
+1330,ariana grande,2018,soul_funk
 1331,queensrÿche,1988,metal
 1332,clouddead,2001,hip-hop
 1333,silver apples,1968,rock
@@ -1320,7 +1320,7 @@ popular_ranking,artist_name,release_date,genre
 1345,linkin park,2007,rock
 1346,vince staples,2018,hip-hop
 1347,twenty øne piløts,2015,pop
-1348,joji,2018,soul
+1348,joji,2018,soul_funk
 1349,women,2010,rock
 1350,pink floyd,2014,rock
 1351,snail mail,2018,rock
@@ -1331,7 +1331,7 @@ popular_ranking,artist_name,release_date,genre
 1356,bathory,1984,metal
 1357,can,1970,rock
 1358,clarence clarity,2015,pop
-1359,sly & the family stone,1969,soul
+1359,sly & the family stone,1969,soul_funk
 1360,nick cave and the bad seeds,2001,rock
 1361,aesop rock,2016,hip-hop
 1362,nomeansno,1989,rock
@@ -1359,7 +1359,7 @@ popular_ranking,artist_name,release_date,genre
 1384,david bowie,1967,pop
 1385,madonna,1998,pop
 1386,the mars volta,2006,rock
-1387,marvin gaye,1973,soul
+1387,marvin gaye,1973,soul_funk
 1388,kate bush,1989,pop
 1389,green day,2009,rock
 1390,nick cave and the bad seeds,2019,pop
@@ -1426,7 +1426,7 @@ popular_ranking,artist_name,release_date,genre
 1452,dälek,2005,hip-hop
 1453,car seat headrest,2020,rock
 1454,marilyn manson,1996,rock
-1455,lianne la havas,2020,soul
+1455,lianne la havas,2020,soul_funk
 1456,big thief,2019,folk
 1457,death cab for cutie,2005,rock
 1458,queens of the stone age,2017,rock
@@ -1461,7 +1461,7 @@ popular_ranking,artist_name,release_date,genre
 1488,at the gates,1995,metal
 1489,grizzly bear,2006,folk
 1490,sewerslvt,2020,electronic
-1491,isaac hayes,1969,soul
+1491,isaac hayes,1969,soul_funk
 1492,mercyful fate,1984,metal
 1493,tori amos,1992,rock
 1494,lynyrd skynyrd,1973,rock
@@ -1482,7 +1482,7 @@ popular_ranking,artist_name,release_date,genre
 1509,ride,1992,rock
 1510,animal collective,2022,rock
 1511,sunn o))),2005,metal
-1512,anderson .paak,2018,soul
+1512,anderson .paak,2018,soul_funk
 1513,steely dan,1974,rock
 1514,the notorious b.i.g.,1997,hip-hop
 1515,lil peep,2017,rock
@@ -1497,7 +1497,7 @@ popular_ranking,artist_name,release_date,genre
 1525,simon and garfunkel,1966,rock
 1526,joni mitchell,1974,pop
 1527,jesu,2004,rock
-1528,sampha,2017,soul
+1528,sampha,2017,soul_funk
 1529,post malone,2018,pop
 1530,blood orange,2018,pop
 1531,yes,1973,rock
@@ -1620,7 +1620,7 @@ popular_ranking,artist_name,release_date,genre
 1654,swans,1986,rock
 1655,ghostface killah,1996,hip-hop
 1657,taylor swift,2020,pop
-1658,rihanna,2016,soul
+1658,rihanna,2016,soul_funk
 1659,big star,1974,pop
 1660,mar1lyn man5on,1998,rock
 1661,king crimson,1982,rock
@@ -1656,7 +1656,7 @@ popular_ranking,artist_name,release_date,genre
 1695,bedwetter,2017,hip-hop
 1696,bathory,1990,metal
 1697,spiritualized,1992,rock
-1698,thundercat,2020,soul
+1698,thundercat,2020,soul_funk
 1699,sons of kemet,2018,jazz
 1700,john coltrane,1961,jazz
 1701,dälek,2002,hip-hop
@@ -1673,7 +1673,7 @@ popular_ranking,artist_name,release_date,genre
 1712,sigur rós,2012,rock
 1713,iceage,2014,rock
 1714,rage against the machine,2000,metal
-1715,gil scott-heron,1971,soul
+1715,gil scott-heron,1971,soul_funk
 1716,unwound,1993,rock
 1717,taylor swift,2017,electronic
 1718,adrianne lenker,2020,folk
@@ -1761,7 +1761,7 @@ popular_ranking,artist_name,release_date,genre
 1804,ulver,1996,folk
 1805,the olivia tremor control,1996,rock
 1806,foo fighters,2002,rock
-1807,beyoncé,2013,soul
+1807,beyoncé,2013,soul_funk
 1808,have a nice life,2019,rock
 1809,blur,1991,rock
 1810,pearl jam,1998,rock
@@ -1769,7 +1769,7 @@ popular_ranking,artist_name,release_date,genre
 1812,broken social scene,2005,rock
 1813,venom,1982,metal
 1814,in flames,1996,metal
-1815,aretha franklin,1967,soul
+1815,aretha franklin,1967,soul_funk
 1816,jethro tull,1969,rock
 1817,charles mingus,1964,jazz
 1818,black sabbath,2013,metal
@@ -1783,7 +1783,7 @@ popular_ranking,artist_name,release_date,genre
 1826,blood incantation,2019,metal
 1827,spoon,2007,rock
 1828,gojira,2008,metal
-1829,d'angelo,1995,soul
+1829,d'angelo,1995,soul_funk
 1830,rush,1974,rock
 1831,röyksopp,2001,electronic
 1832,the shins,2007,pop
@@ -1854,7 +1854,7 @@ popular_ranking,artist_name,release_date,genre
 1902,the mountain goats,2005,folk
 1903,madonna,1983,pop
 1904,let's eat grandma,2018,pop
-1905,yung lean,2017,soul
+1905,yung lean,2017,soul_funk
 1906,sleigh bells,2010,pop
 1907,seatbelts,1998,jazz
 1908,exodus,1985,metal
@@ -1950,7 +1950,7 @@ popular_ranking,artist_name,release_date,genre
 2000,charles mingus,1972,jazz
 2001,carcass,1991,metal
 2002,leonard cohen,2016,folk
-2003,the weeknd,2013,soul
+2003,the weeknd,2013,soul_funk
 2004,swans,1989,rock
 2005,open mike eagle,2017,hip-hop
 2006,underworld,1994,electronic
@@ -1960,7 +1960,7 @@ popular_ranking,artist_name,release_date,genre
 2010,the angels of light,2001,rock
 2011,nas,2001,hip-hop
 2012,bohren & der club of gore,2002,jazz
-2013,erykah badu,1997,soul
+2013,erykah badu,1997,soul_funk
 2014,the roots,2011,hip-hop
 2015,deftones,2016,rock
 2016,paul mccartney,1970,rock
@@ -2054,7 +2054,7 @@ popular_ranking,artist_name,release_date,genre
 2108,andrew bird,2005,pop
 2109,iron maiden,1998,metal
 2110,eels,1996,rock
-2111,erykah badu,2000,soul
+2111,erykah badu,2000,soul_funk
 2112,prmlscrm,2000,electronic
 2113,toe,2005,rock
 2114,creedence clearwater revival,1968,rock
@@ -2107,7 +2107,7 @@ popular_ranking,artist_name,release_date,genre
 2163,todd rundgren,1973,rock
 2164,foo fighters,2007,rock
 2165,steely dan,1975,rock
-2166,kaytranada,2016,soul
+2166,kaytranada,2016,soul_funk
 2167,jackboys & travis scott,2019,pop
 2168,american football,2016,rock
 2169,uboa,2019,electronic
@@ -2217,7 +2217,7 @@ popular_ranking,artist_name,release_date,genre
 2277,gorguts,2013,metal
 2278,ka,2020,hip-hop
 2279,yes,1969,rock
-2280,kelela,2017,soul
+2280,kelela,2017,soul_funk
 2281,orchestral manœuvres in the dark,1981,electronic
 2283,joni mitchell,1970,folk
 2284,beck,2008,rock
@@ -2316,7 +2316,7 @@ popular_ranking,artist_name,release_date,genre
 2380,alice cooper,1971,rock
 2381,the roots,1996,hip-hop
 2382,om,2012,rock
-2383,janelle monáe,2013,soul
+2383,janelle monáe,2013,soul_funk
 2384,the new pornographers,2005,pop
 2385,slayer,2006,metal
 2386,red hot chili peppers,2011,rock
@@ -2369,10 +2369,10 @@ popular_ranking,artist_name,release_date,genre
 2435,the libertines,2004,rock
 2436,weezer,2017,rock
 2437,beat happening,1992,rock
-2438,gnarls barkley,2006,soul
+2438,gnarls barkley,2006,soul_funk
 2439,meshuggah,1995,metal
-2440,aretha franklin,1968,soul
-2441,prince,1981,funk
+2440,aretha franklin,1968,soul_funk
+2441,prince,1981,soul_funk
 2442,dirty three,1998,rock
 2443,buffalo springfield,1967,rock
 2444,lady gaga,2013,pop
@@ -2413,7 +2413,7 @@ popular_ranking,artist_name,release_date,genre
 2479,juice wrld,2018,rock
 2480,bolt thrower,2005,metal
 2481,skepta,2016,hip-hop
-2482,stevie wonder,1974,soul
+2482,stevie wonder,1974,soul_funk
 2483,the jesus lizard,1992,rock
 2484,songs: ohia,2000,rock
 2485,유키카 [yukika],2020,pop
@@ -2455,7 +2455,7 @@ popular_ranking,artist_name,release_date,genre
 2522,chvrches,2015,electronic
 2523,run-d.m.c.,1986,hip-hop
 2524,the fall of troy,2005,rock
-2525,standing on the corner,2017,soul
+2525,standing on the corner,2017,soul_funk
 2526,mad season,1995,rock
 2527,gas,1998,electronic
 2528,two door cinema club,2010,pop
@@ -2509,7 +2509,7 @@ popular_ranking,artist_name,release_date,genre
 2579,melvins,1994,rock
 2580,megadeth,2004,metal
 2581,the upsetters,1976,reggae
-2582,mac miller,2016,soul
+2582,mac miller,2016,soul_funk
 2583,hannah diamond,2019,electronic
 2584,stevie ray vaughan and double trouble,1983,rock
 2585,dead can dance,1984,rock
@@ -2624,7 +2624,7 @@ popular_ranking,artist_name,release_date,genre
 2697,amon tobin,2000,jazz
 2698,in flames,2000,metal
 2699,placebo,2000,rock
-2700,jorge ben,1970,soul
+2700,jorge ben,1970,soul_funk
 2701,bell witch,2017,metal
 2702,gong,1974,rock
 2703,negură bunget,2006,metal
@@ -2632,7 +2632,7 @@ popular_ranking,artist_name,release_date,genre
 2705,pearl jam,2000,rock
 2706,sleater-kinney,2015,rock
 2707,파란노을 [parannoul] / asian glow / sonhos tomam conta,2021,rock
-2708,michael kiwanuka,2019,soul
+2708,michael kiwanuka,2019,soul_funk
 2709,funkadelic,1970,rock
 2710,david bowie,1999,rock
 2711,waka flocka flame,2010,hip-hop
@@ -2667,7 +2667,7 @@ popular_ranking,artist_name,release_date,genre
 2740,melody's echo chamber,2018,rock
 2741,johnny cash,1994,country
 2742,haim,2013,rock
-2743,"bladee, ecco2k & thaiboy digital",2017,soul
+2743,"bladee, ecco2k & thaiboy digital",2017,soul_funk
 2744,courtney barnett,2018,rock
 2745,taylor swift,2010,rock
 2746,queen,1989,rock
@@ -2808,7 +2808,7 @@ popular_ranking,artist_name,release_date,genre
 2886,yo la tengo,1995,rock
 2887,elton john,1971,rock
 2888,paul simon,1972,rock
-2889,blood orange,2016,soul
+2889,blood orange,2016,soul_funk
 2890,john mayall with eric claptonjohn mayalleric claptonjohn mayall's bluesbreakers,1966,rock
 2891,jeru the damaja,1994,hip-hop
 2892,death cab for cutie,2008,rock
@@ -2819,7 +2819,7 @@ popular_ranking,artist_name,release_date,genre
 2897,yeule,2019,pop
 2898,wipers,1983,rock
 2899,judas priest,1986,rock
-2900,teyana taylor,2018,soul
+2900,teyana taylor,2018,soul_funk
 2901,weezer,2021,rock
 2902,the future sound of london,1994,electronic
 2903,r.e.m.,2001,rock
@@ -2841,7 +2841,7 @@ popular_ranking,artist_name,release_date,genre
 2919,sufjan stevens,2006,pop
 2920,megadeth,2007,metal
 2921,the black keys,2008,rock
-2922,young fathers,2018,soul
+2922,young fathers,2018,soul_funk
 2923,sunn o))),2019,metal
 2924,hermit and the recluse,2018,hip-hop
 2925,little richard,1957,rock
@@ -2893,7 +2893,7 @@ popular_ranking,artist_name,release_date,genre
 2973,swirlies,1996,rock
 2974,the roots,2002,hip-hop
 2975,bauhaus,1982,rock
-2976,bruno mars,2016,soul
+2976,bruno mars,2016,soul_funk
 2977,deep purple,1968,rock
 2978,the beach boys,1965,rock
 2979,dead can dance,1990,folk
@@ -2944,7 +2944,7 @@ popular_ranking,artist_name,release_date,genre
 3026,marina and the diamonds,2012,pop
 3027,katatonia,2003,rock
 3028,why?,2008,pop
-3029,jorge ben,1976,funk
+3029,jorge ben,1976,soul_funk
 3030,okkervil river,2005,rock
 3031,sparks,1974,rock
 3032,built to spill,2006,rock
@@ -2973,7 +2973,7 @@ popular_ranking,artist_name,release_date,genre
 3055,air,2001,electronic
 3056,a perfect circle,2004,rock
 3057,germs,1979,rock
-3058,stevie wonder,1972,soul
+3058,stevie wonder,1972,soul_funk
 3059,anohni,2016,pop
 3060,harry styles,2017,rock
 3061,grouper,2013,folk
@@ -3105,7 +3105,7 @@ popular_ranking,artist_name,release_date,genre
 3190,paramore,2005,rock
 3191,dream theater,2011,metal
 3192,armand hammer,2018,hip-hop
-3193,nina simone,1966,soul
+3193,nina simone,1966,soul_funk
 3194,grateful dead,1968,rock
 3195,turnover,2015,rock
 3196,logic,2017,pop
@@ -3164,12 +3164,12 @@ popular_ranking,artist_name,release_date,genre
 3251,the dream syndicate,1982,pop
 3252,the caretaker,2017,electronic
 3253,tori amos,1998,pop
-3254,saint pepsi,2013,funk
+3254,saint pepsi,2013,soul_funk
 3255,klaxons,2007,rock
 3256,blanck mass,2019,electronic
 3257,the allman brothers band,1969,rock
 3258,genesis,1969,rock
-3259,al green,1972,soul
+3259,al green,1972,soul_funk
 3260,jaden,2017,pop
 3261,van der graaf generator,1976,rock
 3262,no age,2008,rock
@@ -3197,7 +3197,7 @@ popular_ranking,artist_name,release_date,genre
 3284,lil ugly mane,2013,hip-hop
 3285,elton john,1970,rock
 3286,ayreon,2004,rock
-3287,al green,1973,soul
+3287,al green,1973,soul_funk
 3288,alt-j,2017,pop
 3289,pearl jam,2009,rock
 3290,john coltrane,1974,jazz
@@ -3341,7 +3341,7 @@ popular_ranking,artist_name,release_date,genre
 3435,stereolab,1999,pop
 3436,cyndi lauper,1983,rock
 3437,mount eerie,2008,folk
-3438,sturgill simpson,2016,soul
+3438,sturgill simpson,2016,soul_funk
 3439,mutantes,1970,rock
 3440,celtic frost,1987,metal
 3441,adele,2021,pop
@@ -3358,7 +3358,7 @@ popular_ranking,artist_name,release_date,genre
 3452,the black keys,2003,rock
 3453,metronomy,2011,pop
 3454,wilco,2011,rock
-3455,blood orange,2013,soul
+3455,blood orange,2013,soul_funk
 3456,future,2016,hip-hop
 3458,scarface,1994,hip-hop
 3459,isis,2000,metal
@@ -3370,7 +3370,7 @@ popular_ranking,artist_name,release_date,genre
 3465,foxtails,2022,rock
 3466,machine girl,2018,electronic
 3467,tori amos,1996,pop
-3468,aaliyah,2001,soul
+3468,aaliyah,2001,soul_funk
 3469,various artists,2012,pop
 3470,animals as leaders,2009,metal
 3471,silver jews,1996,rock
@@ -3400,7 +3400,7 @@ popular_ranking,artist_name,release_date,genre
 3495,diiv,2016,rock
 3496,amesoeurs,2009,rock
 3497,mac demarco,2012,rock
-3498,parliament,1977,funk
+3498,parliament,1977,soul_funk
 3499,fall out boy,2003,rock
 3500,depeche mode,2009,electronic
 3501,lou reed & john cale,1990,rock
@@ -3438,7 +3438,7 @@ popular_ranking,artist_name,release_date,genre
 3533,circle jerks,1980,rock
 3534,diiv,2019,rock
 3535,mount eerie,2005,folk
-3536,kali uchis,2020,soul
+3536,kali uchis,2020,soul_funk
 3537,juice wrld,2019,rock
 3538,danzig,1990,rock
 3539,yes,1978,rock
@@ -3517,8 +3517,8 @@ popular_ranking,artist_name,release_date,genre
 3613,mgła,2019,metal
 3614,nightwish,2001,metal
 3615,bob dylan,1983,rock
-3616,chloe x halle,2020,soul
-3617,james blake,2021,soul
+3616,chloe x halle,2020,soul_funk
+3617,james blake,2021,soul_funk
 3618,hawkwind,1971,rock
 3619,the gathering,1995,metal
 3620,grouper,2018,pop
@@ -3567,7 +3567,7 @@ popular_ranking,artist_name,release_date,genre
 3663,agalloch,2014,metal
 3664,meat puppets,1985,rock
 3665,poppy,2018,pop
-3666,marvin gaye,1978,soul
+3666,marvin gaye,1978,soul_funk
 3667,tim buckley,1969,folk
 3668,randy newman,1972,rock
 3669,yellow magic orchestra,1978,electronic
@@ -3671,7 +3671,7 @@ popular_ranking,artist_name,release_date,genre
 3769,alice in chains,2013,rock
 3770,warpaint,2010,rock
 3771,toe,2009,rock
-3773,marvin gaye,1976,soul
+3773,marvin gaye,1976,soul_funk
 3774,zappa,1976,rock
 3775,traveling wilburys,1988,rock
 3776,yo la tengo,2013,rock
@@ -3690,7 +3690,7 @@ popular_ranking,artist_name,release_date,genre
 3789,fever ray,2017,pop
 3790,david sylvian,1984,pop
 3791,crystal castles,2016,electronic
-3792,nxworries,2016,soul
+3792,nxworries,2016,soul_funk
 3793,waxahatchee,2020,country
 3794,crywank,2013,folk
 3795,magnetic fields,1994,pop
@@ -3718,7 +3718,7 @@ popular_ranking,artist_name,release_date,genre
 3817,repulsion,1989,metal
 3818,black sabbath featuring tony iommiblack sabbathtony iommi,1986,rock
 3820,the drones,2013,rock
-3821,dua lipa,2017,soul
+3821,dua lipa,2017,soul_funk
 3822,lush,1992,rock
 3823,pantha du prince,2010,electronic
 3824,inxs,1987,rock
@@ -3743,7 +3743,7 @@ popular_ranking,artist_name,release_date,genre
 3844,glass animals,2016,pop
 3845,broken bells,2010,pop
 3846,justice,2011,rock
-3847,daniel caesar,2017,soul
+3847,daniel caesar,2017,soul_funk
 3848,pale saints,1990,rock
 3849,kings of convenience,2004,pop
 3850,calvin harris,2017,pop
@@ -3765,7 +3765,7 @@ popular_ranking,artist_name,release_date,genre
 3867,cannibal corpse,1991,metal
 3868,midlake,2006,rock
 3869,lil wayne,2011,pop
-3870,shuggie otis,1974,soul
+3870,shuggie otis,1974,soul_funk
 3871,warren zevon,1978,rock
 3872,don caballero,1995,rock
 3873,fuck buttons,2008,electronic
@@ -3775,7 +3775,7 @@ popular_ranking,artist_name,release_date,genre
 3877,ulcerate,2009,metal
 3878,owen pallett,2010,pop
 3879,oliver nelson,1961,jazz
-3880,james brown,1973,soul
+3880,james brown,1973,soul_funk
 3881,cryptopsy,1994,metal
 3882,badbadnotgood,2021,jazz
 3883,bauhaus,1983,rock
@@ -3920,7 +3920,7 @@ popular_ranking,artist_name,release_date,genre
 4028,phoenix,2013,rock
 4029,pi'erre bourne,2021,pop
 4030,don caballero,2000,rock
-4031,al green,1972,soul
+4031,al green,1972,soul_funk
 4032,green day,1990,rock
 4033,testament,1999,metal
 4034,women,2008,rock
@@ -3940,7 +3940,7 @@ popular_ranking,artist_name,release_date,genre
 4048,thrice,2003,rock
 4049,belle and sebastian,2010,pop
 4050,carcass,2013,metal
-4051,the internet,2015,soul
+4051,the internet,2015,soul_funk
 4052,bad company,1974,rock
 4053,rapeman,1988,rock
 4054,dungen,2004,rock
@@ -3955,7 +3955,7 @@ popular_ranking,artist_name,release_date,genre
 4063,coil,2004,electronic
 4064,david thomas broughton,2005,folk
 4065,uriah heep,1971,rock
-4066,curtis mayfield,1971,soul
+4066,curtis mayfield,1971,soul_funk
 4068,cocteau twins,1996,pop
 4070,rae sremmurd,2015,pop
 4071,kylie,2020,pop
@@ -4020,7 +4020,7 @@ popular_ranking,artist_name,release_date,genre
 4132,the crazy world of arthur brown,1968,rock
 4134,gorguts,1991,metal
 4135,rustie,2011,electronic
-4136,jessie ware,2012,soul
+4136,jessie ware,2012,soul_funk
 4137,deutsch amerikanische freundschaft,1981,rock
 4138,art ensemble of chicago,1970,jazz
 4139,the black eyed peas,2009,pop
@@ -4092,7 +4092,7 @@ popular_ranking,artist_name,release_date,genre
 4209,alice coltrane,1971,jazz
 4210,the rolling stones,1980,rock
 4211,bolt thrower,1994,metal
-4212,toro y moi,2019,soul
+4212,toro y moi,2019,soul_funk
 4213,skee mask,2021,electronic
 4214,jlin,2017,electronic
 4215,the war on drugs,2011,rock
@@ -4121,14 +4121,14 @@ popular_ranking,artist_name,release_date,genre
 4239,reflection eternal,2000,hip-hop
 4240,dream theater,2013,metal
 4241,mild high club,2016,rock
-4242,nina simone,1965,soul
+4242,nina simone,1965,soul_funk
 4243,new order,1993,electronic
 4244,pete rock & c.l. smooth,1994,hip-hop
 4245,cornelius,2001,pop
 4246,flume,2016,pop
 4247,bad bunny,2020,reggae
 4248,silvana estrada,2022,folk
-4249,sly & the family stone,1973,soul
+4249,sly & the family stone,1973,soul_funk
 4250,cannibal corpse,1990,metal
 4251,eartheater,2020,folk
 4252,blackalicious,2002,hip-hop
@@ -4149,7 +4149,7 @@ popular_ranking,artist_name,release_date,genre
 4268,frank zappa,1979,rock
 4270,pelican,2005,metal
 4271,show me the body,2019,rock
-4272,erika de casier,2021,soul
+4272,erika de casier,2021,soul_funk
 4273,l'rain,2021,rock
 4274,sun-ra and his astro infinity arkestra,1969,jazz
 4275,john fahey,1971,folk
@@ -4197,7 +4197,7 @@ popular_ranking,artist_name,release_date,genre
 4317,thursday,2001,rock
 4318,amon düül ii,1971,rock
 4320,guided by voices,1996,rock
-4321,thundercat,2013,soul
+4321,thundercat,2013,soul_funk
 4322,rich brian,2018,pop
 4323,lamb of god,2006,metal
 4324,sleater-kinney,1996,rock
@@ -4340,7 +4340,7 @@ popular_ranking,artist_name,release_date,genre
 4469,eyehategod,1996,metal
 4470,nujabes / fat jon,2004,hip-hop
 4471,emeralds,2010,electronic
-4472,jorja smith,2018,soul
+4472,jorja smith,2018,soul_funk
 4473,the drums,2011,pop
 4474,trust,2012,electronic
 4475,these new puritans,2013,rock
@@ -4435,7 +4435,7 @@ popular_ranking,artist_name,release_date,genre
 4569,three days grace,2006,rock
 4570,depressive silence,1996,electronic
 4571,$uicideboy$,2018,hip-hop
-4572,prince,1978,soul
+4572,prince,1978,soul_funk
 4573,the fratellis,2006,rock
 4575,travis,2001,rock
 4576,la dispute,2014,rock
@@ -4451,7 +4451,7 @@ popular_ranking,artist_name,release_date,genre
 4588,annihilator,1990,metal
 4589,behemoth,2018,metal
 4590,thin lizzy,1977,rock
-4591,erykah badu,2008,soul
+4591,erykah badu,2008,soul_funk
 4592,electric wizard,2010,metal
 4593,dj koze,2018,electronic
 4594,the raincoats,1981,rock
@@ -4555,11 +4555,11 @@ popular_ranking,artist_name,release_date,genre
 4699,ke\$ha,2010,pop
 4700,jay som,2019,rock
 4701,kreator,1985,metal
-4702,james carr,1967,soul
+4702,james carr,1967,soul_funk
 4703,russian circles,2006,rock
 4705,animals as leaders,2014,metal
 4706,jenny hval,2019,pop
-4707,bill withers,1971,soul
+4707,bill withers,1971,soul_funk
 4708,the cars,1979,rock
 4709,fear factory,1998,metal
 4710,neil young with crazy horseneil youngcrazy horse,2012,rock
@@ -4619,7 +4619,7 @@ popular_ranking,artist_name,release_date,genre
 4767,belle and sebastian,2015,pop
 4768,the body,2021,metal
 4769,einstürzende neubauten,2000,rock
-4771,the internet,2018,soul
+4771,the internet,2018,soul_funk
 4772,miles davis,1968,jazz
 4773,primus,1997,rock
 4774,lil b,2011,hip-hop
@@ -4632,7 +4632,7 @@ popular_ranking,artist_name,release_date,genre
 4781,twisted sister,1984,rock
 4782,lovesliescrushing,1996,rock
 4783,mount kimbie,2010,electronic
-4784,elvis presley,1969,soul
+4784,elvis presley,1969,soul_funk
 4785,cults,2011,pop
 4786,between the buried and me,2021,metal
 4787,bruce dickinson,1998,metal
@@ -4684,13 +4684,13 @@ popular_ranking,artist_name,release_date,genre
 4833,ufo,1974,rock
 4834,redman,1992,hip-hop
 4836,ahab,2006,metal
-4837,toro y moi,2013,soul
+4837,toro y moi,2013,soul_funk
 4838,the mountain goats,2017,pop
 4839,pharoah sanders,1971,jazz
 4840,kid cudi,2014,pop
 4841,spk,1982,electronic
 4842,grateful dead,1967,rock
-4843,dexys midnight runners,1980,soul
+4843,dexys midnight runners,1980,soul_funk
 4844,banco del mutuo soccorso,1972,rock
 4845,george harrison,1987,rock
 4846,the hives,2004,rock
@@ -4759,7 +4759,7 @@ popular_ranking,artist_name,release_date,genre
 4911,whitehouse,2003,electronic
 4912,george clanton,2015,electronic
 4913,alexander spence,1969,folk
-4914,baby huey,1971,soul
+4914,baby huey,1971,soul_funk
 4915,devendra banhart,2005,folk
 4916,clifford brown and max roach,1954,jazz
 4917,elis regina & antônio carlos jobim,1974,jazz
@@ -4771,7 +4771,7 @@ popular_ranking,artist_name,release_date,genre
 4923,morphine,1995,rock
 4924,kiss,1979,rock
 4925,the rolling stones,2005,rock
-4926,hiatus kaiyote,2015,soul
+4926,hiatus kaiyote,2015,soul_funk
 4927,primus,1999,rock
 4928,amorphis,2009,metal
 4929,the chemical brothers,2002,electronic
@@ -4825,7 +4825,7 @@ popular_ranking,artist_name,release_date,genre
 4979,death from above 1979,2014,rock
 4980,sum 41,2004,rock
 4981,keane,2006,rock
-4982,terry callier,1972,soul
+4982,terry callier,1972,soul_funk
 4983,paradise lost,1991,metal
 4984,n.w.a,1991,hip-hop
 4985,squarepusher,2004,electronic

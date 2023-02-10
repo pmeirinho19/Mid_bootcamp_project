@@ -119,7 +119,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 179.0,talking heads,1979.0,rock,2.0,0.0
 224.0,talking heads,1977.0,rock,2.0,0.0
 341.0,talking heads,1978.0,rock,2.0,0.0
-347.0,talking heads,1983.0,funk,2.0,0.0
+347.0,talking heads,1983.0,soul_funk,2.0,0.0
 1247.0,talking heads,1985.0,rock,2.0,0.0
 2102.0,talking heads,1986.0,rock,2.0,0.0
 2520.0,talking heads,1988.0,rock,2.0,0.0
@@ -170,7 +170,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 697.0,led zeppelin,1976.0,rock,3.0,0.0
 869.0,led zeppelin,1979.0,rock,3.0,0.0
 1399.0,led zeppelin,1982.0,rock,3.0,0.0
-35.0,"tyler, the creator",2019.0,soul,0.0,0.0
+35.0,"tyler, the creator",2019.0,soul_funk,0.0,0.0
 48.0,"tyler, the creator",2017.0,hip-hop,0.0,0.0
 161.0,"tyler, the creator",2021.0,hip-hop,0.0,0.0
 285.0,"tyler, the creator",2013.0,hip-hop,0.0,0.0
@@ -203,7 +203,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 4039.0,nas,1999.0,hip-hop,0.0,0.0
 4259.0,nas,2006.0,hip-hop,0.0,0.0
 46.0,frank ocean,2016.0,pop,0.0,0.0
-89.0,frank ocean,2012.0,soul,0.0,0.0
+89.0,frank ocean,2012.0,soul_funk,0.0,0.0
 729.0,frank ocean,2018.0,pop,0.0,0.0
 49.0,the doors,1967.0,rock,0.0,0.0
 265.0,the doors,1967.0,rock,0.0,0.0
@@ -621,10 +621,10 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 2476.0,tom waits,2004.0,rock,0.0,0.0
 2630.0,tom waits,1980.0,rock,0.0,0.0
 4282.0,tom waits,1993.0,rock,0.0,0.0
-174.0,marvin gaye,1971.0,soul,12.0,1.0
-1387.0,marvin gaye,1973.0,soul,12.0,1.0
-3666.0,marvin gaye,1978.0,soul,12.0,1.0
-3773.0,marvin gaye,1976.0,soul,12.0,1.0
+174.0,marvin gaye,1971.0,soul_funk,12.0,1.0
+1387.0,marvin gaye,1973.0,soul_funk,12.0,1.0
+3666.0,marvin gaye,1978.0,soul_funk,12.0,1.0
+3773.0,marvin gaye,1976.0,soul_funk,12.0,1.0
 176.0,slayer,1986.0,metal,0.0,0.0
 617.0,slayer,1990.0,metal,0.0,0.0
 683.0,slayer,1988.0,metal,0.0,0.0
@@ -998,11 +998,11 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 1630.0,red hot chili peppers,1989.0,rock,0.0,0.0
 2386.0,red hot chili peppers,2011.0,rock,0.0,0.0
 2842.0,red hot chili peppers,2016.0,rock,0.0,0.0
-286.0,the weeknd,2020.0,soul,0.0,0.0
+286.0,the weeknd,2020.0,soul_funk,0.0,0.0
 651.0,the weeknd,2022.0,pop,0.0,0.0
-933.0,the weeknd,2016.0,soul,0.0,0.0
-1178.0,the weeknd,2015.0,soul,0.0,0.0
-2003.0,the weeknd,2013.0,soul,0.0,0.0
+933.0,the weeknd,2016.0,soul_funk,0.0,0.0
+1178.0,the weeknd,2015.0,soul_funk,0.0,0.0
+2003.0,the weeknd,2013.0,soul_funk,0.0,0.0
 287.0,ac/dc,1980.0,rock,7.0,0.0
 555.0,ac/dc,1979.0,rock,7.0,0.0
 1253.0,ac/dc,1977.0,rock,7.0,0.0
@@ -1324,15 +1324,15 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 418.0,king gizzard and the lizard wizard,2016.0,rock,0.0,0.0
 1420.0,king gizzard and the lizard wizard,2017.0,rock,0.0,0.0
 4870.0,king gizzard and the lizard wizard,2013.0,rock,0.0,0.0
-420.0,childish gambino,2016.0,soul,0.0,0.0
+420.0,childish gambino,2016.0,soul_funk,0.0,0.0
 595.0,childish gambino,2013.0,hip-hop,0.0,0.0
-1289.0,childish gambino,2020.0,soul,0.0,0.0
+1289.0,childish gambino,2020.0,soul_funk,0.0,0.0
 1468.0,childish gambino,2011.0,pop,0.0,0.0
-425.0,stevie wonder,1976.0,soul,74.0,2.0
-444.0,stevie wonder,1973.0,soul,74.0,2.0
-1084.0,stevie wonder,1972.0,soul,74.0,2.0
-2482.0,stevie wonder,1974.0,soul,74.0,2.0
-3058.0,stevie wonder,1972.0,soul,74.0,2.0
+425.0,stevie wonder,1976.0,soul_funk,74.0,2.0
+444.0,stevie wonder,1973.0,soul_funk,74.0,2.0
+1084.0,stevie wonder,1972.0,soul_funk,74.0,2.0
+2482.0,stevie wonder,1974.0,soul_funk,74.0,2.0
+3058.0,stevie wonder,1972.0,soul_funk,74.0,2.0
 426.0,oneohtrix point never,2011.0,electronic,0.0,0.0
 631.0,oneohtrix point never,2013.0,electronic,0.0,0.0
 930.0,oneohtrix point never,2015.0,electronic,0.0,0.0
@@ -1432,15 +1432,15 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 4369.0,the killers,2020.0,rock,0.0,0.0
 4377.0,the killers,2012.0,rock,0.0,0.0
 466.0,dua lipa,2020.0,pop,0.0,0.0
-3821.0,dua lipa,2017.0,soul,0.0,0.0
+3821.0,dua lipa,2017.0,soul_funk,0.0,0.0
 467.0,captain beefheart and his magic band,1967.0,rock,0.0,0.0
 469.0,dr. dre,1992.0,hip-hop,26.0,0.0
 846.0,dr. dre,1999.0,hip-hop,26.0,0.0
 2853.0,dr. dre,2015.0,hip-hop,26.0,0.0
-470.0,mac miller,2020.0,soul,0.0,0.0
+470.0,mac miller,2020.0,soul_funk,0.0,0.0
 1076.0,mac miller,2018.0,pop,0.0,0.0
 2107.0,mac miller,2013.0,hip-hop,0.0,0.0
-2582.0,mac miller,2016.0,soul,0.0,0.0
+2582.0,mac miller,2016.0,soul_funk,0.0,0.0
 2604.0,mac miller,2015.0,pop,0.0,0.0
 474.0,lil ugly mane,2012.0,hip-hop,0.0,0.0
 852.0,lil ugly mane,2021.0,rock,0.0,0.0
@@ -1485,7 +1485,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 1525.0,simon and garfunkel,1966.0,rock,0.0,0.0
 501.0,john lennon / plastic ono band,1970.0,rock,0.0,0.0
 504.0,jessie ware,2020.0,pop,0.0,0.0
-4136.0,jessie ware,2012.0,soul,0.0,0.0
+4136.0,jessie ware,2012.0,soul_funk,0.0,0.0
 506.0,agalloch,2002.0,metal,0.0,0.0
 762.0,agalloch,2006.0,metal,0.0,0.0
 1536.0,agalloch,2010.0,metal,0.0,0.0
@@ -1509,7 +1509,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 3394.0,hüsker dü,1986.0,rock,0.0,0.0
 3649.0,hüsker dü,1987.0,rock,0.0,0.0
 514.0,freddie gibbs & the alchemist,2020.0,hip-hop,0.0,0.0
-519.0,silk sonic,2021.0,soul,0.0,0.0
+519.0,silk sonic,2021.0,soul_funk,0.0,0.0
 520.0,mobb deep,1995.0,hip-hop,0.0,0.0
 3368.0,mobb deep,1996.0,hip-hop,0.0,0.0
 523.0,broken social scene,2002.0,rock,0.0,0.0
@@ -1530,7 +1530,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 1040.0,james blake,2013.0,pop,0.0,0.0
 1107.0,james blake,2019.0,pop,0.0,0.0
 1852.0,james blake,2016.0,pop,0.0,0.0
-3617.0,james blake,2021.0,soul,0.0,0.0
+3617.0,james blake,2021.0,soul_funk,0.0,0.0
 537.0,minutemen,1984.0,rock,0.0,0.0
 3747.0,minutemen,1983.0,rock,0.0,0.0
 545.0,kid cudi,2009.0,pop,0.0,0.0
@@ -1687,7 +1687,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 1877.0,pj harvey,2007.0,folk,0.0,0.0
 2844.0,pj harvey,2004.0,rock,0.0,0.0
 3138.0,pj harvey,2016.0,rock,0.0,0.0
-610.0,lauryn hill,1998.0,soul,0.0,0.0
+610.0,lauryn hill,1998.0,soul_funk,0.0,0.0
 611.0,mos def,1999.0,hip-hop,0.0,0.0
 3014.0,mos def,2009.0,hip-hop,0.0,0.0
 612.0,creedence clearwater revival,1970.0,rock,0.0,1.0
@@ -1700,11 +1700,11 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 618.0,snoop doggy dogg,1993.0,hip-hop,0.0,0.0
 624.0,janelle monáe,2010.0,pop,0.0,0.0
 982.0,janelle monáe,2018.0,pop,0.0,0.0
-2383.0,janelle monáe,2013.0,soul,0.0,0.0
+2383.0,janelle monáe,2013.0,soul_funk,0.0,0.0
 629.0,galaxie 500,1989.0,rock,0.0,0.0
 1576.0,galaxie 500,1988.0,rock,0.0,0.0
 4415.0,galaxie 500,1990.0,rock,0.0,0.0
-630.0,jay-z,2001.0,soul,77.0,4.0
+630.0,jay-z,2001.0,soul_funk,77.0,4.0
 665.0,jay-z,1996.0,hip-hop,77.0,4.0
 782.0,jay-z,2017.0,hip-hop,77.0,4.0
 956.0,jay-z,2003.0,hip-hop,77.0,4.0
@@ -1767,9 +1767,9 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 664.0,a$ap rocky,2013.0,hip-hop,0.0,0.0
 948.0,a$ap rocky,2015.0,hip-hop,0.0,0.0
 983.0,a$ap rocky,2018.0,hip-hop,0.0,0.0
-666.0,anderson .paak,2016.0,soul,0.0,0.0
-1304.0,anderson .paak,2019.0,soul,0.0,0.0
-1512.0,anderson .paak,2018.0,soul,0.0,0.0
+666.0,anderson .paak,2016.0,soul_funk,0.0,0.0
+1304.0,anderson .paak,2019.0,soul_funk,0.0,0.0
+1512.0,anderson .paak,2018.0,soul_funk,0.0,0.0
 667.0,viktor vaughn,2003.0,hip-hop,0.0,0.0
 669.0,robert wyatt,1974.0,rock,0.0,0.0
 4297.0,robert wyatt,1997.0,rock,0.0,0.0
@@ -1854,8 +1854,8 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 704.0,sunny day real estate,1994.0,rock,0.0,0.0
 2448.0,sunny day real estate,1998.0,rock,0.0,0.0
 4370.0,sunny day real estate,1995.0,rock,0.0,0.0
-708.0,d'angelo and the vanguard,2014.0,soul,0.0,0.0
-709.0,sza,2017.0,soul,0.0,0.0
+708.0,d'angelo and the vanguard,2014.0,soul_funk,0.0,0.0
+709.0,sza,2017.0,soul_funk,0.0,0.0
 714.0,the postal service,2003.0,pop,0.0,0.0
 717.0,ornette coleman,1959.0,jazz,0.0,0.0
 4289.0,ornette coleman,1972.0,jazz,0.0,0.0
@@ -1907,12 +1907,12 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 1184.0,nujabes,2003.0,jazz,0.0,0.0
 4314.0,nujabes,2011.0,jazz,0.0,0.0
 739.0,prince,1987.0,rock,38.0,0.0
-899.0,prince,1982.0,funk,38.0,0.0
-1291.0,prince,1980.0,funk,38.0,0.0
-2441.0,prince,1981.0,funk,38.0,0.0
+899.0,prince,1982.0,soul_funk,38.0,0.0
+1291.0,prince,1980.0,soul_funk,38.0,0.0
+2441.0,prince,1981.0,soul_funk,38.0,0.0
 2789.0,prince,1979.0,pop,38.0,0.0
 4093.0,prince,1988.0,rock,38.0,0.0
-4572.0,prince,1978.0,soul,38.0,0.0
+4572.0,prince,1978.0,soul_funk,38.0,0.0
 742.0,nick cave & the bad seeds,2016.0,rock,0.0,0.0
 1024.0,nick cave & the bad seeds,1990.0,rock,0.0,0.0
 1155.0,nick cave & the bad seeds,2013.0,rock,0.0,0.0
@@ -1996,9 +1996,9 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 4343.0,motörhead,1986.0,rock,0.0,0.0
 4755.0,motörhead,1983.0,rock,0.0,0.0
 4761.0,motörhead,1991.0,rock,0.0,0.0
-794.0,curtis mayfield,1972.0,soul,8.0,0.0
-1025.0,curtis mayfield,1970.0,soul,8.0,0.0
-4066.0,curtis mayfield,1971.0,soul,8.0,0.0
+794.0,curtis mayfield,1972.0,soul_funk,8.0,0.0
+1025.0,curtis mayfield,1970.0,soul_funk,8.0,0.0
+4066.0,curtis mayfield,1971.0,soul_funk,8.0,0.0
 796.0,eric dolphy,1964.0,jazz,0.0,0.0
 4464.0,eric dolphy,1961.0,jazz,0.0,0.0
 797.0,father john misty,2015.0,folk,0.0,0.0
@@ -2019,7 +2019,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 803.0,battles,2007.0,rock,0.0,0.0
 1778.0,battles,2011.0,rock,0.0,0.0
 805.0,beyoncé,2016.0,pop,0.0,0.0
-1807.0,beyoncé,2013.0,soul,0.0,0.0
+1807.0,beyoncé,2013.0,soul_funk,0.0,0.0
 3782.0,beyoncé,2011.0,pop,0.0,0.0
 4448.0,beyoncé,2008.0,pop,0.0,0.0
 4642.0,beyoncé,2003.0,pop,0.0,0.0
@@ -2038,7 +2038,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 2888.0,paul simon,1972.0,rock,0.0,0.0
 822.0,weatherday,2019.0,rock,0.0,0.0
 829.0,ariana grande,2019.0,pop,0.0,0.0
-1330.0,ariana grande,2018.0,soul,0.0,0.0
+1330.0,ariana grande,2018.0,soul_funk,0.0,0.0
 1916.0,ariana grande,2020.0,pop,0.0,0.0
 2161.0,ariana grande,2016.0,pop,0.0,0.0
 3513.0,ariana grande,2014.0,pop,0.0,0.0
@@ -2047,8 +2047,8 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 831.0,alt-j,2012.0,pop,0.0,0.0
 2330.0,alt-j,2014.0,pop,0.0,0.0
 3288.0,alt-j,2017.0,pop,0.0,0.0
-832.0,kali uchis,2018.0,soul,0.0,0.0
-3536.0,kali uchis,2020.0,soul,0.0,0.0
+832.0,kali uchis,2018.0,soul_funk,0.0,0.0
+3536.0,kali uchis,2020.0,soul_funk,0.0,0.0
 834.0,ミドリ [midori],2008.0,rock,0.0,0.0
 4306.0,ミドリ [midori],2010.0,rock,0.0,0.0
 4543.0,ミドリ [midori],2007.0,rock,0.0,0.0
@@ -2068,8 +2068,8 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 1310.0,st. vincent,2017.0,pop,0.0,0.0
 1557.0,st. vincent,2021.0,rock,0.0,0.0
 2043.0,st. vincent,2007.0,pop,0.0,0.0
-848.0,d'angelo,2000.0,soul,0.0,0.0
-1829.0,d'angelo,1995.0,soul,0.0,0.0
+848.0,d'angelo,2000.0,soul_funk,0.0,0.0
+1829.0,d'angelo,1995.0,soul_funk,0.0,0.0
 850.0,tortoise,1996.0,rock,0.0,0.0
 971.0,tortoise,1998.0,rock,0.0,0.0
 4527.0,tortoise,1994.0,rock,0.0,0.0
@@ -2107,12 +2107,12 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 876.0,soft machine,1970.0,rock,0.0,0.0
 878.0,king geedorah,2003.0,hip-hop,0.0,0.0
 881.0,mort garson,1976.0,pop,0.0,0.0
-882.0,genesis owusu,2021.0,soul,0.0,0.0
+882.0,genesis owusu,2021.0,soul_funk,0.0,0.0
 885.0,the brave little abacus,2010.0,rock,0.0,0.0
 1747.0,the brave little abacus,2009.0,rock,0.0,0.0
-887.0,sly & the family stone,1971.0,soul,0.0,0.0
-1359.0,sly & the family stone,1969.0,soul,0.0,0.0
-4249.0,sly & the family stone,1973.0,soul,0.0,0.0
+887.0,sly & the family stone,1971.0,soul_funk,0.0,0.0
+1359.0,sly & the family stone,1969.0,soul_funk,0.0,0.0
+4249.0,sly & the family stone,1973.0,soul_funk,0.0,0.0
 888.0,melvins,1993.0,metal,0.0,0.0
 1959.0,melvins,1991.0,metal,0.0,0.0
 2501.0,melvins,1992.0,metal,0.0,0.0
@@ -2143,9 +2143,9 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 1879.0,the war on drugs,2017.0,rock,0.0,0.0
 4215.0,the war on drugs,2011.0,rock,0.0,0.0
 4695.0,the war on drugs,2021.0,rock,0.0,0.0
-914.0,thundercat,2017.0,soul,0.0,0.0
-1698.0,thundercat,2020.0,soul,0.0,0.0
-4321.0,thundercat,2013.0,soul,0.0,0.0
+914.0,thundercat,2017.0,soul_funk,0.0,0.0
+1698.0,thundercat,2020.0,soul_funk,0.0,0.0
+4321.0,thundercat,2013.0,soul_funk,0.0,0.0
 916.0,j. cole,2014.0,hip-hop,0.0,0.0
 1423.0,j. cole,2018.0,hip-hop,0.0,0.0
 1745.0,j. cole,2016.0,hip-hop,0.0,0.0
@@ -2254,7 +2254,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 1696.0,bathory,1990.0,metal,0.0,0.0
 2663.0,bathory,1985.0,metal,0.0,0.0
 3839.0,bathory,1991.0,metal,0.0,0.0
-1028.0,jai paul,2019.0,soul,0.0,0.0
+1028.0,jai paul,2019.0,soul_funk,0.0,0.0
 1031.0,future,2015.0,hip-hop,0.0,0.0
 2954.0,future,2017.0,hip-hop,0.0,0.0
 3005.0,future,2017.0,pop,0.0,0.0
@@ -2433,7 +2433,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 1140.0,courtney barnett,2015.0,rock,0.0,0.0
 2744.0,courtney barnett,2018.0,rock,0.0,0.0
 1143.0,big l,1995.0,hip-hop,0.0,0.0
-1147.0,otis redding,1965.0,soul,5.0,0.0
+1147.0,otis redding,1965.0,soul_funk,5.0,0.0
 1150.0,supertramp,1979.0,rock,0.0,0.0
 1497.0,supertramp,1974.0,rock,0.0,0.0
 3734.0,supertramp,1977.0,rock,0.0,0.0
@@ -2514,13 +2514,13 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 2099.0,paramore,2009.0,rock,0.0,0.0
 2215.0,paramore,2013.0,rock,0.0,0.0
 3190.0,paramore,2005.0,rock,0.0,0.0
-1216.0,solange,2016.0,soul,0.0,0.0
+1216.0,solange,2016.0,soul_funk,0.0,0.0
 1272.0,solange,2019.0,pop,0.0,0.0
 1217.0,big k.r.i.t.,2017.0,hip-hop,0.0,0.0
 4045.0,big k.r.i.t.,2011.0,hip-hop,0.0,0.0
 4824.0,big k.r.i.t.,2010.0,hip-hop,0.0,0.0
 1220.0,yung lean,2020.0,hip-hop,0.0,0.0
-1905.0,yung lean,2017.0,soul,0.0,0.0
+1905.0,yung lean,2017.0,soul_funk,0.0,0.0
 1984.0,yung lean,2014.0,hip-hop,0.0,0.0
 2297.0,yung lean,2016.0,hip-hop,0.0,0.0
 1223.0,between the buried and me,2007.0,metal,0.0,0.0
@@ -2546,8 +2546,8 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 2463.0,cynic,2008.0,metal,0.0,0.0
 1258.0,george clanton,2018.0,pop,0.0,0.0
 4912.0,george clanton,2015.0,electronic,0.0,0.0
-1259.0,parliament,1975.0,funk,0.0,0.0
-3498.0,parliament,1977.0,funk,0.0,0.0
+1259.0,parliament,1975.0,soul_funk,0.0,0.0
+3498.0,parliament,1977.0,soul_funk,0.0,0.0
 1262.0,van der graaf generator,1971.0,rock,0.0,0.0
 2153.0,van der graaf generator,1970.0,rock,0.0,0.0
 2377.0,van der graaf generator,1975.0,rock,0.0,0.0
@@ -2633,7 +2633,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 3651.0,mercury rev,1993.0,rock,0.0,0.0
 1347.0,twenty øne piløts,2015.0,pop,0.0,0.0
 1502.0,twenty øne piløts,2018.0,pop,0.0,0.0
-1348.0,joji,2018.0,soul,0.0,0.0
+1348.0,joji,2018.0,soul_funk,0.0,0.0
 1783.0,joji,2020.0,pop,0.0,0.0
 1349.0,women,2010.0,rock,0.0,0.0
 4034.0,women,2008.0,rock,0.0,0.0
@@ -2763,7 +2763,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 3356.0,marilyn manson,1994.0,rock,0.0,0.0
 4789.0,marilyn manson,2015.0,rock,0.0,0.0
 4872.0,marilyn manson,2007.0,rock,0.0,0.0
-1455.0,lianne la havas,2020.0,soul,0.0,0.0
+1455.0,lianne la havas,2020.0,soul_funk,0.0,0.0
 1456.0,big thief,2019.0,folk,0.0,0.0
 1551.0,big thief,2022.0,rock,0.0,0.0
 2179.0,big thief,2019.0,rock,0.0,0.0
@@ -2792,7 +2792,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 1488.0,at the gates,1995.0,metal,0.0,0.0
 3412.0,at the gates,1992.0,metal,0.0,0.0
 1490.0,sewerslvt,2020.0,electronic,0.0,0.0
-1491.0,isaac hayes,1969.0,soul,0.0,0.0
+1491.0,isaac hayes,1969.0,soul_funk,0.0,0.0
 1492.0,mercyful fate,1984.0,metal,0.0,0.0
 1571.0,mercyful fate,1983.0,metal,0.0,0.0
 1493.0,tori amos,1992.0,rock,0.0,0.0
@@ -2827,13 +2827,13 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 1523.0,magazine,1978.0,rock,0.0,0.0
 1527.0,jesu,2004.0,rock,0.0,0.0
 3622.0,jesu,2007.0,rock,0.0,0.0
-1528.0,sampha,2017.0,soul,0.0,0.0
+1528.0,sampha,2017.0,soul_funk,0.0,0.0
 1529.0,post malone,2018.0,pop,0.0,0.0
 2345.0,post malone,2016.0,pop,0.0,0.0
 2593.0,post malone,2019.0,pop,0.0,0.0
 1530.0,blood orange,2018.0,pop,0.0,0.0
-2889.0,blood orange,2016.0,soul,0.0,0.0
-3455.0,blood orange,2013.0,soul,0.0,0.0
+2889.0,blood orange,2016.0,soul_funk,0.0,0.0
+3455.0,blood orange,2013.0,soul_funk,0.0,0.0
 1538.0,mgła,2015.0,metal,0.0,0.0
 3221.0,mgła,2012.0,metal,0.0,0.0
 3613.0,mgła,2019.0,metal,0.0,0.0
@@ -2872,9 +2872,9 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 4407.0,chelsea wolfe,2019.0,folk,0.0,0.0
 1578.0,chuck person,2010.0,electronic,0.0,0.0
 1579.0,nina simone,1965.0,blues,0.0,0.0
-3193.0,nina simone,1966.0,soul,0.0,0.0
+3193.0,nina simone,1966.0,soul_funk,0.0,0.0
 3801.0,nina simone,1959.0,jazz,0.0,0.0
-4242.0,nina simone,1965.0,soul,0.0,0.0
+4242.0,nina simone,1965.0,soul_funk,0.0,0.0
 4954.0,nina simone,1967.0,blues,0.0,0.0
 1582.0,cannonball adderley,1958.0,jazz,0.0,0.0
 1584.0,mission of burma,1982.0,rock,0.0,0.0
@@ -2935,8 +2935,8 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 4344.0,current 93,1994.0,folk,0.0,0.0
 4878.0,current 93,2018.0,folk,0.0,0.0
 1653.0,elvis presley,1956.0,rock,4.0,21.0
-4784.0,elvis presley,1969.0,soul,4.0,21.0
-1658.0,rihanna,2016.0,soul,0.0,0.0
+4784.0,elvis presley,1969.0,soul_funk,4.0,21.0
+1658.0,rihanna,2016.0,soul_funk,0.0,0.0
 3956.0,rihanna,2007.0,pop,0.0,0.0
 4056.0,rihanna,2010.0,pop,0.0,0.0
 1660.0,mar1lyn man5on,1998.0,rock,0.0,0.0
@@ -2997,7 +2997,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 2541.0,iceage,2018.0,rock,0.0,0.0
 3022.0,iceage,2011.0,rock,0.0,0.0
 3783.0,iceage,2021.0,rock,0.0,0.0
-1715.0,gil scott-heron,1971.0,soul,0.0,0.0
+1715.0,gil scott-heron,1971.0,soul_funk,0.0,0.0
 1718.0,adrianne lenker,2020.0,folk,0.0,0.0
 1720.0,the offspring,1998.0,rock,0.0,0.0
 3382.0,the offspring,1997.0,rock,0.0,0.0
@@ -3085,8 +3085,8 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 3304.0,in flames,2006.0,metal,0.0,0.0
 3784.0,in flames,2002.0,metal,0.0,0.0
 4372.0,in flames,2004.0,metal,0.0,0.0
-1815.0,aretha franklin,1967.0,soul,44.0,1.0
-2440.0,aretha franklin,1968.0,soul,44.0,1.0
+1815.0,aretha franklin,1967.0,soul_funk,44.0,1.0
+2440.0,aretha franklin,1968.0,soul_funk,44.0,1.0
 1821.0,jim o'rourke,1999.0,pop,0.0,0.0
 2534.0,jim o'rourke,2001.0,rock,0.0,0.0
 3945.0,jim o'rourke,1997.0,folk,0.0,0.0
@@ -3244,9 +3244,9 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 2010.0,the angels of light,2001.0,rock,0.0,0.0
 2012.0,bohren & der club of gore,2002.0,jazz,0.0,0.0
 2077.0,bohren & der club of gore,2000.0,jazz,0.0,0.0
-2013.0,erykah badu,1997.0,soul,0.0,0.0
-2111.0,erykah badu,2000.0,soul,0.0,0.0
-4591.0,erykah badu,2008.0,soul,0.0,0.0
+2013.0,erykah badu,1997.0,soul_funk,0.0,0.0
+2111.0,erykah badu,2000.0,soul_funk,0.0,0.0
+4591.0,erykah badu,2008.0,soul_funk,0.0,0.0
 2016.0,paul mccartney,1970.0,rock,0.0,0.0
 3270.0,paul mccartney,1980.0,rock,0.0,0.0
 3858.0,paul mccartney,2005.0,rock,0.0,0.0
@@ -3362,7 +3362,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 2162.0,cardi b,2018.0,hip-hop,0.0,0.0
 2163.0,todd rundgren,1973.0,rock,0.0,0.0
 2391.0,todd rundgren,1972.0,rock,0.0,0.0
-2166.0,kaytranada,2016.0,soul,0.0,0.0
+2166.0,kaytranada,2016.0,soul_funk,0.0,0.0
 2167.0,jackboys & travis scott,2019.0,pop,0.0,0.0
 2169.0,uboa,2019.0,electronic,0.0,0.0
 2172.0,ugk,1996.0,hip-hop,0.0,0.0
@@ -3458,7 +3458,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 4207.0,testament,1989.0,metal,0.0,0.0
 2278.0,ka,2020.0,hip-hop,0.0,0.0
 2575.0,ka,2016.0,hip-hop,0.0,0.0
-2280.0,kelela,2017.0,soul,0.0,0.0
+2280.0,kelela,2017.0,soul_funk,0.0,0.0
 2281.0,orchestral manœuvres in the dark,1981.0,electronic,0.0,0.0
 2287.0,twenty one pilots,2013.0,pop,0.0,0.0
 3603.0,twenty one pilots,2021.0,pop,0.0,0.0
@@ -3577,7 +3577,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 2437.0,beat happening,1992.0,rock,0.0,0.0
 3153.0,beat happening,1985.0,rock,0.0,0.0
 3838.0,beat happening,1988.0,rock,0.0,0.0
-2438.0,gnarls barkley,2006.0,soul,0.0,0.0
+2438.0,gnarls barkley,2006.0,soul_funk,0.0,0.0
 2442.0,dirty three,1998.0,rock,0.0,0.0
 4365.0,dirty three,1996.0,rock,0.0,0.0
 2443.0,buffalo springfield,1967.0,rock,0.0,0.0
@@ -3649,7 +3649,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 2523.0,run-d.m.c.,1986.0,hip-hop,0.0,0.0
 4236.0,run-d.m.c.,1984.0,hip-hop,0.0,0.0
 2524.0,the fall of troy,2005.0,rock,0.0,0.0
-2525.0,standing on the corner,2017.0,soul,0.0,0.0
+2525.0,standing on the corner,2017.0,soul_funk,0.0,0.0
 4847.0,standing on the corner,2016.0,pop,0.0,0.0
 2526.0,mad season,1995.0,rock,0.0,0.0
 2528.0,two door cinema club,2010.0,pop,0.0,0.0
@@ -3765,12 +3765,12 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 2928.0,fontaines d.c.,2020.0,rock,0.0,0.0
 2693.0,sebadoh,1994.0,rock,0.0,0.0
 2694.0,moor mother & billy woods,2020.0,hip-hop,0.0,0.0
-2700.0,jorge ben,1970.0,soul,0.0,0.0
-3029.0,jorge ben,1976.0,funk,0.0,0.0
+2700.0,jorge ben,1970.0,soul_funk,0.0,0.0
+3029.0,jorge ben,1976.0,soul_funk,0.0,0.0
 2701.0,bell witch,2017.0,metal,0.0,0.0
 2703.0,negură bunget,2006.0,metal,0.0,0.0
 2707.0,파란노을 [parannoul] / asian glow / sonhos tomam conta,2021.0,rock,0.0,0.0
-2708.0,michael kiwanuka,2019.0,soul,0.0,0.0
+2708.0,michael kiwanuka,2019.0,soul_funk,0.0,0.0
 2711.0,waka flocka flame,2010.0,hip-hop,0.0,0.0
 2715.0,ryan adams,2000.0,country,0.0,0.0
 3887.0,ryan adams,2001.0,rock,0.0,0.0
@@ -3798,7 +3798,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 3960.0,johnny cash,1957.0,rock,35.0,0.0
 4674.0,johnny cash,1996.0,country,35.0,0.0
 4853.0,johnny cash,2006.0,country,35.0,0.0
-2743.0,"bladee, ecco2k & thaiboy digital",2017.0,soul,0.0,0.0
+2743.0,"bladee, ecco2k & thaiboy digital",2017.0,soul_funk,0.0,0.0
 2747.0,bat for lashes,2009.0,pop,0.0,0.0
 4171.0,bat for lashes,2006.0,pop,0.0,0.0
 4921.0,bat for lashes,2012.0,pop,0.0,0.0
@@ -3894,7 +3894,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 2894.0,공중도덕,2015.0,pop,0.0,0.0
 2897.0,yeule,2019.0,pop,0.0,0.0
 3051.0,yeule,2022.0,pop,0.0,0.0
-2900.0,teyana taylor,2018.0,soul,0.0,0.0
+2900.0,teyana taylor,2018.0,soul_funk,0.0,0.0
 2902.0,the future sound of london,1994.0,electronic,0.0,0.0
 3711.0,the future sound of london,1996.0,electronic,0.0,0.0
 2905.0,thee oh sees,2013.0,rock,0.0,0.0
@@ -3909,7 +3909,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 4737.0,amon amarth,2002.0,metal,0.0,0.0
 2918.0,deicide,1990.0,metal,0.0,0.0
 3450.0,deicide,1992.0,metal,0.0,0.0
-2922.0,young fathers,2018.0,soul,0.0,0.0
+2922.0,young fathers,2018.0,soul_funk,0.0,0.0
 2924.0,hermit and the recluse,2018.0,hip-hop,0.0,0.0
 2925.0,little richard,1957.0,rock,0.0,0.0
 2926.0,richard & linda thompson,1974.0,rock,0.0,0.0
@@ -3947,7 +3947,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 3751.0,devin townsend,2007.0,metal,0.0,0.0
 2973.0,swirlies,1996.0,rock,0.0,0.0
 3630.0,swirlies,1993.0,rock,0.0,0.0
-2976.0,bruno mars,2016.0,soul,0.0,0.0
+2976.0,bruno mars,2016.0,soul_funk,0.0,0.0
 4361.0,bruno mars,2010.0,pop,0.0,0.0
 2981.0,mötley crüe,1983.0,metal,0.0,0.0
 3644.0,mötley crüe,1989.0,rock,0.0,0.0
@@ -4033,9 +4033,9 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 3152.0,fantômas,2001.0,rock,0.0,0.0
 3154.0,norah jones,2002.0,pop,0.0,0.0
 3156.0,toro y moi,2010.0,electronic,0.0,0.0
-4212.0,toro y moi,2019.0,soul,0.0,0.0
+4212.0,toro y moi,2019.0,soul_funk,0.0,0.0
 4308.0,toro y moi,2011.0,rock,0.0,0.0
-4837.0,toro y moi,2013.0,soul,0.0,0.0
+4837.0,toro y moi,2013.0,soul_funk,0.0,0.0
 3158.0,souls of mischief,1993.0,jazz,0.0,0.0
 3161.0,fax gang,2021.0,hip-hop,0.0,0.0
 3167.0,cindy lee,2020.0,pop,0.0,0.0
@@ -4067,11 +4067,11 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 4782.0,lovesliescrushing,1996.0,rock,0.0,0.0
 3243.0,神聖かまってちゃん [shinsei kamattechan],2010.0,rock,0.0,0.0
 3251.0,the dream syndicate,1982.0,pop,0.0,0.0
-3254.0,saint pepsi,2013.0,funk,0.0,0.0
+3254.0,saint pepsi,2013.0,soul_funk,0.0,0.0
 3255.0,klaxons,2007.0,rock,0.0,0.0
-3259.0,al green,1972.0,soul,21.0,0.0
-3287.0,al green,1973.0,soul,21.0,0.0
-4031.0,al green,1972.0,soul,21.0,0.0
+3259.0,al green,1972.0,soul_funk,21.0,0.0
+3287.0,al green,1973.0,soul_funk,21.0,0.0
+4031.0,al green,1972.0,soul_funk,21.0,0.0
 3260.0,jaden,2017.0,pop,0.0,0.0
 3262.0,no age,2008.0,rock,0.0,0.0
 3265.0,alice coltrane,1970.0,jazz,0.0,0.0
@@ -4166,7 +4166,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 3431.0,better oblivion community center,2019.0,rock,0.0,0.0
 3434.0,arlo parks,2021.0,pop,0.0,0.0
 3436.0,cyndi lauper,1983.0,rock,0.0,0.0
-3438.0,sturgill simpson,2016.0,soul,0.0,0.0
+3438.0,sturgill simpson,2016.0,soul_funk,0.0,0.0
 3439.0,mutantes,1970.0,rock,0.0,0.0
 4544.0,mutantes,1969.0,rock,0.0,0.0
 3442.0,mewithoutyou,2006.0,rock,0.0,0.0
@@ -4189,7 +4189,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 3462.0,ben frost,2014.0,electronic,0.0,0.0
 4189.0,ben frost,2009.0,electronic,0.0,0.0
 3465.0,foxtails,2022.0,rock,0.0,0.0
-3468.0,aaliyah,2001.0,soul,0.0,0.0
+3468.0,aaliyah,2001.0,soul_funk,0.0,0.0
 3470.0,animals as leaders,2009.0,metal,0.0,0.0
 4705.0,animals as leaders,2014.0,metal,0.0,0.0
 3472.0,swell maps,1980.0,rock,0.0,0.0
@@ -4266,7 +4266,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 3601.0,kashiwa daisuke,2007.0,electronic,0.0,0.0
 3602.0,planning for burial,2017.0,rock,0.0,0.0
 3609.0,city of caterpillar,2002.0,rock,0.0,0.0
-3616.0,chloe x halle,2020.0,soul,0.0,0.0
+3616.0,chloe x halle,2020.0,soul_funk,0.0,0.0
 3619.0,the gathering,1995.0,metal,0.0,0.0
 3623.0,baths,2010.0,pop,0.0,0.0
 4104.0,baths,2013.0,pop,0.0,0.0
@@ -4347,7 +4347,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 3778.0,circle takes the square,2004.0,rock,0.0,0.0
 3786.0,avey tare,2019.0,rock,0.0,0.0
 3788.0,brainbombs,1995.0,rock,0.0,0.0
-3792.0,nxworries,2016.0,soul,0.0,0.0
+3792.0,nxworries,2016.0,soul_funk,0.0,0.0
 3793.0,waxahatchee,2020.0,country,0.0,0.0
 3794.0,crywank,2013.0,folk,0.0,0.0
 3795.0,magnetic fields,1994.0,pop,0.0,0.0
@@ -4375,7 +4375,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 3844.0,glass animals,2016.0,pop,0.0,0.0
 3845.0,broken bells,2010.0,pop,0.0,0.0
 3846.0,justice,2011.0,rock,0.0,0.0
-3847.0,daniel caesar,2017.0,soul,0.0,0.0
+3847.0,daniel caesar,2017.0,soul_funk,0.0,0.0
 3848.0,pale saints,1990.0,rock,0.0,0.0
 3849.0,kings of convenience,2004.0,pop,0.0,0.0
 3850.0,calvin harris,2017.0,pop,0.0,0.0
@@ -4390,14 +4390,14 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 3966.0,panopticon,2015.0,metal,0.0,0.0
 4360.0,panopticon,2014.0,metal,0.0,0.0
 3868.0,midlake,2006.0,rock,0.0,0.0
-3870.0,shuggie otis,1974.0,soul,0.0,0.0
+3870.0,shuggie otis,1974.0,soul_funk,0.0,0.0
 3871.0,warren zevon,1978.0,rock,0.0,0.0
 3874.0,zeal and ardor,2018.0,metal,0.0,0.0
 3875.0,imperial triumphant,2020.0,metal,0.0,0.0
 3876.0,julian casablancas + the voidz,2014.0,rock,0.0,0.0
 3878.0,owen pallett,2010.0,pop,0.0,0.0
 3879.0,oliver nelson,1961.0,jazz,0.0,0.0
-3880.0,james brown,1973.0,soul,8.0,0.0
+3880.0,james brown,1973.0,soul_funk,8.0,0.0
 3886.0,royal trux,1990.0,rock,0.0,0.0
 3889.0,quelle chris & chris keys,2020.0,jazz,0.0,0.0
 3895.0,cecil taylor,1966.0,jazz,0.0,0.0
@@ -4453,8 +4453,8 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 4047.0,dennis wilson,1977.0,rock,0.0,0.0
 4048.0,thrice,2003.0,rock,0.0,0.0
 4126.0,thrice,2005.0,rock,0.0,0.0
-4051.0,the internet,2015.0,soul,0.0,0.0
-4771.0,the internet,2018.0,soul,0.0,0.0
+4051.0,the internet,2015.0,soul_funk,0.0,0.0
+4771.0,the internet,2018.0,soul_funk,0.0,0.0
 4052.0,bad company,1974.0,rock,0.0,0.0
 4053.0,rapeman,1988.0,rock,0.0,0.0
 4054.0,dungen,2004.0,rock,0.0,0.0
@@ -4551,7 +4551,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 4270.0,pelican,2005.0,metal,0.0,0.0
 4676.0,pelican,2003.0,metal,0.0,0.0
 4271.0,show me the body,2019.0,rock,0.0,0.0
-4272.0,erika de casier,2021.0,soul,0.0,0.0
+4272.0,erika de casier,2021.0,soul_funk,0.0,0.0
 4273.0,l'rain,2021.0,rock,0.0,0.0
 4274.0,sun-ra and his astro infinity arkestra,1969.0,jazz,0.0,0.0
 4276.0,budgie,1973.0,rock,0.0,0.0
@@ -4629,7 +4629,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 4468.0,rudimentary peni,1983.0,rock,0.0,0.0
 4470.0,nujabes / fat jon,2004.0,hip-hop,0.0,0.0
 4471.0,emeralds,2010.0,electronic,0.0,0.0
-4472.0,jorja smith,2018.0,soul,0.0,0.0
+4472.0,jorja smith,2018.0,soul_funk,0.0,0.0
 4473.0,the drums,2011.0,pop,0.0,0.0
 4474.0,trust,2012.0,electronic,0.0,0.0
 4475.0,these new puritans,2013.0,rock,0.0,0.0
@@ -4723,9 +4723,9 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 4697.0,creed,1999.0,rock,0.0,0.0
 4699.0,ke\$ha,2010.0,pop,0.0,0.0
 4700.0,jay som,2019.0,rock,0.0,0.0
-4702.0,james carr,1967.0,soul,0.0,0.0
+4702.0,james carr,1967.0,soul_funk,0.0,0.0
 4703.0,russian circles,2006.0,rock,0.0,0.0
-4707.0,bill withers,1971.0,soul,0.0,0.0
+4707.0,bill withers,1971.0,soul_funk,0.0,0.0
 4712.0,monster magnet,1995.0,rock,0.0,0.0
 4713.0,steve hackett,1975.0,rock,0.0,0.0
 4714.0,teen suicide,2012.0,rock,0.0,0.0
@@ -4785,7 +4785,7 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 4834.0,redman,1992.0,hip-hop,0.0,0.0
 4836.0,ahab,2006.0,metal,0.0,0.0
 4841.0,spk,1982.0,electronic,0.0,0.0
-4843.0,dexys midnight runners,1980.0,soul,0.0,0.0
+4843.0,dexys midnight runners,1980.0,soul_funk,0.0,0.0
 4844.0,banco del mutuo soccorso,1972.0,rock,0.0,0.0
 4850.0,ella fitzgerald & louis armstrong,1956.0,jazz,0.0,0.0
 4851.0,mc5,1970.0,rock,0.0,0.0
@@ -4811,12 +4811,12 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 4907.0,wings,1975.0,rock,0.0,0.0
 4911.0,whitehouse,2003.0,electronic,0.0,0.0
 4913.0,alexander spence,1969.0,folk,0.0,0.0
-4914.0,baby huey,1971.0,soul,0.0,0.0
+4914.0,baby huey,1971.0,soul_funk,0.0,0.0
 4916.0,clifford brown and max roach,1954.0,jazz,0.0,0.0
 4917.0,elis regina & antônio carlos jobim,1974.0,jazz,0.0,0.0
 4920.0,spiritualized electric mainline,1995.0,rock,0.0,0.0
 4922.0,young thug & young stoner life recordsyoung thugyoung stoner life,2018.0,pop,0.0,0.0
-4926.0,hiatus kaiyote,2015.0,soul,0.0,0.0
+4926.0,hiatus kaiyote,2015.0,soul_funk,0.0,0.0
 4930.0,melanie martinez,2015.0,pop,0.0,0.0
 4931.0,sia,2014.0,pop,0.0,0.0
 4932.0,peter bjorn and john,2006.0,pop,0.0,0.0
@@ -4838,31 +4838,31 @@ popular_ranking,artist_name,release_date,genre,total_awards_nominations,uk numbe
 4971.0,leviathan,2015.0,metal,0.0,0.0
 4974.0,perfume,2009.0,pop,0.0,0.0
 4976.0,jack stauber,2017.0,pop,0.0,0.0
-4982.0,terry callier,1972.0,soul,0.0,0.0
+4982.0,terry callier,1972.0,soul_funk,0.0,0.0
 4988.0,doopees,1995.0,pop,0.0,0.0
 4991.0,tigers jaw,2008.0,rock,0.0,0.0
 4996.0,eluvium,2007.0,electronic,0.0,0.0
 4999.0,third ear band,1970.0,folk,0.0,0.0
 0.0,chuck berry,1950.0,rock,0.0,1.0
 0.0,jimi hendrix,1960.0,rock,1.0,0.0
-0.0,ray charles,1960.0,soul,37.0,1.0
+0.0,ray charles,1960.0,soul_funk,37.0,1.0
 0.0,beach boys,1960.0,rock,4.0,2.0
-0.0,sam cooke,1960.0,soul,6.0,0.0
+0.0,sam cooke,1960.0,soul_funk,6.0,0.0
 0.0,muddy waters,1950.0,blues,11.0,0.0
 0.0,bo diddley,1960.0,blues,2.0,0.0
 0.0,jerry lee lewis,1950.0,blues,3.0,0.0
-0.0,smokey robinson & the miracles,1960.0,soul,1.0,0.0
+0.0,smokey robinson & the miracles,1960.0,soul_funk,1.0,0.0
 0.0,everly brothers,1960.0,rock,4.0,4.0
 0.0,roy orbison,1950.0,rock,9.0,3.0
 0.0,howlin' wolf,1950.0,rock,3.0,0.0
 0.0,tina turner,1980.0,rock,25.0,0.0
 0.0,phil spector,1960.0,rock,3.0,0.0
-0.0,the temptations,1970.0,soul,9.0,0.0
-0.0,jackie wilson,1960.0,soul,2.0,0.0
+0.0,the temptations,1970.0,soul_funk,9.0,0.0
+0.0,jackie wilson,1960.0,soul_funk,2.0,0.0
 0.0,the eagles,1970.0,rock,18.0,0.0
-0.0,the four tops,1960.0,soul,1.0,1.0
-0.0,the drifters,1960.0,soul,1.0,0.0
+0.0,the four tops,1960.0,soul_funk,1.0,1.0
+0.0,the drifters,1960.0,soul_funk,1.0,0.0
 0.0,james taylor,1970.0,folk,18.0,0.0
-0.0,booker t & the mg's,1960.0,soul,4.0,0.0
-0.0,diana ross and the supremes,1970.0,soul,2.0,1.0
+0.0,booker t & the mg's,1960.0,soul_funk,4.0,0.0
+0.0,diana ross and the supremes,1970.0,soul_funk,2.0,1.0
 0.0,carl perkins,1950.0,rock,2.0,0.0
